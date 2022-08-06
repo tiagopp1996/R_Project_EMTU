@@ -1,0 +1,3437 @@
+Mes;Região;Empresa;Manifestacao;Item;Quantidade
+01/2021;RMSP;ABC;Reclamação;Direção Perigosa;2
+01/2021;RMSP;ABC;Reclamação;Horário;1
+01/2021;RMSP;ABC;Reclamação;Tripulação/Funcionário;1
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Atendimento;1
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Direção Perigosa;1
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;7
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;1
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Mau Atendimento ao Idoso;2
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;1
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;6
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;6
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;6
+01/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;4
+01/2021;RMVPLN;ABC TRANSPORTES;Reclamação;Horário;1
+01/2021;RMSP;ANHANGUERA;Elogio;Atendimento;3
+01/2021;RMSP;ANHANGUERA;Informação;Horário;4
+01/2021;RMSP;ANHANGUERA;Informação;Itinerário;1
+01/2021;RMSP;ANHANGUERA;Informação;Serviços;9
+01/2021;RMSP;ANHANGUERA;Informação;Vale-Transporte;1
+01/2021;RMSP;ANHANGUERA;Reclamação;Atendimento;1
+01/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;9
+01/2021;RMSP;ANHANGUERA;Reclamação;Horário;40
+01/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;18
+01/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;4
+01/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;10
+01/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;2
+01/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;30
+01/2021;RMSP;ANHANGUERA;Reclamação;Veículo;3
+01/2021;RMSP;ANHANGUERA;Sugestão;Horário;1
+01/2021;RMSP;ANHANGUERA;Sugestão;Itinerário;1
+01/2021;RMSP;ANHANGUERA;Sugestão;Terminal;1
+01/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Denúncia;Terminal;1
+01/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Horário;2
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Horário;1
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;4
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;5
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;19
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;15
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;5
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;3
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;5
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Terminal;1
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;14
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;2
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Itinerário;2
+01/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Veículo;1
+01/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Serviços;1
+01/2021;RMC;BUS(Mais);Informação;Horário;1
+01/2021;RMC;BUS(Mais);Informação;Serviços;8
+01/2021;RMC;BUS(Mais);Informação;Vale-Transporte;2
+01/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;4
+01/2021;RMC;BUS(Mais);Reclamação;Horário;66
+01/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;2
+01/2021;RMC;BUS(Mais);Reclamação;Itinerário;5
+01/2021;RMC;BUS(Mais);Reclamação;Superlotação;4
+01/2021;RMC;BUS(Mais);Reclamação;Terminal;1
+01/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;16
+01/2021;RMC;BUS(Mais);Reclamação;Veículo;2
+01/2021;RMSP;CMT;Informação;Passe Escolar;7
+01/2021;RMSP;CMT;Informação;Passe Idoso;16
+01/2021;RMSP;CMT;Informação;Serviços;102
+01/2021;RMSP;CMT;Informação;Vale-Transporte;79
+01/2021;RMSP;CMT;Reclamação;Atendimento;3
+01/2021;RMSP;CMT;Reclamação;Integração;3
+01/2021;RMSP;CMT;Reclamação;Passe Escolar;1
+01/2021;RMSP;CMT;Reclamação;Tarifa;1
+01/2021;RMSP;CMT;Reclamação;Vale-Transporte;4
+01/2021;RMSP;CMT;Sugestão;Serviços;1
+01/2021;RMSP;EAOSA;Reclamação;Direção Perigosa;1
+01/2021;RMSP;EAOSA;Reclamação;Horário;6
+01/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;2
+01/2021;RMSP;EAOSA;Reclamação;Veículo;1
+01/2021;RMSP;EMTU;Denúncia;Serviços;1
+01/2021;RMC;EMTU;Elogio;Atendimento;1
+01/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;69
+01/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;9
+01/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;6
+01/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;2
+01/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;2
+01/2021;RMSP;EMTU;Informação;Horário;9
+01/2021;RMBS;EMTU;Informação;Horário;2
+01/2021;RMS;EMTU;Informação;Horário;1
+01/2021;RMSP;EMTU;Informação;Integração;10
+01/2021;RMC;EMTU;Informação;Integração;1
+01/2021;RMSP;EMTU;Informação;Itinerário;15
+01/2021;RMC;EMTU;Informação;Itinerário;4
+01/2021;RMBS;EMTU;Informação;Itinerário;1
+01/2021;RMSP;EMTU;Informação;Ligado;1
+01/2021;RMSP;EMTU;Informação;Passe Desempregado;6
+01/2021;RMBS;EMTU;Informação;Passe Desempregado;1
+01/2021;RMSP;EMTU;Informação;Passe Escolar;391
+01/2021;RMBS;EMTU;Informação;Passe Escolar;63
+01/2021;RMS;EMTU;Informação;Passe Escolar;32
+01/2021;RMVPLN;EMTU;Informação;Passe Escolar;22
+01/2021;RMC;EMTU;Informação;Passe Escolar;16
+01/2021;RMSP;EMTU;Informação;Passe Idoso;7
+01/2021;RMBS;EMTU;Informação;Passe Idoso;3
+01/2021;RMSP;EMTU;Informação;Serviços;62
+01/2021;RMC;EMTU;Informação;Serviços;14
+01/2021;RMBS;EMTU;Informação;Serviços;10
+01/2021;RMS;EMTU;Informação;Serviços;4
+01/2021;RMVPLN;EMTU;Informação;Serviços;3
+01/2021;RMSP;EMTU;Informação;Tarifa;6
+01/2021;RMSP;EMTU;Informação;Vale-Transporte;1
+01/2021;RMVPLN;EMTU;Informação;Vale-Transporte;1
+01/2021;RMSP;EMTU;Reclamação;Atendimento;4
+01/2021;RMC;EMTU;Reclamação;Atendimento;1
+01/2021;RMSP;EMTU;Reclamação;Direção Perigosa;7
+01/2021;RMSP;EMTU;Reclamação;Horário;7
+01/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;2
+01/2021;RMSP;EMTU;Reclamação;Itinerário;7
+01/2021;RMBS;EMTU;Reclamação;Itinerário;1
+01/2021;RMS;EMTU;Reclamação;Itinerário;1
+01/2021;RMSP;EMTU;Reclamação;Passageiro Especial;3
+01/2021;RMBS;EMTU;Reclamação;Passe Escolar;2
+01/2021;RMSP;EMTU;Reclamação;Passe Escolar;1
+01/2021;RMC;EMTU;Reclamação;Serviços;1
+01/2021;RMSP;EMTU;Reclamação;Terminal;1
+01/2021;RMC;EMTU;Reclamação;Transporte Irregular;1
+01/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;19
+01/2021;RMSP;EMTU;Sugestão;Horário;42
+01/2021;RMS;EMTU;Sugestão;Horário;8
+01/2021;RMC;EMTU;Sugestão;Horário;3
+01/2021;RMVPLN;EMTU;Sugestão;Horário;3
+01/2021;RMBS;EMTU;Sugestão;Horário;2
+01/2021;RMSP;EMTU;Sugestão;Integração;1
+01/2021;RMSP;EMTU;Sugestão;Itinerário;7
+01/2021;RMSP;EMTU;Sugestão;Serviços;3
+01/2021;RMBS;EMTU;Sugestão;Serviços;1
+01/2021;RMSP;EMTU;Sugestão;Terminal;2
+01/2021;RMSP;EMTU;Sugestão;Veículo;1
+01/2021;RMSP;EUSA;Reclamação;Horário;6
+01/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;1
+01/2021;RMSP;IMIGRANTES;Reclamação;Horário;1
+01/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;2
+01/2021;RMSP;IMIGRANTES;Reclamação;Itinerário;1
+01/2021;RMSP;INTERNORTE;Informação;Itinerário;1
+01/2021;RMSP;INTERNORTE;Informação;Serviços;3
+01/2021;RMSP;INTERNORTE;Reclamação;Atendimento;1
+01/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;5
+01/2021;RMSP;INTERNORTE;Reclamação;Horário;25
+01/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;15
+01/2021;RMSP;INTERNORTE;Reclamação;Passageiro Especial;1
+01/2021;RMSP;INTERNORTE;Reclamação;Serviços;1
+01/2021;RMSP;INTERNORTE;Reclamação;Superlotação;1
+01/2021;RMSP;INTERNORTE;Reclamação;Tarifa;1
+01/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;17
+01/2021;RMSP;INTERNORTE;Reclamação;Veículo;1
+01/2021;RMSP;INTERNORTE;Sugestão;Horário;2
+01/2021;RMSP;INTERVIAS;Elogio;Atendimento;1
+01/2021;RMSP;INTERVIAS;Informação;Horário;2
+01/2021;RMSP;INTERVIAS;Informação;Itinerário;1
+01/2021;RMSP;INTERVIAS;Informação;Serviços;7
+01/2021;RMSP;INTERVIAS;Reclamação;Atendimento;1
+01/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;3
+01/2021;RMSP;INTERVIAS;Reclamação;Horário;39
+01/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;18
+01/2021;RMSP;INTERVIAS;Reclamação;Itinerário;2
+01/2021;RMSP;INTERVIAS;Reclamação;Serviços;2
+01/2021;RMSP;INTERVIAS;Reclamação;Superlotação;7
+01/2021;RMSP;INTERVIAS;Reclamação;Tarifa;1
+01/2021;RMSP;INTERVIAS;Reclamação;Terminal;2
+01/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;37
+01/2021;RMSP;INTERVIAS;Reclamação;Veículo;5
+01/2021;RMSP;INTERVIAS;Sugestão;Veículo;1
+01/2021;RMVPLN;JACAREÍ;Informação;Serviços;1
+01/2021;RMVPLN;JACAREÍ;Reclamação;Horário;1
+01/2021;RMVPLN;JACAREÍ;Reclamação;Tripulação/Funcionário;1
+01/2021;RMVPLN;LITORANEA;Informação;Passe Escolar;1
+01/2021;RMVPLN;LITORANEA;Informação;Vale-Transporte;1
+01/2021;RMVPLN;LITORANEA;Reclamação;Horário;1
+01/2021;RMVPLN;LITORANEA;Reclamação;Superlotação;2
+01/2021;RMVPLN;LITORANEA;Sugestão;Horário;1
+01/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Horário;11
+01/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Tarifa;1
+01/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Tripulação/Funcionário;9
+01/2021;RMVPLN;PASSARO MARRON;Informação;Horário;1
+01/2021;RMVPLN;PASSARO MARRON;Sugestão;Veículo;1
+01/2021;RMSP;PUBLIX;Reclamação;Horário;10
+01/2021;RMSP;PUBLIX;Reclamação;Inobservância de Ponto;1
+01/2021;RMSP;PUBLIX;Reclamação;Superlotação;1
+01/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Passe Escolar;1
+01/2021;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Horário;2
+01/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;9
+01/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;1
+01/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;1
+01/2021;RMSP;RIACHO GRANDE;Reclamação;Veículo;1
+01/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;4
+01/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Inobservância de Ponto;1
+01/2021;RMSP;SÃO CAMILO;Reclamação;Horário;2
+01/2021;RMSP;SÃO CAMILO;Reclamação;Itinerário;1
+01/2021;RMSP;SÃO CAMILO;Reclamação;Mau Atendimento ao Idoso;1
+01/2021;RMSP;TRANS BUS;Informação;Horário;1
+01/2021;RMSP;TRANS BUS;Reclamação;Direção Perigosa;2
+01/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;2
+01/2021;RMSP;TRIÂNGULO;Informação;Serviços;1
+01/2021;RMSP;TRIÂNGULO;Reclamação;Horário;9
+01/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;3
+01/2021;RMSP;TUCURUVI;Reclamação;Tripulação/Funcionário;2
+01/2021;RMSP;UNILESTE;Elogio;Atendimento;1
+01/2021;RMSP;UNILESTE;Informação;Serviços;2
+01/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;4
+01/2021;RMSP;UNILESTE;Reclamação;Horário;25
+01/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;5
+01/2021;RMSP;UNILESTE;Reclamação;Itinerário;3
+01/2021;RMSP;UNILESTE;Reclamação;Mau Atendimento ao Idoso;1
+01/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;15
+01/2021;RMSP;UNILESTE;Reclamação;Veículo;2
+01/2021;RMS;VB TRANSPORTES;Elogio;Atendimento;1
+02/2021;RMSP;ABC;Elogio;Atendimento;1
+02/2021;RMSP;ABC;Informação;Horário;1
+02/2021;RMSP;ABC;Informação;Serviços;2
+02/2021;RMSP;ABC;Reclamação;Horário;1
+02/2021;RMSP;ABC;Reclamação;Inobservância de Ponto;1
+02/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;6
+02/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;2
+02/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;4
+02/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;2
+02/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;4
+02/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;8
+02/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;6
+02/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;6
+02/2021;RMSP;ABC SISTEMA-Metra;Sugestão;Serviços;1
+02/2021;RMVPLN;ABC TRANSPORTES;Informação;Itinerário;1
+02/2021;RMSP;ANHANGUERA;Elogio;Atendimento;1
+02/2021;RMSP;ANHANGUERA;Informação;Itinerário;1
+02/2021;RMSP;ANHANGUERA;Informação;Serviços;9
+02/2021;RMSP;ANHANGUERA;Reclamação;Atendimento;1
+02/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;7
+02/2021;RMSP;ANHANGUERA;Reclamação;Horário;31
+02/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;16
+02/2021;RMSP;ANHANGUERA;Reclamação;Integração;3
+02/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;1
+02/2021;RMSP;ANHANGUERA;Reclamação;Mau Atendimento ao Idoso;2
+02/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;8
+02/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;2
+02/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;36
+02/2021;RMSP;ANHANGUERA;Reclamação;Veículo;4
+02/2021;RMSP;ANHANGUERA;Sugestão;Horário;1
+02/2021;RMSP;ANHANGUERA;Sugestão;Itinerário;1
+02/2021;RMSP;ANHANGUERA;Sugestão;Veículo;1
+02/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Sugestão;Horário;1
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;6
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;13
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;5
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;30
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;9
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Atendimento;1
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;3
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;6
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;12
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Integração;1
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;2
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tarifa;1
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Terminal;1
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;13
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;3
+02/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Horário;1
+02/2021;RMBS;BR MOBILIDADE VLT;Sugestão;Serviços;1
+02/2021;RMC;BUS(Mais);Informação;Itinerário;1
+02/2021;RMC;BUS(Mais);Informação;Passe Escolar;2
+02/2021;RMC;BUS(Mais);Informação;Serviços;8
+02/2021;RMC;BUS(Mais);Informação;Vale-Transporte;2
+02/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;4
+02/2021;RMC;BUS(Mais);Reclamação;Horário;46
+02/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;2
+02/2021;RMC;BUS(Mais);Reclamação;Itinerário;2
+02/2021;RMC;BUS(Mais);Reclamação;Superlotação;7
+02/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;14
+02/2021;RMC;BUS(Mais);Reclamação;Veículo;2
+02/2021;RMC;BUS(Mais);Sugestão;Itinerário;1
+02/2021;RMC;BUS(Mais);Sugestão;Serviços;1
+02/2021;RMSP;CMT;Informação;Carteira Passageiro Especial;1
+02/2021;RMSP;CMT;Informação;Integração;12
+02/2021;RMSP;CMT;Informação;Passe Escolar;54
+02/2021;RMSP;CMT;Informação;Passe Idoso;6
+02/2021;RMSP;CMT;Informação;Serviços;148
+02/2021;RMSP;CMT;Informação;Tarifa;1
+02/2021;RMSP;CMT;Informação;Vale-Transporte;57
+02/2021;RMSP;CMT;Reclamação;Atendimento;3
+02/2021;RMSP;CMT;Reclamação;Integração;9
+02/2021;RMSP;CMT;Reclamação;Passe Escolar;18
+02/2021;RMSP;CMT;Reclamação;Serviços;2
+02/2021;RMSP;CMT;Reclamação;Tarifa;1
+02/2021;RMSP;CMT;Reclamação;Vale-Transporte;1
+02/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;1
+02/2021;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;1
+02/2021;RMS;EMPRESA DE ONIBUS VILA EL;Reclamação;Tripulação/Funcionário;1
+02/2021;RMBS;EMTU;Denúncia;Serviços;1
+02/2021;RMSP;EMTU;Elogio;Atendimento;2
+02/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;120
+02/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;14
+02/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;3
+02/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;3
+02/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;1
+02/2021;RMSP;EMTU;Informação;Horário;8
+02/2021;RMC;EMTU;Informação;Horário;5
+02/2021;RMS;EMTU;Informação;Horário;1
+02/2021;RMBS;EMTU;Informação;Horário;1
+02/2021;RMSP;EMTU;Informação;Integração;26
+02/2021;RMSP;EMTU;Informação;Itinerário;24
+02/2021;RMC;EMTU;Informação;Itinerário;3
+02/2021;RMS;EMTU;Informação;Itinerário;1
+02/2021;RMBS;EMTU;Informação;Itinerário;1
+02/2021;RMVPLN;EMTU;Informação;Itinerário;1
+02/2021;RMSP;EMTU;Informação;Ligado;3
+02/2021;RMSP;EMTU;Informação;Passe Desempregado;4
+02/2021;RMBS;EMTU;Informação;Passe Desempregado;2
+02/2021;RMSP;EMTU;Informação;Passe Escolar;947
+02/2021;RMBS;EMTU;Informação;Passe Escolar;87
+02/2021;RMVPLN;EMTU;Informação;Passe Escolar;78
+02/2021;RMC;EMTU;Informação;Passe Escolar;58
+02/2021;RMS;EMTU;Informação;Passe Escolar;48
+02/2021;RMSP;EMTU;Informação;Passe Idoso;4
+02/2021;RMSP;EMTU;Informação;Serviços;61
+02/2021;RMC;EMTU;Informação;Serviços;7
+02/2021;RMVPLN;EMTU;Informação;Serviços;6
+02/2021;RMBS;EMTU;Informação;Serviços;6
+02/2021;RMS;EMTU;Informação;Serviços;5
+02/2021;RMSP;EMTU;Informação;Tarifa;7
+02/2021;RMBS;EMTU;Informação;Tarifa;1
+02/2021;RMVPLN;EMTU;Informação;Tarifa;1
+02/2021;RMSP;EMTU;Informação;Telefone;1
+02/2021;RMSP;EMTU;Informação;Vale-Transporte;1
+02/2021;RMVPLN;EMTU;Informação;Vale-Transporte;1
+02/2021;RMSP;EMTU;Reclamação;Atendimento;9
+02/2021;RMVPLN;EMTU;Reclamação;Atendimento;2
+02/2021;RMBS;EMTU;Reclamação;Atendimento;1
+02/2021;RMC;EMTU;Reclamação;Atendimento;1
+02/2021;RMSP;EMTU;Reclamação;Horário;8
+02/2021;RMC;EMTU;Reclamação;Horário;6
+02/2021;RMS;EMTU;Reclamação;Horário;1
+02/2021;RMVPLN;EMTU;Reclamação;Horário;1
+02/2021;RMSP;EMTU;Reclamação;Itinerário;3
+02/2021;RMS;EMTU;Reclamação;Itinerário;1
+02/2021;RMSP;EMTU;Reclamação;Passe Escolar;6
+02/2021;RMC;EMTU;Reclamação;Serviços;1
+02/2021;RMBS;EMTU;Reclamação;Serviços;1
+02/2021;RMSP;EMTU;Reclamação;Tarifa;2
+02/2021;RMSP;EMTU;Reclamação;Terminal;4
+02/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;14
+02/2021;RMSP;EMTU;Sugestão;Horário;35
+02/2021;RMVPLN;EMTU;Sugestão;Horário;8
+02/2021;RMC;EMTU;Sugestão;Horário;7
+02/2021;RMS;EMTU;Sugestão;Horário;6
+02/2021;RMBS;EMTU;Sugestão;Horário;5
+02/2021;RMSP;EMTU;Sugestão;Itinerário;13
+02/2021;RMS;EMTU;Sugestão;Itinerário;1
+02/2021;RMC;EMTU;Sugestão;Itinerário;1
+02/2021;RMVPLN;EMTU;Sugestão;Itinerário;1
+02/2021;RMSP;EMTU;Sugestão;Serviços;1
+02/2021;RMVPLN;EMTU;Sugestão;Tarifa;1
+02/2021;RMSP;EUSA;Informação;Serviços;1
+02/2021;RMSP;EUSA;Reclamação;Direção Perigosa;1
+02/2021;RMSP;EUSA;Reclamação;Horário;1
+02/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;1
+02/2021;RMSP;fretamento (todas);Reclamação;Direção Perigosa;1
+02/2021;RMSP;fretamento (todas);Reclamação;Tripulação/Funcionário;2
+02/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;1
+02/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;2
+02/2021;RMSP;IMIGRANTES;Reclamação;Veículo;1
+02/2021;RMSP;INTERNORTE;Informação;Horário;1
+02/2021;RMSP;INTERNORTE;Informação;Serviços;6
+02/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;5
+02/2021;RMSP;INTERNORTE;Reclamação;Horário;20
+02/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;14
+02/2021;RMSP;INTERNORTE;Reclamação;Itinerário;6
+02/2021;RMSP;INTERNORTE;Reclamação;Mau Atendimento ao Idoso;1
+02/2021;RMSP;INTERNORTE;Reclamação;Serviços;1
+02/2021;RMSP;INTERNORTE;Reclamação;Superlotação;5
+02/2021;RMSP;INTERNORTE;Reclamação;Terminal;2
+02/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;31
+02/2021;RMSP;INTERNORTE;Reclamação;Veículo;6
+02/2021;RMSP;INTERVIAS;Denúncia;Horário;1
+02/2021;RMSP;INTERVIAS;Denúncia;Tripulação/Funcionário;1
+02/2021;RMSP;INTERVIAS;Elogio;Atendimento;2
+02/2021;RMSP;INTERVIAS;Informação;Serviços;5
+02/2021;RMSP;INTERVIAS;Reclamação;Atendimento;1
+02/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;6
+02/2021;RMSP;INTERVIAS;Reclamação;Horário;18
+02/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;32
+02/2021;RMSP;INTERVIAS;Reclamação;Integração;2
+02/2021;RMSP;INTERVIAS;Reclamação;Itinerário;2
+02/2021;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;2
+02/2021;RMSP;INTERVIAS;Reclamação;Superlotação;3
+02/2021;RMSP;INTERVIAS;Reclamação;Tarifa;3
+02/2021;RMSP;INTERVIAS;Reclamação;Terminal;1
+02/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;31
+02/2021;RMSP;INTERVIAS;Reclamação;Veículo;3
+02/2021;RMSP;INTERVIAS;Sugestão;Itinerário;1
+02/2021;RMVPLN;JACAREÍ;Reclamação;Tripulação/Funcionário;8
+02/2021;RMVPLN;LITORANEA;Informação;Horário;1
+02/2021;RMVPLN;LITORANEA;Informação;Serviços;1
+02/2021;RMVPLN;LITORANEA;Reclamação;Horário;2
+02/2021;RMSP;MOBIBRASIL TRANSPORTE;Informação;Serviços;1
+02/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Horário;11
+02/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Inobservância de Ponto;3
+02/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Itinerário;6
+02/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Tripulação/Funcionário;3
+02/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Veículo;2
+02/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Horário;1
+02/2021;RMVPLN;PASSARO MARRON;Informação;Horário;1
+02/2021;RMVPLN;PASSARO MARRON;Informação;Isenção de Tarifa;1
+02/2021;RMVPLN;PASSARO MARRON;Informação;Serviços;1
+02/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;4
+02/2021;RMVPLN;PASSARO MARRON;Reclamação;Passe Escolar;2
+02/2021;RMVPLN;PASSARO MARRON;Reclamação;Tripulação/Funcionário;1
+02/2021;RMVPLN;PASSARO MARRON;Sugestão;Horário;3
+02/2021;RMSP;PUBLIX;Informação;Itinerário;1
+02/2021;RMSP;PUBLIX;Informação;Serviços;1
+02/2021;RMSP;PUBLIX;Reclamação;Atendimento;1
+02/2021;RMSP;PUBLIX;Reclamação;Horário;2
+02/2021;RMSP;PUBLIX;Reclamação;Inobservância de Ponto;1
+02/2021;RMSP;PUBLIX;Reclamação;Itinerário;1
+02/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Horário;1
+02/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Passe Escolar;1
+02/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Serviços;2
+02/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;4
+02/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;2
+02/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Veículo;2
+02/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;4
+02/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;3
+02/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;2
+02/2021;RMSP;RIACHO GRANDE;Reclamação;Veículo;1
+02/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;3
+02/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Itinerário;1
+02/2021;RMVPLN;RODOVIÁRIO SÃO JOSE;Informação;Tarifa;1
+02/2021;RMSP;SÃO CAMILO;Reclamação;Direção Perigosa;1
+02/2021;RMSP;SÃO CAMILO;Reclamação;Horário;2
+02/2021;RMSP;SÃO CAMILO;Reclamação;Mau Atendimento ao Idoso;1
+02/2021;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;3
+02/2021;RMSP;TRANS BUS;Denúncia;Tripulação/Funcionário;1
+02/2021;RMSP;TRANS BUS;Informação;Itinerário;1
+02/2021;RMSP;TRANS BUS;Informação;Serviços;1
+02/2021;RMSP;TRANS BUS;Reclamação;Direção Perigosa;2
+02/2021;RMSP;TRANS BUS;Reclamação;Horário;3
+02/2021;RMSP;TRANS BUS;Reclamação;Inobservância de Ponto;1
+02/2021;RMSP;TRANS BUS;Reclamação;Superlotação;1
+02/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;7
+02/2021;RMSP;TRANS BUS;Reclamação;Veículo;2
+02/2021;RMSP;TRIÂNGULO;Informação;Serviços;1
+02/2021;RMSP;TRIÂNGULO;Reclamação;Horário;4
+02/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;5
+02/2021;RMSP;TUCURUVI;Reclamação;Horário;2
+02/2021;RMSP;TUCURUVI;Reclamação;Tripulação/Funcionário;1
+02/2021;RMSP;UNILESTE;Informação;Horário;1
+02/2021;RMSP;UNILESTE;Informação;Serviços;1
+02/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;1
+02/2021;RMSP;UNILESTE;Reclamação;Horário;16
+02/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;5
+02/2021;RMSP;UNILESTE;Reclamação;Itinerário;2
+02/2021;RMSP;UNILESTE;Reclamação;Superlotação;1
+02/2021;RMSP;UNILESTE;Reclamação;Tarifa;3
+02/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;3
+02/2021;RMSP;UNILESTE;Reclamação;Veículo;3
+03/2021;RMSP;ABC;Informação;Serviços;3
+03/2021;RMSP;ABC;Reclamação;Horário;3
+03/2021;RMSP;ABC;Reclamação;Itinerário;3
+03/2021;RMSP;ABC;Reclamação;Superlotação;2
+03/2021;RMSP;ABC;Reclamação;Tripulação/Funcionário;4
+03/2021;RMSP;ABC;Reclamação;Veículo;1
+03/2021;RMSP;ABC SISTEMA-Metra;Elogio;Atendimento;1
+03/2021;RMSP;ABC SISTEMA-Metra;Informação;Horário;1
+03/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;3
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Atendimento;1
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Direção Perigosa;1
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;1
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Integração;1
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Itinerário;1
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;1
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;11
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;4
+03/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;5
+03/2021;RMVPLN;ABC TRANSPORTES;Reclamação;Horário;1
+03/2021;RMSP;ANHANGUERA;Elogio;Atendimento;2
+03/2021;RMSP;ANHANGUERA;Informação;Horário;3
+03/2021;RMSP;ANHANGUERA;Informação;Itinerário;3
+03/2021;RMSP;ANHANGUERA;Informação;Serviços;8
+03/2021;RMSP;ANHANGUERA;Informação;Tarifa;1
+03/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;13
+03/2021;RMSP;ANHANGUERA;Reclamação;Horário;34
+03/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;16
+03/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;5
+03/2021;RMSP;ANHANGUERA;Reclamação;Mau Atendimento ao Idoso;1
+03/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;7
+03/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;1
+03/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;18
+03/2021;RMSP;ANHANGUERA;Reclamação;Veículo;4
+03/2021;RMSP;ANHANGUERA;Sugestão;Itinerário;1
+03/2021;RMSP;ANHANGUERA;Sugestão;Tripulação/Funcionário;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Carteira Passageiro Especial;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Horário;10
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Itinerário;3
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;19
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;5
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;34
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;19
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Atendimento;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;4
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;6
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;4
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Passageiro Especial;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Passe Escolar;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tarifa;1
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;9
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;2
+03/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Itinerário;1
+03/2021;RMBS;BR MOBILIDADE VLT;Informação;Horário;1
+03/2021;RMBS;BR MOBILIDADE VLT;Informação;Vale-Transporte;1
+03/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Terminal;1
+03/2021;RMC;BUS(Mais);Informação;Horário;2
+03/2021;RMC;BUS(Mais);Informação;Itinerário;1
+03/2021;RMC;BUS(Mais);Informação;Passe Escolar;1
+03/2021;RMC;BUS(Mais);Informação;Serviços;6
+03/2021;RMC;BUS(Mais);Informação;Vale-Transporte;5
+03/2021;RMC;BUS(Mais);Reclamação;Horário;18
+03/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;3
+03/2021;RMC;BUS(Mais);Reclamação;Superlotação;2
+03/2021;RMC;BUS(Mais);Reclamação;Terminal;1
+03/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;16
+03/2021;RMC;BUS(Mais);Reclamação;Vale-Transporte;1
+03/2021;RMC;BUS(Mais);Reclamação;Veículo;2
+03/2021;RMC;BUS(Mais);Sugestão;Horário;1
+03/2021;RMC;BUS(Mais);Sugestão;Tripulação/Funcionário;1
+03/2021;RMC;BUS(Mais);Sugestão;Veículo;1
+03/2021;RMSP;CMT;Elogio;Atendimento;1
+03/2021;RMSP;CMT;Informação;Integração;3
+03/2021;RMSP;CMT;Informação;Passe Escolar;33
+03/2021;RMSP;CMT;Informação;Passe Idoso;6
+03/2021;RMSP;CMT;Informação;Serviços;84
+03/2021;RMSP;CMT;Informação;Vale-Transporte;48
+03/2021;RMSP;CMT;Reclamação;Atendimento;4
+03/2021;RMSP;CMT;Reclamação;Integração;6
+03/2021;RMSP;CMT;Reclamação;Passe Escolar;9
+03/2021;RMSP;CMT;Reclamação;Serviços;1
+03/2021;RMSP;CMT;Reclamação;Vale-Transporte;9
+03/2021;RMSP;EMTU;Elogio;Atendimento;2
+03/2021;RMS;EMTU;Elogio;Atendimento;2
+03/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;96
+03/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;9
+03/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;2
+03/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;1
+03/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;1
+03/2021;RMSP;EMTU;Informação;Greve;3
+03/2021;RMSP;EMTU;Informação;Horário;31
+03/2021;RMBS;EMTU;Informação;Horário;8
+03/2021;RMS;EMTU;Informação;Horário;3
+03/2021;RMC;EMTU;Informação;Horário;1
+03/2021;RMSP;EMTU;Informação;Integração;11
+03/2021;RMS;EMTU;Informação;Integração;1
+03/2021;RMSP;EMTU;Informação;Itinerário;17
+03/2021;RMC;EMTU;Informação;Itinerário;3
+03/2021;RMS;EMTU;Informação;Itinerário;2
+03/2021;RMSP;EMTU;Informação;Passe Desempregado;2
+03/2021;RMSP;EMTU;Informação;Passe Escolar;559
+03/2021;RMBS;EMTU;Informação;Passe Escolar;72
+03/2021;RMVPLN;EMTU;Informação;Passe Escolar;50
+03/2021;RMS;EMTU;Informação;Passe Escolar;35
+03/2021;RMC;EMTU;Informação;Passe Escolar;18
+03/2021;RMSP;EMTU;Informação;Serviços;66
+03/2021;RMBS;EMTU;Informação;Serviços;13
+03/2021;RMVPLN;EMTU;Informação;Serviços;7
+03/2021;RMC;EMTU;Informação;Serviços;5
+03/2021;RMS;EMTU;Informação;Serviços;2
+03/2021;RMBS;EMTU;Informação;Serviços (VLT);1
+03/2021;RMSP;EMTU;Informação;Tarifa;5
+03/2021;RMSP;EMTU;Informação;Vale-Transporte;1
+03/2021;RMSP;EMTU;Reclamação;Atendimento;2
+03/2021;RMS;EMTU;Reclamação;Atendimento;1
+03/2021;RMBS;EMTU;Reclamação;Atendimento;1
+03/2021;RMVPLN;EMTU;Reclamação;Atendimento;1
+03/2021;RMSP;EMTU;Reclamação;Direção Perigosa;5
+03/2021;RMSP;EMTU;Reclamação;Horário;5
+03/2021;RMS;EMTU;Reclamação;Horário;3
+03/2021;RMC;EMTU;Reclamação;Horário;1
+03/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;2
+03/2021;RMSP;EMTU;Reclamação;Itinerário;3
+03/2021;RMSP;EMTU;Reclamação;Mau Atendimento ao Idoso;1
+03/2021;RMSP;EMTU;Reclamação;Passageiro Especial;1
+03/2021;RMSP;EMTU;Reclamação;Passe Escolar;15
+03/2021;RMSP;EMTU;Reclamação;Serviços;7
+03/2021;RMC;EMTU;Reclamação;Serviços;1
+03/2021;RMBS;EMTU;Reclamação;Serviços;1
+03/2021;RMSP;EMTU;Reclamação;Superlotação;1
+03/2021;RMS;EMTU;Reclamação;Transporte Irregular;2
+03/2021;RMSP;EMTU;Reclamação;Transporte Irregular;1
+03/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;30
+03/2021;RMSP;EMTU;Reclamação;Vale-Transporte;1
+03/2021;RMSP;EMTU;Sugestão;Atendimento;1
+03/2021;RMS;EMTU;Sugestão;Atendimento;1
+03/2021;RMSP;EMTU;Sugestão;Horário;24
+03/2021;RMS;EMTU;Sugestão;Horário;6
+03/2021;RMC;EMTU;Sugestão;Horário;5
+03/2021;RMVPLN;EMTU;Sugestão;Horário;4
+03/2021;RMBS;EMTU;Sugestão;Horário;2
+03/2021;RMSP;EMTU;Sugestão;Itinerário;6
+03/2021;RMC;EMTU;Sugestão;Itinerário;4
+03/2021;RMSP;EMTU;Sugestão;Passageiro Especial;2
+03/2021;RMSP;EMTU;Sugestão;Serviços;1
+03/2021;RMSP;EUSA;Reclamação;Horário;1
+03/2021;RMS;EXPRESSO AMARELINHO;Reclamação;Horário;1
+03/2021;RMSP;EXPRESSO SBC;Reclamação;Direção Perigosa;1
+03/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;1
+03/2021;RMSP;EXPRESSO SBC;Reclamação;Tripulação/Funcionário;1
+03/2021;RMSP;fretamento (todas);Informação;Passe Escolar;1
+03/2021;RMSP;IMIGRANTES;Informação;Serviços;2
+03/2021;RMSP;IMIGRANTES;Reclamação;Atendimento;1
+03/2021;RMSP;IMIGRANTES;Reclamação;Direção Perigosa;1
+03/2021;RMSP;IMIGRANTES;Reclamação;Horário;5
+03/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;2
+03/2021;RMSP;IMIGRANTES;Reclamação;Mau Atendimento ao Idoso;1
+03/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;5
+03/2021;RMSP;INTERNORTE;Elogio;Atendimento;3
+03/2021;RMSP;INTERNORTE;Informação;Horário;1
+03/2021;RMSP;INTERNORTE;Informação;Itinerário;3
+03/2021;RMSP;INTERNORTE;Informação;Serviços;3
+03/2021;RMSP;INTERNORTE;Reclamação;Atendimento;2
+03/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;5
+03/2021;RMSP;INTERNORTE;Reclamação;Horário;27
+03/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;18
+03/2021;RMSP;INTERNORTE;Reclamação;Itinerário;3
+03/2021;RMSP;INTERNORTE;Reclamação;Superlotação;6
+03/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;27
+03/2021;RMSP;INTERNORTE;Reclamação;Veículo;8
+03/2021;RMSP;INTERNORTE;Sugestão;Horário;1
+03/2021;RMSP;INTERNORTE;Sugestão;Veículo;1
+03/2021;RMSP;INTERVIAS;Elogio;Atendimento;9
+03/2021;RMSP;INTERVIAS;Informação;Horário;2
+03/2021;RMSP;INTERVIAS;Informação;Itinerário;1
+03/2021;RMSP;INTERVIAS;Informação;Serviços;8
+03/2021;RMSP;INTERVIAS;Reclamação;Atendimento;1
+03/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;7
+03/2021;RMSP;INTERVIAS;Reclamação;Horário;32
+03/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;25
+03/2021;RMSP;INTERVIAS;Reclamação;Itinerário;4
+03/2021;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;2
+03/2021;RMSP;INTERVIAS;Reclamação;Superlotação;6
+03/2021;RMSP;INTERVIAS;Reclamação;Tarifa;1
+03/2021;RMSP;INTERVIAS;Reclamação;Terminal;1
+03/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;28
+03/2021;RMSP;INTERVIAS;Reclamação;Veículo;4
+03/2021;RMSP;INTERVIAS;Sugestão;Veículo;1
+03/2021;RMVPLN;JACAREÍ;Informação;Horário;1
+03/2021;RMVPLN;JACAREÍ;Reclamação;Horário;1
+03/2021;RMVPLN;JACAREÍ;Reclamação;Superlotação;1
+03/2021;RMVPLN;JACAREÍ;Reclamação;Tripulação/Funcionário;3
+03/2021;RMVPLN;LITORANEA;Informação;Horário;1
+03/2021;RMVPLN;LITORANEA;Informação;Serviços;1
+03/2021;RMVPLN;LITORANEA;Reclamação;Direção Perigosa;1
+03/2021;RMVPLN;LITORANEA;Reclamação;Tarifa;1
+03/2021;RMVPLN;LITORANEA;Reclamação;Tripulação/Funcionário;2
+03/2021;RMSP;MOBIBRASIL TRANSPORTE;Informação;Itinerário;1
+03/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Atendimento;1
+03/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Direção Perigosa;1
+03/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Horário;7
+03/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Tripulação/Funcionário;6
+03/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Veículo;1
+03/2021;RMVPLN;PASSARO MARRON;Informação;Vale-Transporte;2
+03/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;5
+03/2021;RMVPLN;PASSARO MARRON;Reclamação;Passe Escolar;1
+03/2021;RMVPLN;PASSARO MARRON;Reclamação;Superlotação;3
+03/2021;RMVPLN;PASSARO MARRON;Sugestão;Horário;1
+03/2021;RMSP;PUBLIX;Elogio;Atendimento;1
+03/2021;RMSP;PUBLIX;Reclamação;Horário;2
+03/2021;RMSP;PUBLIX;Reclamação;Tripulação/Funcionário;1
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Elogio;Atendimento;4
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;9
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Inobservância de Ponto;1
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;5
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Tarifa;1
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Tripulação/Funcionário;1
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Vale-Transporte;1
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Atendimento;1
+03/2021;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Tripulação/Funcionário;1
+03/2021;RMSP;RIACHO GRANDE;Informação;Horário;2
+03/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;4
+03/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;1
+03/2021;RMSP;RIACHO GRANDE;Reclamação;Superlotação;1
+03/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;2
+03/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;4
+03/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Veículo;1
+03/2021;RMSP;SÃO CAMILO;Elogio;Atendimento;1
+03/2021;RMSP;SÃO CAMILO;Reclamação;Horário;1
+03/2021;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;1
+03/2021;RMSP;TRANS BUS;Informação;Horário;1
+03/2021;RMSP;TRANS BUS;Informação;Serviços;1
+03/2021;RMSP;TRANS BUS;Reclamação;Direção Perigosa;1
+03/2021;RMSP;TRANS BUS;Reclamação;Horário;3
+03/2021;RMSP;TRANS BUS;Reclamação;Itinerário;1
+03/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;5
+03/2021;RMSP;TRANS BUS;Reclamação;Veículo;1
+03/2021;RMSP;TRIÂNGULO;Elogio;Atendimento;1
+03/2021;RMSP;TRIÂNGULO;Informação;Horário;1
+03/2021;RMSP;TRIÂNGULO;Reclamação;Horário;5
+03/2021;RMSP;TRIÂNGULO;Reclamação;Inobservância de Ponto;1
+03/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;11
+03/2021;RMSP;TUCURUVI;Reclamação;Horário;1
+03/2021;RMSP;TUCURUVI;Reclamação;Tripulação/Funcionário;1
+03/2021;RMSP;UNILESTE;Elogio;Atendimento;3
+03/2021;RMSP;UNILESTE;Informação;Horário;1
+03/2021;RMSP;UNILESTE;Informação;Serviços;3
+03/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;1
+03/2021;RMSP;UNILESTE;Reclamação;Horário;34
+03/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;3
+03/2021;RMSP;UNILESTE;Reclamação;Itinerário;2
+03/2021;RMSP;UNILESTE;Reclamação;Superlotação;5
+03/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;6
+03/2021;RMSP;UNILESTE;Reclamação;Veículo;3
+03/2021;RMSP;UNILESTE;Sugestão;Horário;1
+04/2021;RMSP;ABC;Informação;Horário;1
+04/2021;RMSP;ABC;Informação;Serviços;1
+04/2021;RMSP;ABC;Reclamação;Horário;1
+04/2021;RMSP;ABC;Reclamação;Inobservância de Ponto;1
+04/2021;RMSP;ABC;Reclamação;Tripulação/Funcionário;1
+04/2021;RMSP;ABC SISTEMA-Metra;Informação;Integração;1
+04/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;2
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Atendimento;1
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;3
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;2
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;3
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;5
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tarifa;1
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;3
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;5
+04/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;3
+04/2021;RMSP;ABC SISTEMA-Metra;Sugestão;Serviços;1
+04/2021;RMSP;ABC SISTEMA-Metra;Sugestão;Veículo;1
+04/2021;RMSP;ANHANGUERA;Elogio;Atendimento;1
+04/2021;RMSP;ANHANGUERA;Informação;Horário;3
+04/2021;RMSP;ANHANGUERA;Informação;Itinerário;1
+04/2021;RMSP;ANHANGUERA;Informação;Serviços;9
+04/2021;RMSP;ANHANGUERA;Reclamação;Atendimento;1
+04/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;5
+04/2021;RMSP;ANHANGUERA;Reclamação;Horário;32
+04/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;9
+04/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;3
+04/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;8
+04/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;1
+04/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;17
+04/2021;RMSP;ANHANGUERA;Sugestão;Horário;4
+04/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Informação;Passe Escolar;1
+04/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Horário;1
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Horário;1
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Itinerário;1
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;4
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;3
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;12
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;10
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Atendimento;1
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;2
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;2
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;6
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;1
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;4
+04/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Vale-Transporte;1
+04/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços;1
+04/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Serviços;1
+04/2021;RMBS;BR MOBILIDADE VLT;Sugestão;Serviços;1
+04/2021;RMC;BUS(Mais);Informação;Horário;3
+04/2021;RMC;BUS(Mais);Informação;Passe Idoso;1
+04/2021;RMC;BUS(Mais);Informação;Serviços;3
+04/2021;RMC;BUS(Mais);Informação;Vale-Transporte;2
+04/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;1
+04/2021;RMC;BUS(Mais);Reclamação;Horário;16
+04/2021;RMC;BUS(Mais);Reclamação;Itinerário;2
+04/2021;RMC;BUS(Mais);Reclamação;Passageiro Especial;1
+04/2021;RMC;BUS(Mais);Reclamação;Serviços;1
+04/2021;RMC;BUS(Mais);Reclamação;Superlotação;3
+04/2021;RMC;BUS(Mais);Reclamação;Tarifa;1
+04/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;3
+04/2021;RMC;BUS(Mais);Reclamação;Vale-Transporte;1
+04/2021;RMC;BUS(Mais);Reclamação;Veículo;1
+04/2021;RMSP;CMT;Informação;Integração;2
+04/2021;RMSP;CMT;Informação;Passe Escolar;40
+04/2021;RMSP;CMT;Informação;Passe Idoso;7
+04/2021;RMSP;CMT;Informação;Serviços;86
+04/2021;RMSP;CMT;Informação;Tarifa;1
+04/2021;RMSP;CMT;Informação;Telefone;3
+04/2021;RMSP;CMT;Informação;Vale-Transporte;48
+04/2021;RMSP;CMT;Reclamação;Atendimento;3
+04/2021;RMSP;CMT;Reclamação;Integração;2
+04/2021;RMSP;CMT;Reclamação;Passe Escolar;5
+04/2021;RMSP;CMT;Reclamação;Serviços;1
+04/2021;RMSP;CMT;Reclamação;Tarifa;1
+04/2021;RMSP;CMT;Reclamação;Terminal;1
+04/2021;RMSP;CMT;Reclamação;Vale-Transporte;1
+04/2021;RMSP;EAOSA;Informação;Serviços;1
+04/2021;RMSP;EAOSA;Reclamação;Direção Perigosa;1
+04/2021;RMSP;EAOSA;Reclamação;Horário;1
+04/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;1
+04/2021;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;1
+04/2021;RMSP;EAOSA;Reclamação;Veículo;1
+04/2021;RMSP;EMTU;Elogio;Atendimento;5
+04/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;113
+04/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;6
+04/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;2
+04/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;1
+04/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;1
+04/2021;RMSP;EMTU;Informação;Horário;23
+04/2021;RMC;EMTU;Informação;Horário;4
+04/2021;RMVPLN;EMTU;Informação;Horário;1
+04/2021;RMBS;EMTU;Informação;Horário;1
+04/2021;RMSP;EMTU;Informação;Integração;10
+04/2021;RMC;EMTU;Informação;Integração;1
+04/2021;RMSP;EMTU;Informação;Itinerário;16
+04/2021;RMC;EMTU;Informação;Itinerário;3
+04/2021;RMVPLN;EMTU;Informação;Itinerário;1
+04/2021;RMBS;EMTU;Informação;Itinerário;1
+04/2021;RMSP;EMTU;Informação;Passe Escolar;344
+04/2021;RMBS;EMTU;Informação;Passe Escolar;31
+04/2021;RMVPLN;EMTU;Informação;Passe Escolar;19
+04/2021;RMC;EMTU;Informação;Passe Escolar;8
+04/2021;RMS;EMTU;Informação;Passe Escolar;7
+04/2021;RMS;EMTU;Informação;Passe Idoso;1
+04/2021;RMSP;EMTU;Informação;Passe Idoso;1
+04/2021;RMSP;EMTU;Informação;Serviços;57
+04/2021;RMBS;EMTU;Informação;Serviços;4
+04/2021;RMVPLN;EMTU;Informação;Serviços;3
+04/2021;RMS;EMTU;Informação;Serviços;1
+04/2021;RMC;EMTU;Informação;Serviços;1
+04/2021;RMBS;EMTU;Informação;Serviços (VLT);1
+04/2021;RMC;EMTU;Informação;Tarifa;2
+04/2021;RMSP;EMTU;Informação;Tarifa;1
+04/2021;RMVPLN;EMTU;Informação;Tarifa;1
+04/2021;RMSP;EMTU;Informação;Vale-Transporte;2
+04/2021;RMVPLN;EMTU;Informação;Vale-Transporte;1
+04/2021;RMSP;EMTU;Reclamação;Atendimento;4
+04/2021;RMVPLN;EMTU;Reclamação;Atendimento;1
+04/2021;RMSP;EMTU;Reclamação;Direção Perigosa;8
+04/2021;RMSP;EMTU;Reclamação;Horário;5
+04/2021;RMSP;EMTU;Reclamação;Itinerário;3
+04/2021;RMS;EMTU;Reclamação;Itinerário;1
+04/2021;RMSP;EMTU;Reclamação;Ligado;1
+04/2021;RMSP;EMTU;Reclamação;Mau Atendimento ao Idoso;1
+04/2021;RMSP;EMTU;Reclamação;Passageiro Especial;2
+04/2021;RMSP;EMTU;Reclamação;Passe Escolar;5
+04/2021;RMSP;EMTU;Reclamação;Serviços;1
+04/2021;RMSP;EMTU;Reclamação;Superlotação;2
+04/2021;RMSP;EMTU;Reclamação;Terminal;2
+04/2021;RMSP;EMTU;Reclamação;Transporte Irregular;1
+04/2021;RMS;EMTU;Reclamação;Transporte Irregular;1
+04/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;12
+04/2021;RMSP;EMTU;Reclamação;Veículo;1
+04/2021;RMSP;EMTU;Sugestão;Horário;27
+04/2021;RMVPLN;EMTU;Sugestão;Horário;4
+04/2021;RMS;EMTU;Sugestão;Horário;1
+04/2021;RMC;EMTU;Sugestão;Horário;1
+04/2021;RMSP;EMTU;Sugestão;Itinerário;10
+04/2021;RMC;EMTU;Sugestão;Itinerário;1
+04/2021;RMBS;EMTU;Sugestão;Passageiro Especial;1
+04/2021;RMSP;EMTU;Sugestão;Serviços;1
+04/2021;RMBS;EMTU;Sugestão;Terminal;1
+04/2021;RMSP;EMTU;Sugestão;Veículo;1
+04/2021;RMSP;EUSA;Reclamação;Tripulação/Funcionário;4
+04/2021;RMS;EXPRESSO AMARELINHO;Reclamação;Horário;1
+04/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;2
+04/2021;RMSP;IMIGRANTES;Informação;Horário;1
+04/2021;RMSP;IMIGRANTES;Informação;Serviços;2
+04/2021;RMSP;IMIGRANTES;Reclamação;Serviços;1
+04/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;1
+04/2021;RMSP;IMIGRANTES;Reclamação;Veículo;1
+04/2021;RMSP;INTERNORTE;Informação;Horário;2
+04/2021;RMSP;INTERNORTE;Informação;Serviços;5
+04/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;3
+04/2021;RMSP;INTERNORTE;Reclamação;Horário;42
+04/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;17
+04/2021;RMSP;INTERNORTE;Reclamação;Itinerário;3
+04/2021;RMSP;INTERNORTE;Reclamação;Passageiro Especial;1
+04/2021;RMSP;INTERNORTE;Reclamação;Superlotação;13
+04/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;22
+04/2021;RMSP;INTERNORTE;Reclamação;Veículo;2
+04/2021;RMSP;INTERNORTE;Sugestão;Veículo;2
+04/2021;RMSP;INTERVIAS;Elogio;Atendimento;3
+04/2021;RMSP;INTERVIAS;Elogio;Veículo;1
+04/2021;RMSP;INTERVIAS;Informação;Itinerário;2
+04/2021;RMSP;INTERVIAS;Informação;Passe Escolar;1
+04/2021;RMSP;INTERVIAS;Informação;Serviços;6
+04/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;3
+04/2021;RMSP;INTERVIAS;Reclamação;Horário;46
+04/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;9
+04/2021;RMSP;INTERVIAS;Reclamação;Itinerário;6
+04/2021;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;1
+04/2021;RMSP;INTERVIAS;Reclamação;Superlotação;7
+04/2021;RMSP;INTERVIAS;Reclamação;Tarifa;1
+04/2021;RMSP;INTERVIAS;Reclamação;Terminal;1
+04/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;18
+04/2021;RMSP;INTERVIAS;Reclamação;Veículo;6
+04/2021;RMSP;INTERVIAS;Sugestão;Horário;1
+04/2021;RMVPLN;JACAREÍ;Informação;Serviços;1
+04/2021;RMVPLN;JACAREÍ;Reclamação;Horário;1
+04/2021;RMVPLN;JACAREÍ;Reclamação;Inobservância de Ponto;1
+04/2021;RMVPLN;LITORANEA;Informação;Serviços;3
+04/2021;RMVPLN;LITORANEA;Reclamação;Horário;2
+04/2021;RMVPLN;LITORANEA;Reclamação;Tripulação/Funcionário;1
+04/2021;RMSP;MOBIBRASIL TRANSPORTE;Informação;Horário;1
+04/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Horário;5
+04/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Inobservância de Ponto;1
+04/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Tripulação/Funcionário;27
+04/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Veículo;1
+04/2021;RMSP;MOBIBRASIL TRANSPORTE;Sugestão;Horário;1
+04/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Horário;1
+04/2021;RMVPLN;PASSARO MARRON;Informação;Passe Escolar;1
+04/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;4
+04/2021;RMVPLN;PASSARO MARRON;Reclamação;Tripulação/Funcionário;1
+04/2021;RMSP;PUBLIX;Informação;Horário;1
+04/2021;RMSP;PUBLIX;Reclamação;Horário;4
+04/2021;RMSP;PUBLIX;Reclamação;Mau Atendimento ao Idoso;1
+04/2021;RMSP;PUBLIX;Reclamação;Tripulação/Funcionário;2
+04/2021;RMS;RÁPIDO LUXO CAMPINAS;Elogio;Horário;1
+04/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Horário;1
+04/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Passe Escolar;1
+04/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Serviços;1
+04/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;5
+04/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;1
+04/2021;RMSP;RIACHO GRANDE;Informação;Horário;2
+04/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;1
+04/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;1
+04/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Direção Perigosa;1
+04/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;5
+04/2021;RMSP;RIGRAS;Reclamação;Horário;1
+04/2021;RMSP;RIGRAS;Reclamação;Inobservância de Ponto;1
+04/2021;RMSP;SÃO CAMILO;Reclamação;Horário;1
+04/2021;RMSP;SÃO CAMILO;Reclamação;Inobservância de Ponto;1
+04/2021;RMSP;TRANS BUS;Reclamação;Direção Perigosa;1
+04/2021;RMSP;TRANS BUS;Reclamação;Inobservância de Ponto;1
+04/2021;RMSP;TRANS BUS;Reclamação;Mau Atendimento ao Idoso;1
+04/2021;RMSP;TRANS BUS;Reclamação;Superlotação;1
+04/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;3
+04/2021;RMSP;TRIÂNGULO;Reclamação;Horário;2
+04/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;12
+04/2021;RMSP;TUCURUVI;Reclamação;Horário;1
+04/2021;RMSP;TUCURUVI;Reclamação;Veículo;1
+04/2021;RMSP;UNILESTE;Elogio;Atendimento;1
+04/2021;RMSP;UNILESTE;Informação;Horário;4
+04/2021;RMSP;UNILESTE;Informação;Serviços;2
+04/2021;RMSP;UNILESTE;Reclamação;Atendimento;1
+04/2021;RMSP;UNILESTE;Reclamação;Horário;36
+04/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;3
+04/2021;RMSP;UNILESTE;Reclamação;Itinerário;1
+04/2021;RMSP;UNILESTE;Reclamação;Mau Atendimento ao Idoso;1
+04/2021;RMSP;UNILESTE;Reclamação;Superlotação;1
+04/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;6
+04/2021;RMSP;UNILESTE;Reclamação;Veículo;1
+04/2021;RMSP;UNILESTE;Sugestão;Horário;1
+05/2021;RMSP;ABC;Informação;Serviços;1
+05/2021;RMSP;ABC;Reclamação;Horário;3
+05/2021;RMSP;ABC SISTEMA;Reclamação;Horário;14
+05/2021;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;1
+05/2021;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;8
+05/2021;RMSP;ABC SISTEMA-Metra;Informação;Horário;1
+05/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;3
+05/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;4
+05/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;2
+05/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;4
+05/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;1
+05/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;5
+05/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;2
+05/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;7
+05/2021;RMSP;ABC SISTEMA-Metra;Sugestão;Terminal;1
+05/2021;RMSP;ANHANGUERA;Informação;Serviços;8
+05/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;6
+05/2021;RMSP;ANHANGUERA;Reclamação;Horário;28
+05/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;16
+05/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;2
+05/2021;RMSP;ANHANGUERA;Reclamação;Serviços;1
+05/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;5
+05/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;1
+05/2021;RMSP;ANHANGUERA;Reclamação;Terminal;1
+05/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;24
+05/2021;RMSP;ANHANGUERA;Reclamação;Veículo;4
+05/2021;RMSP;ANHANGUERA;Sugestão;Horário;3
+05/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Horário;1
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;2
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Carteira Passageiro Especial;1
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Isenção de Tarifa;1
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;2
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;8
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;16
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;18
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;11
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;2
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;1
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;2
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tarifa;1
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;8
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;7
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Horário;1
+05/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Itinerário;2
+05/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços;1
+05/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços (VLT);1
+05/2021;RMBS;BR MOBILIDADE VLT;Sugestão;Serviços;2
+05/2021;RMC;BUS(Mais);Elogio;Horário;1
+05/2021;RMC;BUS(Mais);Informação;Horário;1
+05/2021;RMC;BUS(Mais);Informação;Itinerário;3
+05/2021;RMC;BUS(Mais);Informação;Passe Escolar;1
+05/2021;RMC;BUS(Mais);Informação;Serviços;7
+05/2021;RMC;BUS(Mais);Informação;Vale-Transporte;1
+05/2021;RMC;BUS(Mais);Reclamação;Horário;23
+05/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;5
+05/2021;RMC;BUS(Mais);Reclamação;Mau Atendimento ao Idoso;1
+05/2021;RMC;BUS(Mais);Reclamação;Superlotação;4
+05/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;6
+05/2021;RMC;BUS(Mais);Reclamação;Veículo;2
+05/2021;RMC;BUS(Mais);Sugestão;Horário;2
+05/2021;RMC;BUS(Mais);Sugestão;Itinerário;1
+05/2021;RMSP;CMT;Informação;Integração;2
+05/2021;RMSP;CMT;Informação;Passe Escolar;45
+05/2021;RMSP;CMT;Informação;Passe Idoso;14
+05/2021;RMSP;CMT;Informação;Serviços;111
+05/2021;RMSP;CMT;Informação;Vale-Transporte;45
+05/2021;RMSP;CMT;Reclamação;Atendimento;4
+05/2021;RMSP;CMT;Reclamação;Integração;3
+05/2021;RMSP;CMT;Reclamação;Passe Escolar;10
+05/2021;RMSP;CMT;Reclamação;Tarifa;1
+05/2021;RMSP;CMT;Reclamação;Tripulação/Funcionário;1
+05/2021;RMSP;CMT;Reclamação;Vale-Transporte;1
+05/2021;RMSP;CMT;Sugestão;Serviços;1
+05/2021;RMSP;EAOSA;Reclamação;Direção Perigosa;1
+05/2021;RMSP;EAOSA;Reclamação;Horário;1
+05/2021;RMSP;EMTU;Elogio;Atendimento;2
+05/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;84
+05/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;3
+05/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;3
+05/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;2
+05/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;2
+05/2021;RMSP;EMTU;Informação;Greve;1
+05/2021;RMSP;EMTU;Informação;Horário;16
+05/2021;RMC;EMTU;Informação;Horário;3
+05/2021;RMS;EMTU;Informação;Horário;2
+05/2021;RMBS;EMTU;Informação;Horário;2
+05/2021;RMVPLN;EMTU;Informação;Horário;1
+05/2021;RMSP;EMTU;Informação;Integração;7
+05/2021;RMSP;EMTU;Informação;Isenção de Tarifa;1
+05/2021;RMSP;EMTU;Informação;Itinerário;20
+05/2021;RMC;EMTU;Informação;Itinerário;12
+05/2021;RMS;EMTU;Informação;Itinerário;6
+05/2021;RMVPLN;EMTU;Informação;Itinerário;1
+05/2021;RMSP;EMTU;Informação;Ligado;2
+05/2021;RMC;EMTU;Informação;Ligado;2
+05/2021;RMSP;EMTU;Informação;Passe Desempregado;8
+05/2021;RMSP;EMTU;Informação;Passe Escolar;365
+05/2021;RMBS;EMTU;Informação;Passe Escolar;41
+05/2021;RMVPLN;EMTU;Informação;Passe Escolar;20
+05/2021;RMC;EMTU;Informação;Passe Escolar;20
+05/2021;RMS;EMTU;Informação;Passe Escolar;8
+05/2021;RMSP;EMTU;Informação;Passe Idoso;3
+05/2021;RMSP;EMTU;Informação;Serviços;58
+05/2021;RMC;EMTU;Informação;Serviços;7
+05/2021;RMS;EMTU;Informação;Serviços;5
+05/2021;RMVPLN;EMTU;Informação;Serviços;5
+05/2021;RMBS;EMTU;Informação;Serviços;4
+05/2021;RMBS;EMTU;Informação;Serviços (VLT);1
+05/2021;RMVPLN;EMTU;Informação;Vale-Transporte;1
+05/2021;RMS;EMTU;Reclamação;Atendimento;3
+05/2021;RMSP;EMTU;Reclamação;Atendimento;2
+05/2021;RMVPLN;EMTU;Reclamação;Atendimento;1
+05/2021;RMSP;EMTU;Reclamação;Direção Perigosa;5
+05/2021;RMC;EMTU;Reclamação;Horário;1
+05/2021;RMVPLN;EMTU;Reclamação;Horário;1
+05/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;3
+05/2021;RMSP;EMTU;Reclamação;Ligado;1
+05/2021;RMSP;EMTU;Reclamação;Passageiro Especial;1
+05/2021;RMSP;EMTU;Reclamação;Passe Escolar;7
+05/2021;RMVPLN;EMTU;Reclamação;Passe Escolar;2
+05/2021;RMSP;EMTU;Reclamação;Serviços;4
+05/2021;RMSP;EMTU;Reclamação;Terminal;1
+05/2021;RMVPLN;EMTU;Reclamação;Transporte Irregular;1
+05/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;14
+05/2021;RMSP;EMTU;Sugestão;Horário;26
+05/2021;RMC;EMTU;Sugestão;Horário;10
+05/2021;RMVPLN;EMTU;Sugestão;Horário;7
+05/2021;RMBS;EMTU;Sugestão;Horário;3
+05/2021;RMS;EMTU;Sugestão;Horário;3
+05/2021;RMSP;EMTU;Sugestão;Itinerário;19
+05/2021;RMC;EMTU;Sugestão;Itinerário;2
+05/2021;RMS;EMTU;Sugestão;Itinerário;1
+05/2021;RMSP;EUSA;Informação;Horário;1
+05/2021;RMSP;EUSA;Reclamação;Tripulação/Funcionário;1
+05/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;1
+05/2021;RMSP;fretamento (todas);Informação;Carteira Passageiro Especial;1
+05/2021;RMSP;fretamento (todas);Reclamação;Direção Perigosa;1
+05/2021;RMSP;IMIGRANTES;Elogio;Atendimento;1
+05/2021;RMSP;IMIGRANTES;Informação;Serviços;1
+05/2021;RMSP;IMIGRANTES;Reclamação;Horário;3
+05/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;2
+05/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;3
+05/2021;RMSP;IMIGRANTES;Reclamação;Veículo;1
+05/2021;RMSP;INTERNORTE;Informação;Horário;1
+05/2021;RMSP;INTERNORTE;Informação;Itinerário;1
+05/2021;RMSP;INTERNORTE;Informação;Serviços;3
+05/2021;RMSP;INTERNORTE;Reclamação;Atendimento;3
+05/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;2
+05/2021;RMSP;INTERNORTE;Reclamação;Horário;48
+05/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;11
+05/2021;RMSP;INTERNORTE;Reclamação;Itinerário;1
+05/2021;RMSP;INTERNORTE;Reclamação;Superlotação;4
+05/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;19
+05/2021;RMSP;INTERNORTE;Reclamação;Veículo;3
+05/2021;RMSP;INTERNORTE;Sugestão;Horário;1
+05/2021;RMSP;INTERVIAS;Elogio;Atendimento;3
+05/2021;RMSP;INTERVIAS;Informação;Itinerário;1
+05/2021;RMSP;INTERVIAS;Informação;Serviços;4
+05/2021;RMSP;INTERVIAS;Informação;Tarifa;1
+05/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;8
+05/2021;RMSP;INTERVIAS;Reclamação;Horário;23
+05/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;19
+05/2021;RMSP;INTERVIAS;Reclamação;Itinerário;2
+05/2021;RMSP;INTERVIAS;Reclamação;Superlotação;9
+05/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;26
+05/2021;RMSP;INTERVIAS;Reclamação;Veículo;3
+05/2021;RMSP;INTERVIAS;Sugestão;Horário;1
+05/2021;RMVPLN;JACAREÍ;Reclamação;Horário;1
+05/2021;RMVPLN;JACAREÍ;Reclamação;Tripulação/Funcionário;3
+05/2021;RMVPLN;LITORANEA;Reclamação;Horário;5
+05/2021;RMVPLN;LITORANEA;Reclamação;Superlotação;1
+05/2021;RMVPLN;LITORANEA;Reclamação;Tripulação/Funcionário;1
+05/2021;RMVPLN;LITORANEA;Sugestão;Horário;1
+05/2021;RMSP;MOBIBRASIL TRANSPORTE;Informação;Serviços;1
+05/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Horário;6
+05/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Tripulação/Funcionário;16
+05/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Veículo;1
+05/2021;RMSP;MOBIBRASIL TRANSPORTE;Sugestão;Horário;1
+05/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Horário;1
+05/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Tripulação/Funcionário;1
+05/2021;RMVPLN;PASSARO MARRON;Informação;Serviços;2
+05/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;10
+05/2021;RMVPLN;PASSARO MARRON;Reclamação;Passe Escolar;1
+05/2021;RMVPLN;PASSARO MARRON;Reclamação;Superlotação;1
+05/2021;RMVPLN;PASSARO MARRON;Reclamação;Veículo;1
+05/2021;RMSP;PUBLIX;Elogio;Atendimento;1
+05/2021;RMSP;PUBLIX;Informação;Horário;1
+05/2021;RMSP;PUBLIX;Reclamação;Tripulação/Funcionário;2
+05/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Itinerário;1
+05/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;2
+05/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Inobservância de Ponto;1
+05/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;2
+05/2021;RMSP;RIACHO GRANDE;Informação;Serviços;1
+05/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;5
+05/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;2
+05/2021;RMSP;RIACHO GRANDE;Reclamação;Superlotação;1
+05/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;2
+05/2021;RMSP;RIACHO GRANDE;Reclamação;Veículo;2
+05/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;1
+05/2021;RMSP;RIGRAS;Sugestão;Itinerário;1
+05/2021;RMSP;SÃO CAMILO;Reclamação;Direção Perigosa;1
+05/2021;RMSP;SÃO CAMILO;Reclamação;Horário;1
+05/2021;RMSP;SÃO CAMILO;Reclamação;Itinerário;1
+05/2021;RMSP;TRANS BUS;Informação;Horário;1
+05/2021;RMSP;TRANS BUS;Informação;Serviços;1
+05/2021;RMSP;TRANS BUS;Reclamação;Direção Perigosa;1
+05/2021;RMSP;TRANS BUS;Reclamação;Inobservância de Ponto;4
+05/2021;RMSP;TRANS BUS;Reclamação;Superlotação;4
+05/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;2
+05/2021;RMSP;TRIÂNGULO;Reclamação;Horário;2
+05/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;8
+05/2021;RMSP;TUCURUVI;Reclamação;Horário;1
+05/2021;RMSP;UNILESTE;Elogio;Atendimento;1
+05/2021;RMSP;UNILESTE;Informação;Serviços;4
+05/2021;RMSP;UNILESTE;Reclamação;Atendimento;1
+05/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;3
+05/2021;RMSP;UNILESTE;Reclamação;Horário;13
+05/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;3
+05/2021;RMSP;UNILESTE;Reclamação;Itinerário;1
+05/2021;RMSP;UNILESTE;Reclamação;Mau Atendimento ao Idoso;2
+05/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;8
+05/2021;RMSP;UNILESTE;Reclamação;Veículo;1
+05/2021;RMSP;UNILESTE;Sugestão;Horário;1
+06/2021;RMSP;ABC SISTEMA;Elogio;Atendimento;1
+06/2021;RMSP;ABC SISTEMA;Reclamação;Horário;12
+06/2021;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;4
+06/2021;RMSP;ABC SISTEMA;Reclamação;Itinerário;1
+06/2021;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;5
+06/2021;RMSP;ABC SISTEMA;Reclamação;Veículo;4
+06/2021;RMSP;ABC SISTEMA-Metra;Elogio;Atendimento;1
+06/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;7
+06/2021;RMSP;ABC SISTEMA-Metra;Informação;Tarifa;1
+06/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Atendimento;1
+06/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;3
+06/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;1
+06/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;1
+06/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;8
+06/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;3
+06/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;5
+06/2021;RMSP;ANHANGUERA;Elogio;Atendimento;4
+06/2021;RMSP;ANHANGUERA;Informação;Serviços;10
+06/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;6
+06/2021;RMSP;ANHANGUERA;Reclamação;Horário;41
+06/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;16
+06/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;3
+06/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;9
+06/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;1
+06/2021;RMSP;ANHANGUERA;Reclamação;Terminal;2
+06/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;17
+06/2021;RMSP;ANHANGUERA;Reclamação;Veículo;4
+06/2021;RMSP;ANHANGUERA;Sugestão;Horário;2
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;10
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;2
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;21
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Tarifa;1
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Telefone;1
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;19
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;2
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;6
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;3
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;4
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tarifa;2
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;8
+06/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;1
+06/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços;1
+06/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Serviços;1
+06/2021;RMC;BUS(Mais);Informação;Horário;2
+06/2021;RMC;BUS(Mais);Informação;Itinerário;1
+06/2021;RMC;BUS(Mais);Informação;Serviços;8
+06/2021;RMC;BUS(Mais);Informação;Tarifa;1
+06/2021;RMC;BUS(Mais);Informação;Vale-Transporte;3
+06/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;3
+06/2021;RMC;BUS(Mais);Reclamação;Horário;15
+06/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;1
+06/2021;RMC;BUS(Mais);Reclamação;Itinerário;2
+06/2021;RMC;BUS(Mais);Reclamação;Superlotação;4
+06/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;7
+06/2021;RMC;BUS(Mais);Reclamação;Veículo;2
+06/2021;RMSP;CMT;Informação;Carteira Passageiro Especial;1
+06/2021;RMSP;CMT;Informação;Integração;1
+06/2021;RMSP;CMT;Informação;Passe Escolar;59
+06/2021;RMSP;CMT;Informação;Passe Idoso;16
+06/2021;RMSP;CMT;Informação;Serviços;97
+06/2021;RMSP;CMT;Informação;Telefone;1
+06/2021;RMSP;CMT;Informação;Vale-Transporte;35
+06/2021;RMSP;CMT;Reclamação;Atendimento;2
+06/2021;RMSP;CMT;Reclamação;Integração;5
+06/2021;RMSP;CMT;Reclamação;Passe Escolar;11
+06/2021;RMSP;CMT;Reclamação;Serviços;3
+06/2021;RMSP;CMT;Reclamação;Tarifa;1
+06/2021;RMSP;CMT;Reclamação;Tripulação/Funcionário;2
+06/2021;RMSP;CMT;Reclamação;Vale-Transporte;2
+06/2021;RMSP;EAOSA;Reclamação;Direção Perigosa;1
+06/2021;RMSP;EAOSA;Reclamação;Horário;3
+06/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;3
+06/2021;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;4
+06/2021;RMSP;EMTU;Denúncia;Transporte Irregular;1
+06/2021;RMVPLN;EMTU;Denúncia;Transporte Irregular;1
+06/2021;RMSP;EMTU;Elogio;Atendimento;3
+06/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;64
+06/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;6
+06/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;3
+06/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;2
+06/2021;RMSP;EMTU;Informação;Horário;14
+06/2021;RMC;EMTU;Informação;Horário;3
+06/2021;RMVPLN;EMTU;Informação;Horário;2
+06/2021;RMBS;EMTU;Informação;Horário;2
+06/2021;RMSP;EMTU;Informação;Integração;3
+06/2021;RMSP;EMTU;Informação;Itinerário;6
+06/2021;RMC;EMTU;Informação;Itinerário;5
+06/2021;RMS;EMTU;Informação;Itinerário;2
+06/2021;RMBS;EMTU;Informação;Itinerário;2
+06/2021;RMSP;EMTU;Informação;Passe Desempregado;6
+06/2021;RMSP;EMTU;Informação;Passe Escolar;224
+06/2021;RMBS;EMTU;Informação;Passe Escolar;29
+06/2021;RMS;EMTU;Informação;Passe Escolar;21
+06/2021;RMVPLN;EMTU;Informação;Passe Escolar;17
+06/2021;RMC;EMTU;Informação;Passe Escolar;15
+06/2021;RMSP;EMTU;Informação;Passe Idoso;1
+06/2021;RMSP;EMTU;Informação;Serviços;57
+06/2021;RMC;EMTU;Informação;Serviços;5
+06/2021;RMBS;EMTU;Informação;Serviços;5
+06/2021;RMVPLN;EMTU;Informação;Serviços;4
+06/2021;RMS;EMTU;Informação;Serviços;1
+06/2021;RMSP;EMTU;Informação;Tarifa;1
+06/2021;RMSP;EMTU;Informação;Vale-Transporte;1
+06/2021;RMVPLN;EMTU;Informação;Vale-Transporte;1
+06/2021;RMS;EMTU;Reclamação;Atendimento;5
+06/2021;RMSP;EMTU;Reclamação;Atendimento;5
+06/2021;RMC;EMTU;Reclamação;Atendimento;1
+06/2021;RMSP;EMTU;Reclamação;Direção Perigosa;4
+06/2021;RMSP;EMTU;Reclamação;Horário;1
+06/2021;RMBS;EMTU;Reclamação;Horário;1
+06/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;3
+06/2021;RMS;EMTU;Reclamação;Integração;1
+06/2021;RMS;EMTU;Reclamação;Itinerário;1
+06/2021;RMSP;EMTU;Reclamação;Itinerário;1
+06/2021;RMC;EMTU;Reclamação;Itinerário;1
+06/2021;RMBS;EMTU;Reclamação;Itinerário;1
+06/2021;RMSP;EMTU;Reclamação;Ligado;1
+06/2021;RMSP;EMTU;Reclamação;Mau Atendimento ao Idoso;2
+06/2021;RMSP;EMTU;Reclamação;Passageiro Especial;1
+06/2021;RMSP;EMTU;Reclamação;Passe Escolar;4
+06/2021;RMBS;EMTU;Reclamação;Passe Escolar;1
+06/2021;RMSP;EMTU;Reclamação;Terminal;1
+06/2021;RMS;EMTU;Reclamação;Transporte Irregular;1
+06/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;19
+06/2021;RMSP;EMTU;Sugestão;Horário;23
+06/2021;RMC;EMTU;Sugestão;Horário;7
+06/2021;RMVPLN;EMTU;Sugestão;Horário;6
+06/2021;RMS;EMTU;Sugestão;Horário;2
+06/2021;RMBS;EMTU;Sugestão;Horário;2
+06/2021;RMSP;EMTU;Sugestão;Itinerário;14
+06/2021;RMC;EMTU;Sugestão;Itinerário;4
+06/2021;RMBS;EMTU;Sugestão;Itinerário;1
+06/2021;RMSP;EMTU;Sugestão;Terminal;2
+06/2021;RMSP;EUSA;Reclamação;Direção Perigosa;1
+06/2021;RMSP;EUSA;Reclamação;Horário;1
+06/2021;RMSP;EUSA;Reclamação;Tripulação/Funcionário;2
+06/2021;RMS;EXPRESSO AMARELINHO;Reclamação;Horário;3
+06/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;1
+06/2021;RMC;fretamento (todas);Denúncia;Transporte Irregular;1
+06/2021;RMBS;fretamento (todas);Informação;Serviços;1
+06/2021;RMSP;fretamento (todas);Reclamação;Direção Perigosa;1
+06/2021;RMSP;fretamento (todas);Reclamação;Tripulação/Funcionário;2
+06/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;1
+06/2021;RMSP;IMIGRANTES;Reclamação;Veículo;1
+06/2021;RMSP;INTERNORTE;Informação;Horário;1
+06/2021;RMSP;INTERNORTE;Informação;Itinerário;1
+06/2021;RMSP;INTERNORTE;Informação;Serviços;6
+06/2021;RMSP;INTERNORTE;Reclamação;Atendimento;7
+06/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;4
+06/2021;RMSP;INTERNORTE;Reclamação;Horário;44
+06/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;8
+06/2021;RMSP;INTERNORTE;Reclamação;Itinerário;1
+06/2021;RMSP;INTERNORTE;Reclamação;Mau Atendimento ao Idoso;1
+06/2021;RMSP;INTERNORTE;Reclamação;Superlotação;7
+06/2021;RMSP;INTERNORTE;Reclamação;Terminal;1
+06/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;19
+06/2021;RMSP;INTERNORTE;Reclamação;Veículo;3
+06/2021;RMSP;INTERNORTE;Sugestão;Horário;1
+06/2021;RMSP;INTERNORTE;Sugestão;Itinerário;1
+06/2021;RMSP;INTERNORTE;Sugestão;Tripulação/Funcionário;1
+06/2021;RMSP;INTERVIAS;Elogio;Atendimento;7
+06/2021;RMSP;INTERVIAS;Informação;Serviços;6
+06/2021;RMSP;INTERVIAS;Reclamação;Atendimento;2
+06/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;7
+06/2021;RMSP;INTERVIAS;Reclamação;Horário;16
+06/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;32
+06/2021;RMSP;INTERVIAS;Reclamação;Itinerário;1
+06/2021;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;2
+06/2021;RMSP;INTERVIAS;Reclamação;Passageiro Especial;1
+06/2021;RMSP;INTERVIAS;Reclamação;Superlotação;3
+06/2021;RMSP;INTERVIAS;Reclamação;Tarifa;6
+06/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;29
+06/2021;RMSP;INTERVIAS;Reclamação;Veículo;5
+06/2021;RMSP;INTERVIAS;Sugestão;Tripulação/Funcionário;1
+06/2021;RMVPLN;JACAREÍ;Informação;Serviços;1
+06/2021;RMVPLN;JACAREÍ;Reclamação;Tripulação/Funcionário;2
+06/2021;RMVPLN;JACAREÍ;Reclamação;Veículo;1
+06/2021;RMVPLN;LITORANEA;Informação;Passe Escolar;2
+06/2021;RMVPLN;LITORANEA;Reclamação;Horário;3
+06/2021;RMVPLN;LITORANEA;Reclamação;Superlotação;1
+06/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Veículo;1
+06/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Horário;4
+06/2021;RMVPLN;PASSARO MARRON;Informação;Itinerário;1
+06/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;3
+06/2021;RMVPLN;PASSARO MARRON;Reclamação;Mau Atendimento ao Idoso;1
+06/2021;RMVPLN;PASSARO MARRON;Reclamação;Passe Escolar;2
+06/2021;RMVPLN;PASSARO MARRON;Reclamação;Serviços;1
+06/2021;RMVPLN;PASSARO MARRON;Reclamação;Terminal;2
+06/2021;RMVPLN;PASSARO MARRON;Reclamação;Tripulação/Funcionário;1
+06/2021;RMVPLN;PASSARO MARRON;Sugestão;Horário;2
+06/2021;RMSP;PUBLIX;Reclamação;Horário;1
+06/2021;RMSP;PUBLIX;Reclamação;Superlotação;1
+06/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Vale-Transporte;2
+06/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;1
+06/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Tripulação/Funcionário;1
+06/2021;RMSP;RIACHO GRANDE;Elogio;Atendimento;1
+06/2021;RMSP;RIACHO GRANDE;Informação;Serviços;2
+06/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;5
+06/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;1
+06/2021;RMSP;RIACHO GRANDE;Reclamação;Itinerário;2
+06/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;1
+06/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;5
+06/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Itinerário;1
+06/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Tripulação/Funcionário;1
+06/2021;RMSP;RIGRAS;Reclamação;Veículo;1
+06/2021;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;4
+06/2021;RMSP;TRANS BUS;Informação;Horário;1
+06/2021;RMSP;TRANS BUS;Informação;Itinerário;1
+06/2021;RMSP;TRANS BUS;Reclamação;Direção Perigosa;1
+06/2021;RMSP;TRANS BUS;Reclamação;Horário;2
+06/2021;RMSP;TRANS BUS;Reclamação;Inobservância de Ponto;2
+06/2021;RMSP;TRANS BUS;Reclamação;Superlotação;1
+06/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;3
+06/2021;RMSP;TRIÂNGULO;Informação;Serviços;1
+06/2021;RMSP;TRIÂNGULO;Reclamação;Horário;1
+06/2021;RMSP;TRIÂNGULO;Reclamação;Itinerário;1
+06/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;1
+06/2021;RMSP;TUCURUVI;Informação;Serviços;1
+06/2021;RMSP;TUCURUVI;Reclamação;Horário;2
+06/2021;RMSP;UNILESTE;Elogio;Atendimento;1
+06/2021;RMSP;UNILESTE;Informação;Serviços;1
+06/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;2
+06/2021;RMSP;UNILESTE;Reclamação;Horário;17
+06/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;4
+06/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;7
+06/2021;RMSP;UNILESTE;Reclamação;Veículo;1
+06/2021;RMS;VB TRANSPORTES;Reclamação;Horário;2
+07/2021;RMSP;ABC SISTEMA;Informação;Serviços;1
+07/2021;RMSP;ABC SISTEMA;Reclamação;Direção Perigosa;1
+07/2021;RMSP;ABC SISTEMA;Reclamação;Horário;6
+07/2021;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;1
+07/2021;RMSP;ABC SISTEMA;Reclamação;Itinerário;1
+07/2021;RMSP;ABC SISTEMA;Reclamação;Serviços;1
+07/2021;RMSP;ABC SISTEMA;Reclamação;Superlotação;4
+07/2021;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;10
+07/2021;RMSP;ABC SISTEMA-Metra;Elogio;Atendimento;1
+07/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;3
+07/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Direção Perigosa;1
+07/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;4
+07/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;2
+07/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Passageiro Especial;1
+07/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;1
+07/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;1
+07/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;3
+07/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;4
+07/2021;RMSP;ABC SISTEMA-Metra;Sugestão;Terminal;1
+07/2021;RMSP;ANHANGUERA;Denúncia;Transporte Irregular;1
+07/2021;RMSP;ANHANGUERA;Elogio;Atendimento;3
+07/2021;RMSP;ANHANGUERA;Informação;Horário;2
+07/2021;RMSP;ANHANGUERA;Informação;Serviços;2
+07/2021;RMSP;ANHANGUERA;Reclamação;Atendimento;1
+07/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;4
+07/2021;RMSP;ANHANGUERA;Reclamação;Horário;46
+07/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;14
+07/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;3
+07/2021;RMSP;ANHANGUERA;Reclamação;Mau Atendimento ao Idoso;2
+07/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;10
+07/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;1
+07/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;23
+07/2021;RMSP;ANHANGUERA;Reclamação;Veículo;5
+07/2021;RMSP;ANHANGUERA;Sugestão;Horário;1
+07/2021;RMSP;ANHANGUERA;Sugestão;Veículo;1
+07/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Informação;Vale-Transporte;1
+07/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Horário;1
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;1
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;3
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;3
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;16
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;8
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;2
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;4
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;5
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;1
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;2
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tarifa;1
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Terminal;1
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;16
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Vale-Transporte;1
+07/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Atendimento;1
+07/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços;1
+07/2021;RMC;BUS(Mais);Informação;Horário;2
+07/2021;RMC;BUS(Mais);Informação;Tarifa;1
+07/2021;RMC;BUS(Mais);Informação;Vale-Transporte;3
+07/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;1
+07/2021;RMC;BUS(Mais);Reclamação;Horário;10
+07/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;2
+07/2021;RMC;BUS(Mais);Reclamação;Itinerário;1
+07/2021;RMC;BUS(Mais);Reclamação;Superlotação;3
+07/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;10
+07/2021;RMC;BUS(Mais);Sugestão;Horário;2
+07/2021;RMSP;CMT;Informação;Integração;2
+07/2021;RMSP;CMT;Informação;Passe Escolar;42
+07/2021;RMSP;CMT;Informação;Passe Idoso;26
+07/2021;RMSP;CMT;Informação;Serviços;94
+07/2021;RMSP;CMT;Informação;Vale-Transporte;42
+07/2021;RMSP;CMT;Reclamação;Atendimento;4
+07/2021;RMSP;CMT;Reclamação;Integração;2
+07/2021;RMSP;CMT;Reclamação;Passe Escolar;12
+07/2021;RMSP;CMT;Reclamação;Serviços;4
+07/2021;RMSP;CMT;Reclamação;Tarifa;1
+07/2021;RMSP;CMT;Reclamação;Tripulação/Funcionário;1
+07/2021;RMSP;CMT;Reclamação;Vale-Transporte;4
+07/2021;RMSP;CMT;Reclamação;Veículo;2
+07/2021;RMSP;CMT;Sugestão;Serviços;1
+07/2021;RMSP;CMT;Sugestão;Vale-Transporte;1
+07/2021;RMSP;EAOSA;Reclamação;Horário;2
+07/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;1
+07/2021;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;3
+07/2021;RMSP;EAOSA;Reclamação;Veículo;1
+07/2021;RMS;EMPRESA DE ONIBUS VILA EL;Informação;Itinerário;1
+07/2021;RMSP;EMTU;Denúncia;Transporte Irregular;2
+07/2021;RMVPLN;EMTU;Denúncia;Transporte Irregular;2
+07/2021;RMSP;EMTU;Elogio;Atendimento;1
+07/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;52
+07/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;10
+07/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;7
+07/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;2
+07/2021;RMSP;EMTU;Informação;Greve;1
+07/2021;RMSP;EMTU;Informação;Horário;7
+07/2021;RMC;EMTU;Informação;Horário;5
+07/2021;RMSP;EMTU;Informação;Integração;1
+07/2021;RMSP;EMTU;Informação;Itinerário;7
+07/2021;RMC;EMTU;Informação;Itinerário;6
+07/2021;RMVPLN;EMTU;Informação;Itinerário;2
+07/2021;RMSP;EMTU;Informação;Ligado;1
+07/2021;RMSP;EMTU;Informação;Passe Desempregado;5
+07/2021;RMSP;EMTU;Informação;Passe Escolar;309
+07/2021;RMVPLN;EMTU;Informação;Passe Escolar;29
+07/2021;RMBS;EMTU;Informação;Passe Escolar;26
+07/2021;RMC;EMTU;Informação;Passe Escolar;13
+07/2021;RMS;EMTU;Informação;Passe Escolar;13
+07/2021;RMSP;EMTU;Informação;Passe Idoso;1
+07/2021;RMSP;EMTU;Informação;Serviços;48
+07/2021;RMC;EMTU;Informação;Serviços;9
+07/2021;RMS;EMTU;Informação;Serviços;2
+07/2021;RMBS;EMTU;Informação;Serviços;2
+07/2021;RMVPLN;EMTU;Informação;Serviços;1
+07/2021;RMSP;EMTU;Informação;Tarifa;3
+07/2021;RMSP;EMTU;Reclamação;Atendimento;4
+07/2021;RMVPLN;EMTU;Reclamação;Atendimento;1
+07/2021;RMS;EMTU;Reclamação;Atendimento;1
+07/2021;RMBS;EMTU;Reclamação;Atendimento;1
+07/2021;RMSP;EMTU;Reclamação;Direção Perigosa;7
+07/2021;RMSP;EMTU;Reclamação;Horário;6
+07/2021;RMC;EMTU;Reclamação;Horário;4
+07/2021;RMVPLN;EMTU;Reclamação;Horário;2
+07/2021;RMS;EMTU;Reclamação;Horário;1
+07/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;6
+07/2021;RMSP;EMTU;Reclamação;Itinerário;3
+07/2021;RMSP;EMTU;Reclamação;Mau Atendimento ao Idoso;2
+07/2021;RMSP;EMTU;Reclamação;Passageiro Especial;5
+07/2021;RMSP;EMTU;Reclamação;Passe Escolar;6
+07/2021;RMS;EMTU;Reclamação;Passe Escolar;2
+07/2021;RMSP;EMTU;Reclamação;Serviços;4
+07/2021;RMC;EMTU;Reclamação;Serviços;2
+07/2021;RMSP;EMTU;Reclamação;Terminal;2
+07/2021;RMSP;EMTU;Reclamação;Transporte Irregular;3
+07/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;13
+07/2021;RMSP;EMTU;Reclamação;Veículo;5
+07/2021;RMBS;EMTU;Sugestão;Atendimento;1
+07/2021;RMSP;EMTU;Sugestão;Horário;37
+07/2021;RMC;EMTU;Sugestão;Horário;8
+07/2021;RMS;EMTU;Sugestão;Horário;8
+07/2021;RMVPLN;EMTU;Sugestão;Horário;3
+07/2021;RMSP;EMTU;Sugestão;Integração;1
+07/2021;RMSP;EMTU;Sugestão;Itinerário;9
+07/2021;RMC;EMTU;Sugestão;Itinerário;1
+07/2021;RMBS;EMTU;Sugestão;Itinerário;1
+07/2021;RMSP;EMTU;Sugestão;Serviços;1
+07/2021;RMSP;EMTU;Sugestão;Terminal;3
+07/2021;RMSP;EUSA;Reclamação;Horário;1
+07/2021;RMSP;EUSA;Reclamação;Mau Atendimento ao Idoso;1
+07/2021;RMSP;EUSA;Reclamação;Tripulação/Funcionário;2
+07/2021;RMS;EXPRESSO AMARELINHO;Reclamação;Horário;1
+07/2021;RMSP;EXPRESSO SBC;Informação;Serviços;1
+07/2021;RMSP;EXPRESSO SBC;Reclamação;Itinerário;1
+07/2021;RMSP;EXPRESSO SBC;Reclamação;Tripulação/Funcionário;2
+07/2021;RMSP;fretamento (todas);Informação;Passe Escolar;1
+07/2021;RMS;fretamento (todas);Informação;Serviços;1
+07/2021;RMS;fretamento (todas);Reclamação;Tripulação/Funcionário;1
+07/2021;RMSP;IMIGRANTES;Elogio;Atendimento;1
+07/2021;RMSP;IMIGRANTES;Reclamação;Horário;1
+07/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;2
+07/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;1
+07/2021;RMSP;INTERNORTE;Elogio;Atendimento;2
+07/2021;RMSP;INTERNORTE;Informação;Serviços;6
+07/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;6
+07/2021;RMSP;INTERNORTE;Reclamação;Horário;31
+07/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;17
+07/2021;RMSP;INTERNORTE;Reclamação;Itinerário;7
+07/2021;RMSP;INTERNORTE;Reclamação;Serviços;1
+07/2021;RMSP;INTERNORTE;Reclamação;Superlotação;4
+07/2021;RMSP;INTERNORTE;Reclamação;Terminal;1
+07/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;27
+07/2021;RMSP;INTERNORTE;Reclamação;Veículo;13
+07/2021;RMSP;INTERNORTE;Sugestão;Terminal;1
+07/2021;RMSP;INTERNORTE;Sugestão;Veículo;1
+07/2021;RMSP;INTERVIAS;Elogio;Atendimento;5
+07/2021;RMSP;INTERVIAS;Informação;Serviços;4
+07/2021;RMSP;INTERVIAS;Reclamação;Atendimento;3
+07/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;8
+07/2021;RMSP;INTERVIAS;Reclamação;Horário;15
+07/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;28
+07/2021;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;2
+07/2021;RMSP;INTERVIAS;Reclamação;Passageiro Especial;1
+07/2021;RMSP;INTERVIAS;Reclamação;Superlotação;4
+07/2021;RMSP;INTERVIAS;Reclamação;Terminal;1
+07/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;42
+07/2021;RMSP;INTERVIAS;Reclamação;Veículo;6
+07/2021;RMVPLN;JACAREÍ;Reclamação;Horário;1
+07/2021;RMVPLN;JACAREÍ;Reclamação;Inobservância de Ponto;1
+07/2021;RMVPLN;LITORANEA;Reclamação;Serviços;1
+07/2021;RMSP;PARQUE DAS NAÇÕES;Elogio;Atendimento;1
+07/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Direção Perigosa;1
+07/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Horário;1
+07/2021;RMVPLN;PASSARO MARRON;Informação;Serviços;1
+07/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;6
+07/2021;RMVPLN;PASSARO MARRON;Sugestão;Horário;1
+07/2021;RMSP;PUBLIX;Reclamação;Direção Perigosa;1
+07/2021;RMSP;PUBLIX;Reclamação;Horário;3
+07/2021;RMSP;PUBLIX;Reclamação;Tripulação/Funcionário;1
+07/2021;RMSP;PUBLIX;Reclamação;Veículo;1
+07/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Serviços;1
+07/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;1
+07/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Tripulação/Funcionário;1
+07/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;6
+07/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;2
+07/2021;RMSP;RIACHO GRANDE;Reclamação;Superlotação;1
+07/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;2
+07/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;4
+07/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Inobservância de Ponto;1
+07/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Tripulação/Funcionário;2
+07/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Veículo;1
+07/2021;RMVPLN;RODOVIÁRIO SÃO JOSE;Informação;Serviços;1
+07/2021;RMSP;SÃO CAMILO;Reclamação;Itinerário;1
+07/2021;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;1
+07/2021;RMSP;TRANS BUS;Elogio;Atendimento;1
+07/2021;RMSP;TRANS BUS;Informação;Serviços;1
+07/2021;RMSP;TRANS BUS;Reclamação;Direção Perigosa;1
+07/2021;RMSP;TRANS BUS;Reclamação;Horário;1
+07/2021;RMSP;TRANS BUS;Reclamação;Inobservância de Ponto;4
+07/2021;RMSP;TRANS BUS;Reclamação;Itinerário;1
+07/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;6
+07/2021;RMSP;TRANS BUS;Reclamação;Veículo;2
+07/2021;RMSP;TRIÂNGULO;Reclamação;Horário;2
+07/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;2
+07/2021;RMSP;TUCURUVI;Informação;Serviços;1
+07/2021;RMSP;TUCURUVI;Reclamação;Inobservância de Ponto;1
+07/2021;RMSP;UNILESTE;Informação;Itinerário;1
+07/2021;RMSP;UNILESTE;Informação;Serviços;3
+07/2021;RMSP;UNILESTE;Informação;Tarifa;1
+07/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;2
+07/2021;RMSP;UNILESTE;Reclamação;Horário;12
+07/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;8
+07/2021;RMSP;UNILESTE;Reclamação;Itinerário;1
+07/2021;RMSP;UNILESTE;Reclamação;Passageiro Especial;1
+07/2021;RMSP;UNILESTE;Reclamação;Superlotação;1
+07/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;8
+07/2021;RMSP;VIPE;Reclamação;Inobservância de Ponto;1
+08/2021;RMSP;ABC;Reclamação;Horário;1
+08/2021;RMSP;ABC SISTEMA;Elogio;Atendimento;2
+08/2021;RMSP;ABC SISTEMA;Informação;Serviços;1
+08/2021;RMSP;ABC SISTEMA;Reclamação;Horário;13
+08/2021;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;3
+08/2021;RMSP;ABC SISTEMA;Reclamação;Serviços;1
+08/2021;RMSP;ABC SISTEMA;Reclamação;Superlotação;1
+08/2021;RMSP;ABC SISTEMA;Reclamação;Tarifa;1
+08/2021;RMSP;ABC SISTEMA;Reclamação;Terminal;1
+08/2021;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;9
+08/2021;RMSP;ABC SISTEMA;Reclamação;Veículo;4
+08/2021;RMSP;ABC SISTEMA;Sugestão;Veículo;2
+08/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;5
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;5
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;3
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Integração;1
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Passageiro Especial;1
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;2
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;3
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;7
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;8
+08/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;2
+08/2021;RMVPLN;ABC TRANSPORTES;Reclamação;Horário;1
+08/2021;RMSP;ANHANGUERA;Denúncia;Tripulação/Funcionário;1
+08/2021;RMSP;ANHANGUERA;Elogio;Atendimento;3
+08/2021;RMSP;ANHANGUERA;Informação;Itinerário;2
+08/2021;RMSP;ANHANGUERA;Informação;Serviços;11
+08/2021;RMSP;ANHANGUERA;Reclamação;Atendimento;1
+08/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;4
+08/2021;RMSP;ANHANGUERA;Reclamação;Horário;81
+08/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;12
+08/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;5
+08/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;14
+08/2021;RMSP;ANHANGUERA;Reclamação;Terminal;1
+08/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;34
+08/2021;RMSP;ANHANGUERA;Reclamação;Veículo;9
+08/2021;RMSP;ANHANGUERA;Sugestão;Horário;4
+08/2021;RMSP;ANHANGUERA;Sugestão;Itinerário;2
+08/2021;RMSP;ANHANGUERA;Sugestão;Tripulação/Funcionário;1
+08/2021;RMSP;ANHANGUERA;Sugestão;Veículo;1
+08/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Inobservância de Ponto;1
+08/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Superlotação;2
+08/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Sugestão;Horário;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;4
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Horário;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Itinerário;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;12
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;19
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;9
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Atendimento;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;15
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;5
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Passageiro Especial;2
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;5
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Terminal;1
+08/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;12
+08/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços (VLT);2
+08/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Passageiro Especial;1
+08/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Serviços;1
+08/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Vale-Transporte;1
+08/2021;RMC;BUS(Mais);Informação;Horário;3
+08/2021;RMC;BUS(Mais);Informação;Passe Escolar;1
+08/2021;RMC;BUS(Mais);Informação;Serviços;7
+08/2021;RMC;BUS(Mais);Informação;Telefone;1
+08/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;1
+08/2021;RMC;BUS(Mais);Reclamação;Horário;25
+08/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;5
+08/2021;RMC;BUS(Mais);Reclamação;Superlotação;6
+08/2021;RMC;BUS(Mais);Reclamação;Tarifa;1
+08/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;8
+08/2021;RMC;BUS(Mais);Reclamação;Vale-Transporte;2
+08/2021;RMC;BUS(Mais);Reclamação;Veículo;3
+08/2021;RMC;BUS(Mais);Sugestão;Horário;2
+08/2021;RMSP;CMT;Informação;Integração;2
+08/2021;RMSP;CMT;Informação;Passe Escolar;107
+08/2021;RMSP;CMT;Informação;Passe Idoso;15
+08/2021;RMSP;CMT;Informação;Serviços;83
+08/2021;RMSP;CMT;Informação;Vale-Transporte;43
+08/2021;RMSP;CMT;Reclamação;Atendimento;6
+08/2021;RMSP;CMT;Reclamação;Passe Escolar;21
+08/2021;RMSP;CMT;Reclamação;Serviços;2
+08/2021;RMSP;CMT;Reclamação;Vale-Transporte;3
+08/2021;RMSP;CMT;Sugestão;Serviços;1
+08/2021;RMSP;CMT;Sugestão;Vale-Transporte;1
+08/2021;RMSP;EAOSA;Reclamação;Direção Perigosa;1
+08/2021;RMSP;EAOSA;Reclamação;Horário;2
+08/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;1
+08/2021;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;2
+08/2021;RMSP;EMTU;Denúncia;Transporte Irregular;1
+08/2021;RMSP;EMTU;Elogio;Atendimento;1
+08/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;63
+08/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;4
+08/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;4
+08/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;2
+08/2021;RMSP;EMTU;Informação;Horário;21
+08/2021;RMC;EMTU;Informação;Horário;2
+08/2021;RMS;EMTU;Informação;Horário;2
+08/2021;RMSP;EMTU;Informação;Integração;2
+08/2021;RMBS;EMTU;Informação;Integração;1
+08/2021;RMSP;EMTU;Informação;Isenção de Tarifa;1
+08/2021;RMSP;EMTU;Informação;Itinerário;18
+08/2021;RMC;EMTU;Informação;Itinerário;2
+08/2021;RMBS;EMTU;Informação;Itinerário;2
+08/2021;RMVPLN;EMTU;Informação;Itinerário;1
+08/2021;RMS;EMTU;Informação;Itinerário;1
+08/2021;RMSP;EMTU;Informação;Ligado;3
+08/2021;RMC;EMTU;Informação;Ligado;1
+08/2021;RMSP;EMTU;Informação;Passe Desempregado;1
+08/2021;RMSP;EMTU;Informação;Passe Escolar;805
+08/2021;RMBS;EMTU;Informação;Passe Escolar;103
+08/2021;RMVPLN;EMTU;Informação;Passe Escolar;66
+08/2021;RMS;EMTU;Informação;Passe Escolar;52
+08/2021;RMC;EMTU;Informação;Passe Escolar;50
+08/2021;RMVPLN;EMTU;Informação;Passe Idoso;1
+08/2021;RMSP;EMTU;Informação;Serviços;59
+08/2021;RMC;EMTU;Informação;Serviços;8
+08/2021;RMS;EMTU;Informação;Serviços;4
+08/2021;RMBS;EMTU;Informação;Serviços;3
+08/2021;RMVPLN;EMTU;Informação;Serviços;2
+08/2021;RMSP;EMTU;Informação;Tarifa;5
+08/2021;RMS;EMTU;Informação;Tarifa;2
+08/2021;RMS;EMTU;Informação;Vale-Transporte;2
+08/2021;RMSP;EMTU;Reclamação;Atendimento;6
+08/2021;RMC;EMTU;Reclamação;Atendimento;3
+08/2021;RMS;EMTU;Reclamação;Atendimento;1
+08/2021;RMVPLN;EMTU;Reclamação;Atendimento;1
+08/2021;RMSP;EMTU;Reclamação;Direção Perigosa;10
+08/2021;RMSP;EMTU;Reclamação;Horário;5
+08/2021;RMS;EMTU;Reclamação;Horário;4
+08/2021;RMBS;EMTU;Reclamação;Horário;3
+08/2021;RMVPLN;EMTU;Reclamação;Horário;2
+08/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;3
+08/2021;RMSP;EMTU;Reclamação;Itinerário;3
+08/2021;RMC;EMTU;Reclamação;Itinerário;2
+08/2021;RMSP;EMTU;Reclamação;Mau Atendimento ao Idoso;1
+08/2021;RMSP;EMTU;Reclamação;Passageiro Especial;1
+08/2021;RMSP;EMTU;Reclamação;Passe Escolar;10
+08/2021;RMVPLN;EMTU;Reclamação;Passe Escolar;2
+08/2021;RMBS;EMTU;Reclamação;Passe Escolar;2
+08/2021;RMC;EMTU;Reclamação;Passe Escolar;1
+08/2021;RMSP;EMTU;Reclamação;Serviços;5
+08/2021;RMSP;EMTU;Reclamação;Superlotação;1
+08/2021;RMS;EMTU;Reclamação;Superlotação;1
+08/2021;RMC;EMTU;Reclamação;Transporte Irregular;1
+08/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;13
+08/2021;RMSP;EMTU;Reclamação;Veículo;2
+08/2021;RMSP;EMTU;Sugestão;Horário;76
+08/2021;RMS;EMTU;Sugestão;Horário;26
+08/2021;RMC;EMTU;Sugestão;Horário;17
+08/2021;RMBS;EMTU;Sugestão;Horário;10
+08/2021;RMVPLN;EMTU;Sugestão;Horário;7
+08/2021;RMSP;EMTU;Sugestão;Itinerário;13
+08/2021;RMBS;EMTU;Sugestão;Itinerário;3
+08/2021;RMC;EMTU;Sugestão;Itinerário;2
+08/2021;RMSP;EMTU;Sugestão;Serviços;2
+08/2021;RMBS;EMTU;Sugestão;Serviços;1
+08/2021;RMSP;EUSA;Informação;Serviços;1
+08/2021;RMSP;EUSA;Reclamação;Horário;3
+08/2021;RMSP;EUSA;Reclamação;Inobservância de Ponto;1
+08/2021;RMSP;EUSA;Reclamação;Tripulação/Funcionário;1
+08/2021;RMS;EXPRESSO AMARELINHO;Reclamação;Superlotação;1
+08/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;2
+08/2021;RMSP;fretamento (todas);Informação;Passe Escolar;1
+08/2021;RMSP;fretamento (todas);Reclamação;Tripulação/Funcionário;2
+08/2021;RMSP;IMIGRANTES;Reclamação;Horário;6
+08/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;1
+08/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;2
+08/2021;RMSP;IMIGRANTES;Reclamação;Veículo;1
+08/2021;RMSP;INTERNORTE;Elogio;Atendimento;2
+08/2021;RMSP;INTERNORTE;Informação;Horário;1
+08/2021;RMSP;INTERNORTE;Informação;Itinerário;1
+08/2021;RMSP;INTERNORTE;Informação;Serviços;5
+08/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;8
+08/2021;RMSP;INTERNORTE;Reclamação;Horário;63
+08/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;23
+08/2021;RMSP;INTERNORTE;Reclamação;Itinerário;4
+08/2021;RMSP;INTERNORTE;Reclamação;Passageiro Especial;1
+08/2021;RMSP;INTERNORTE;Reclamação;Superlotação;10
+08/2021;RMSP;INTERNORTE;Reclamação;Terminal;1
+08/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;25
+08/2021;RMSP;INTERNORTE;Reclamação;Veículo;14
+08/2021;RMSP;INTERNORTE;Sugestão;Horário;2
+08/2021;RMSP;INTERNORTE;Sugestão;Veículo;1
+08/2021;RMSP;INTERVIAS;Elogio;Atendimento;3
+08/2021;RMSP;INTERVIAS;Informação;Horário;1
+08/2021;RMSP;INTERVIAS;Informação;Itinerário;1
+08/2021;RMSP;INTERVIAS;Informação;Serviços;6
+08/2021;RMSP;INTERVIAS;Reclamação;Atendimento;2
+08/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;9
+08/2021;RMSP;INTERVIAS;Reclamação;Horário;33
+08/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;29
+08/2021;RMSP;INTERVIAS;Reclamação;Itinerário;2
+08/2021;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;2
+08/2021;RMSP;INTERVIAS;Reclamação;Passageiro Especial;2
+08/2021;RMSP;INTERVIAS;Reclamação;Serviços;1
+08/2021;RMSP;INTERVIAS;Reclamação;Superlotação;10
+08/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;27
+08/2021;RMSP;INTERVIAS;Reclamação;Veículo;12
+08/2021;RMSP;INTERVIAS;Sugestão;Horário;1
+08/2021;RMVPLN;JACAREÍ;Denúncia;Tripulação/Funcionário;1
+08/2021;RMVPLN;JACAREÍ;Reclamação;Atendimento;1
+08/2021;RMVPLN;JACAREÍ;Reclamação;Horário;3
+08/2021;RMVPLN;JACAREÍ;Reclamação;Tripulação/Funcionário;2
+08/2021;RMVPLN;PASSARO MARRON;Informação;Horário;1
+08/2021;RMVPLN;PASSARO MARRON;Informação;Passe Escolar;1
+08/2021;RMVPLN;PASSARO MARRON;Informação;Vale-Transporte;1
+08/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;1
+08/2021;RMSP;PUBLIX;Reclamação;Tripulação/Funcionário;1
+08/2021;RMSP;PUBLIX;Sugestão;Horário;1
+08/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Horário;1
+08/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;3
+08/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Inobservância de Ponto;1
+08/2021;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Horário;2
+08/2021;RMSP;RIACHO GRANDE;Reclamação;Direção Perigosa;1
+08/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;5
+08/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;3
+08/2021;RMSP;RIACHO GRANDE;Reclamação;Mau Atendimento ao Idoso;1
+08/2021;RMSP;RIACHO GRANDE;Reclamação;Superlotação;1
+08/2021;RMSP;RIACHO GRANDE;Reclamação;Terminal;1
+08/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;4
+08/2021;RMSP;RIACHO GRANDE;Reclamação;Veículo;3
+08/2021;RMSP;RIBEIRÃO PIRES;Informação;Serviços;2
+08/2021;RMSP;SÃO CAMILO;Informação;Serviços;1
+08/2021;RMSP;SÃO CAMILO;Reclamação;Horário;3
+08/2021;RMSP;SÃO CAMILO;Reclamação;Mau Atendimento ao Idoso;1
+08/2021;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;2
+08/2021;RMSP;TRANS BUS;Reclamação;Horário;4
+08/2021;RMSP;TRANS BUS;Reclamação;Inobservância de Ponto;4
+08/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;5
+08/2021;RMSP;TRANS BUS;Reclamação;Veículo;1
+08/2021;RMSP;TRIÂNGULO;Reclamação;Horário;2
+08/2021;RMSP;TRIÂNGULO;Reclamação;Inobservância de Ponto;1
+08/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;1
+08/2021;RMSP;TUCURUVI;Reclamação;Inobservância de Ponto;1
+08/2021;RMSP;UNILESTE;Informação;Horário;1
+08/2021;RMSP;UNILESTE;Informação;Serviços;3
+08/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;1
+08/2021;RMSP;UNILESTE;Reclamação;Horário;11
+08/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;6
+08/2021;RMSP;UNILESTE;Reclamação;Itinerário;2
+08/2021;RMSP;UNILESTE;Reclamação;Superlotação;5
+08/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;10
+08/2021;RMSP;UNILESTE;Reclamação;Veículo;1
+08/2021;RMS;VB TRANSPORTES;Informação;Passe Escolar;1
+09/2021;RMSP;ABC SISTEMA;Elogio;Atendimento;3
+09/2021;RMSP;ABC SISTEMA;Informação;Serviços;3
+09/2021;RMSP;ABC SISTEMA;Reclamação;Direção Perigosa;2
+09/2021;RMSP;ABC SISTEMA;Reclamação;Horário;26
+09/2021;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;5
+09/2021;RMSP;ABC SISTEMA;Reclamação;Passageiro Especial;1
+09/2021;RMSP;ABC SISTEMA;Reclamação;Serviços;1
+09/2021;RMSP;ABC SISTEMA;Reclamação;Superlotação;3
+09/2021;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;8
+09/2021;RMSP;ABC SISTEMA;Reclamação;Veículo;12
+09/2021;RMSP;ABC SISTEMA-Metra;Elogio;Atendimento;1
+09/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;2
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Direção Perigosa;1
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;5
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;2
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Integração;1
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Mau Atendimento ao Idoso;1
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;3
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;5
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;12
+09/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;4
+09/2021;RMSP;ABC SISTEMA-Metra;Sugestão;Serviços;1
+09/2021;RMSP;ABC SISTEMA-Metra;Sugestão;Veículo;1
+09/2021;RMVPLN;ABC TRANSPORTES;Informação;Horário;1
+09/2021;RMVPLN;ABC TRANSPORTES;Reclamação;Horário;1
+09/2021;RMSP;ANHANGUERA;Elogio;Atendimento;2
+09/2021;RMSP;ANHANGUERA;Informação;Horário;2
+09/2021;RMSP;ANHANGUERA;Informação;Serviços;7
+09/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;8
+09/2021;RMSP;ANHANGUERA;Reclamação;Horário;87
+09/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;19
+09/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;5
+09/2021;RMSP;ANHANGUERA;Reclamação;Mau Atendimento ao Idoso;1
+09/2021;RMSP;ANHANGUERA;Reclamação;Serviços;2
+09/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;8
+09/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;2
+09/2021;RMSP;ANHANGUERA;Reclamação;Terminal;2
+09/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;32
+09/2021;RMSP;ANHANGUERA;Reclamação;Vale-Transporte;1
+09/2021;RMSP;ANHANGUERA;Reclamação;Veículo;5
+09/2021;RMSP;ANHANGUERA;Sugestão;Horário;4
+09/2021;RMSP;ANHANGUERA;Sugestão;Tripulação/Funcionário;1
+09/2021;RMSP;ANHANGUERA;Sugestão;Veículo;1
+09/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Informação;Serviços;1
+09/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Horário;1
+09/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Sugestão;Horário;1
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;3
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;8
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;1
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;25
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Tarifa;1
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;6
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Atendimento;1
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;2
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;9
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;13
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;1
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;5
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;13
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;1
+09/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Itinerário;1
+09/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços;2
+09/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Serviços;1
+09/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Terminal;1
+09/2021;RMBS;BR MOBILIDADE VLT;Sugestão;Serviços;1
+09/2021;RMC;BUS(Mais);Informação;Horário;1
+09/2021;RMC;BUS(Mais);Informação;Passe Escolar;3
+09/2021;RMC;BUS(Mais);Informação;Serviços;6
+09/2021;RMC;BUS(Mais);Reclamação;Atendimento;2
+09/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;3
+09/2021;RMC;BUS(Mais);Reclamação;Horário;25
+09/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;4
+09/2021;RMC;BUS(Mais);Reclamação;Integração;1
+09/2021;RMC;BUS(Mais);Reclamação;Itinerário;2
+09/2021;RMC;BUS(Mais);Reclamação;Superlotação;15
+09/2021;RMC;BUS(Mais);Reclamação;Terminal;2
+09/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;5
+09/2021;RMC;BUS(Mais);Reclamação;Vale-Transporte;2
+09/2021;RMC;BUS(Mais);Reclamação;Veículo;2
+09/2021;RMC;BUS(Mais);Sugestão;Horário;2
+09/2021;RMC;BUS(Mais);Sugestão;Serviços;1
+09/2021;RMC;BUS(Mais);Sugestão;Veículo;1
+09/2021;RMSP;CMT;Denúncia;Vale-Transporte;2
+09/2021;RMSP;CMT;Informação;Passe Escolar;74
+09/2021;RMSP;CMT;Informação;Passe Idoso;18
+09/2021;RMSP;CMT;Informação;Serviços;109
+09/2021;RMSP;CMT;Informação;Tarifa;2
+09/2021;RMSP;CMT;Informação;Vale-Transporte;35
+09/2021;RMSP;CMT;Reclamação;Atendimento;8
+09/2021;RMSP;CMT;Reclamação;Integração;1
+09/2021;RMSP;CMT;Reclamação;Passageiro Especial;1
+09/2021;RMSP;CMT;Reclamação;Passe Escolar;22
+09/2021;RMSP;CMT;Reclamação;Serviços;1
+09/2021;RMSP;CMT;Reclamação;Tarifa;3
+09/2021;RMSP;CMT;Reclamação;Terminal;1
+09/2021;RMSP;CMT;Reclamação;Vale-Transporte;1
+09/2021;RMSP;EAOSA;Reclamação;Horário;1
+09/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;1
+09/2021;RMSP;EAOSA;Reclamação;Terminal;1
+09/2021;RMSP;EMTU;Denúncia;Transporte Irregular;3
+09/2021;RMS;EMTU;Denúncia;Transporte Irregular;2
+09/2021;RMSP;EMTU;Elogio;Atendimento;1
+09/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;62
+09/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;7
+09/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;5
+09/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;1
+09/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;1
+09/2021;RMSP;EMTU;Informação;Horário;11
+09/2021;RMS;EMTU;Informação;Horário;4
+09/2021;RMVPLN;EMTU;Informação;Horário;2
+09/2021;RMC;EMTU;Informação;Horário;2
+09/2021;RMSP;EMTU;Informação;Integração;4
+09/2021;RMBS;EMTU;Informação;Integração;2
+09/2021;RMSP;EMTU;Informação;Isenção de Tarifa;1
+09/2021;RMSP;EMTU;Informação;Itinerário;20
+09/2021;RMC;EMTU;Informação;Itinerário;6
+09/2021;RMVPLN;EMTU;Informação;Itinerário;4
+09/2021;RMBS;EMTU;Informação;Itinerário;3
+09/2021;RMS;EMTU;Informação;Itinerário;2
+09/2021;RMSP;EMTU;Informação;Passe Desempregado;2
+09/2021;RMSP;EMTU;Informação;Passe Escolar;620
+09/2021;RMVPLN;EMTU;Informação;Passe Escolar;57
+09/2021;RMBS;EMTU;Informação;Passe Escolar;56
+09/2021;RMC;EMTU;Informação;Passe Escolar;37
+09/2021;RMS;EMTU;Informação;Passe Escolar;29
+09/2021;RMSP;EMTU;Informação;Passe Idoso;1
+09/2021;RMBS;EMTU;Informação;Passe Idoso;1
+09/2021;RMSP;EMTU;Informação;Serviços;55
+09/2021;RMBS;EMTU;Informação;Serviços;7
+09/2021;RMC;EMTU;Informação;Serviços;5
+09/2021;RMVPLN;EMTU;Informação;Serviços;3
+09/2021;RMS;EMTU;Informação;Serviços;2
+09/2021;RMSP;EMTU;Informação;Tarifa;3
+09/2021;RMS;EMTU;Informação;Tarifa;1
+09/2021;RMSP;EMTU;Informação;Vale-Transporte;3
+09/2021;RMSP;EMTU;Reclamação;Atendimento;5
+09/2021;RMC;EMTU;Reclamação;Atendimento;2
+09/2021;RMBS;EMTU;Reclamação;Atendimento;2
+09/2021;RMS;EMTU;Reclamação;Atendimento;1
+09/2021;RMVPLN;EMTU;Reclamação;Atendimento;1
+09/2021;RMSP;EMTU;Reclamação;Direção Perigosa;8
+09/2021;RMSP;EMTU;Reclamação;Horário;6
+09/2021;RMVPLN;EMTU;Reclamação;Horário;4
+09/2021;RMS;EMTU;Reclamação;Horário;2
+09/2021;RMC;EMTU;Reclamação;Horário;1
+09/2021;RMBS;EMTU;Reclamação;Horário;1
+09/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;1
+09/2021;RMSP;EMTU;Reclamação;Itinerário;1
+09/2021;RMC;EMTU;Reclamação;Itinerário;1
+09/2021;RMSP;EMTU;Reclamação;Ligado;1
+09/2021;RMSP;EMTU;Reclamação;Passageiro Especial;3
+09/2021;RMSP;EMTU;Reclamação;Passe Escolar;13
+09/2021;RMS;EMTU;Reclamação;Passe Escolar;1
+09/2021;RMVPLN;EMTU;Reclamação;Passe Escolar;1
+09/2021;RMSP;EMTU;Reclamação;Serviços;4
+09/2021;RMC;EMTU;Reclamação;Serviços;1
+09/2021;RMSP;EMTU;Reclamação;Superlotação;2
+09/2021;RMSP;EMTU;Reclamação;Terminal;3
+09/2021;RMSP;EMTU;Reclamação;Transporte Irregular;4
+09/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;29
+09/2021;RMSP;EMTU;Reclamação;Veículo;1
+09/2021;RMSP;EMTU;Sugestão;Horário;90
+09/2021;RMVPLN;EMTU;Sugestão;Horário;16
+09/2021;RMC;EMTU;Sugestão;Horário;15
+09/2021;RMBS;EMTU;Sugestão;Horário;13
+09/2021;RMS;EMTU;Sugestão;Horário;10
+09/2021;RMSP;EMTU;Sugestão;Itinerário;14
+09/2021;RMBS;EMTU;Sugestão;Itinerário;4
+09/2021;RMS;EMTU;Sugestão;Itinerário;1
+09/2021;RMSP;EMTU;Sugestão;Passe Escolar;1
+09/2021;RMSP;EMTU;Sugestão;Serviços;3
+09/2021;RMC;EMTU;Sugestão;Tarifa;1
+09/2021;RMSP;EMTU;Sugestão;Terminal;2
+09/2021;RMC;EMTU;Sugestão;Terminal;1
+09/2021;RMSP;EUSA;Reclamação;Horário;5
+09/2021;RMSP;EUSA;Reclamação;Tripulação/Funcionário;2
+09/2021;RMS;EXPRESSO AMARELINHO;Reclamação;Inobservância de Ponto;1
+09/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;3
+09/2021;RMSP;EXPRESSO SBC;Reclamação;Itinerário;1
+09/2021;RMVPLN;fretamento (todas);Denúncia;Transporte Irregular;1
+09/2021;RMS;fretamento (todas);Informação;Serviços;1
+09/2021;RMSP;fretamento (todas);Reclamação;Direção Perigosa;1
+09/2021;RMBS;fretamento (todas);Reclamação;Direção Perigosa;1
+09/2021;RMSP;IMIGRANTES;Informação;Itinerário;1
+09/2021;RMSP;IMIGRANTES;Reclamação;Horário;7
+09/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;3
+09/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;1
+09/2021;RMSP;IMIGRANTES;Reclamação;Veículo;1
+09/2021;RMSP;INTERNORTE;Denúncia;Tarifa;1
+09/2021;RMSP;INTERNORTE;Elogio;Atendimento;3
+09/2021;RMSP;INTERNORTE;Informação;Serviços;5
+09/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;7
+09/2021;RMSP;INTERNORTE;Reclamação;Horário;68
+09/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;23
+09/2021;RMSP;INTERNORTE;Reclamação;Itinerário;7
+09/2021;RMSP;INTERNORTE;Reclamação;Mau Atendimento ao Idoso;3
+09/2021;RMSP;INTERNORTE;Reclamação;Passageiro Especial;1
+09/2021;RMSP;INTERNORTE;Reclamação;Serviços;1
+09/2021;RMSP;INTERNORTE;Reclamação;Superlotação;7
+09/2021;RMSP;INTERNORTE;Reclamação;Tarifa;1
+09/2021;RMSP;INTERNORTE;Reclamação;Terminal;2
+09/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;28
+09/2021;RMSP;INTERNORTE;Reclamação;Veículo;1
+09/2021;RMSP;INTERNORTE;Sugestão;Horário;4
+09/2021;RMSP;INTERNORTE;Sugestão;Itinerário;1
+09/2021;RMSP;INTERNORTE;Sugestão;Veículo;1
+09/2021;RMSP;INTERVIAS;Denúncia;Atendimento;1
+09/2021;RMSP;INTERVIAS;Elogio;Atendimento;1
+09/2021;RMSP;INTERVIAS;Informação;Horário;1
+09/2021;RMSP;INTERVIAS;Informação;Serviços;6
+09/2021;RMSP;INTERVIAS;Informação;Telefone;1
+09/2021;RMSP;INTERVIAS;Reclamação;Atendimento;1
+09/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;4
+09/2021;RMSP;INTERVIAS;Reclamação;Horário;49
+09/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;32
+09/2021;RMSP;INTERVIAS;Reclamação;Passageiro Especial;3
+09/2021;RMSP;INTERVIAS;Reclamação;Superlotação;18
+09/2021;RMSP;INTERVIAS;Reclamação;Terminal;3
+09/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;39
+09/2021;RMSP;INTERVIAS;Reclamação;Veículo;1
+09/2021;RMSP;INTERVIAS;Sugestão;Horário;2
+09/2021;RMVPLN;JACAREÍ;Informação;Serviços;1
+09/2021;RMVPLN;JACAREÍ;Reclamação;Horário;2
+09/2021;RMVPLN;JACAREÍ;Reclamação;Superlotação;1
+09/2021;RMSP;MOBIBRASIL TRANSPORTE;Reclamação;Atendimento;1
+09/2021;RMVPLN;PASSARO MARRON;Elogio;Atendimento;1
+09/2021;RMVPLN;PASSARO MARRON;Informação;Serviços;2
+09/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;10
+09/2021;RMVPLN;PASSARO MARRON;Reclamação;Superlotação;1
+09/2021;RMVPLN;PASSARO MARRON;Sugestão;Horário;1
+09/2021;RMSP;PUBLIX;Reclamação;Horário;1
+09/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Vale-Transporte;1
+09/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;3
+09/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Itinerário;3
+09/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;3
+09/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Veículo;1
+09/2021;RMSP;RIACHO GRANDE;Reclamação;Direção Perigosa;1
+09/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;6
+09/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;2
+09/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;3
+09/2021;RMSP;RIACHO GRANDE;Reclamação;Veículo;1
+09/2021;RMSP;RIACHO GRANDE;Sugestão;Horário;1
+09/2021;RMSP;RIBEIRÃO PIRES;Elogio;Atendimento;1
+09/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;3
+09/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Inobservância de Ponto;1
+09/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Itinerário;1
+09/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Tripulação/Funcionário;1
+09/2021;RMVPLN;RODOVIÁRIO SÃO JOSE;Reclamação;Horário;1
+09/2021;RMSP;SÃO CAMILO;Reclamação;Horário;4
+09/2021;RMSP;SÃO CAMILO;Reclamação;Inobservância de Ponto;1
+09/2021;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;2
+09/2021;RMSP;TRANS BUS;Reclamação;Direção Perigosa;1
+09/2021;RMSP;TRANS BUS;Reclamação;Horário;2
+09/2021;RMSP;TRANS BUS;Reclamação;Inobservância de Ponto;2
+09/2021;RMSP;TRANS BUS;Reclamação;Itinerário;3
+09/2021;RMSP;TRANS BUS;Reclamação;Superlotação;2
+09/2021;RMSP;TRANS BUS;Reclamação;Tripulação/Funcionário;4
+09/2021;RMSP;TRANS BUS;Reclamação;Veículo;2
+09/2021;RMSP;TRIÂNGULO;Reclamação;Horário;6
+09/2021;RMSP;TRIÂNGULO;Reclamação;Inobservância de Ponto;1
+09/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;3
+09/2021;RMSP;TRIÂNGULO;Reclamação;Veículo;1
+09/2021;RMSP;TUCURUVI;Informação;Serviços;1
+09/2021;RMSP;UNILESTE;Elogio;Atendimento;3
+09/2021;RMSP;UNILESTE;Informação;Serviços;4
+09/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;2
+09/2021;RMSP;UNILESTE;Reclamação;Horário;13
+09/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;7
+09/2021;RMSP;UNILESTE;Reclamação;Mau Atendimento ao Idoso;1
+09/2021;RMSP;UNILESTE;Reclamação;Superlotação;1
+09/2021;RMSP;UNILESTE;Reclamação;Tarifa;1
+09/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;12
+09/2021;RMSP;UNILESTE;Reclamação;Veículo;2
+09/2021;RMSP;UNILESTE;Sugestão;Horário;1
+09/2021;RMSP;UNILESTE;Sugestão;Itinerário;1
+09/2021;RMSP;UNILESTE;Sugestão;Tripulação/Funcionário;1
+09/2021;RMS;VB TRANSPORTES;Reclamação;Horário;2
+10/2021;RMSP;ABC SISTEMA;Elogio;Atendimento;1
+10/2021;RMSP;ABC SISTEMA;Informação;Itinerário;1
+10/2021;RMSP;ABC SISTEMA;Informação;Serviços;4
+10/2021;RMSP;ABC SISTEMA;Reclamação;Atendimento;1
+10/2021;RMSP;ABC SISTEMA;Reclamação;Direção Perigosa;5
+10/2021;RMSP;ABC SISTEMA;Reclamação;Horário;111
+10/2021;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;7
+10/2021;RMSP;ABC SISTEMA;Reclamação;Mau Atendimento ao Idoso;1
+10/2021;RMSP;ABC SISTEMA;Reclamação;Superlotação;6
+10/2021;RMSP;ABC SISTEMA;Reclamação;Terminal;1
+10/2021;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;24
+10/2021;RMSP;ABC SISTEMA;Reclamação;Veículo;11
+10/2021;RMSP;ABC SISTEMA;Sugestão;Itinerário;1
+10/2021;RMSP;ABC SISTEMA;Sugestão;Veículo;1
+10/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;4
+10/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Direção Perigosa;1
+10/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;5
+10/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;2
+10/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tarifa;2
+10/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;3
+10/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;5
+10/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;8
+10/2021;RMVPLN;ABC TRANSPORTES;Reclamação;Horário;1
+10/2021;RMVPLN;ABC TRANSPORTES;Reclamação;Integração;1
+10/2021;RMSP;ANHANGUERA;Denúncia;Atendimento;1
+10/2021;RMSP;ANHANGUERA;Elogio;Atendimento;3
+10/2021;RMSP;ANHANGUERA;Informação;Horário;2
+10/2021;RMSP;ANHANGUERA;Informação;Itinerário;1
+10/2021;RMSP;ANHANGUERA;Informação;Serviços;12
+10/2021;RMSP;ANHANGUERA;Reclamação;Atendimento;3
+10/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;16
+10/2021;RMSP;ANHANGUERA;Reclamação;Horário;64
+10/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;27
+10/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;11
+10/2021;RMSP;ANHANGUERA;Reclamação;Passageiro Especial;1
+10/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;6
+10/2021;RMSP;ANHANGUERA;Reclamação;Terminal;3
+10/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;23
+10/2021;RMSP;ANHANGUERA;Reclamação;Veículo;9
+10/2021;RMSP;ANHANGUERA;Sugestão;Horário;3
+10/2021;RMSP;ANHANGUERA;Sugestão;Itinerário;3
+10/2021;RMSP;ANHANGUERA;Sugestão;Terminal;1
+10/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Superlotação;1
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;3
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;7
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;2
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;17
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;8
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;2
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;10
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;11
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Mau Atendimento ao Idoso;1
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;7
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tarifa;1
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;14
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;3
+10/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Horário;4
+10/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços;2
+10/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Serviços;1
+10/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Terminal;1
+10/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Tripulação/Funcionário;2
+10/2021;RMC;BUS(Mais);Informação;Horário;1
+10/2021;RMC;BUS(Mais);Informação;Itinerário;2
+10/2021;RMC;BUS(Mais);Informação;Passe Escolar;1
+10/2021;RMC;BUS(Mais);Informação;Serviços;4
+10/2021;RMC;BUS(Mais);Informação;Tarifa;1
+10/2021;RMC;BUS(Mais);Informação;Vale-Transporte;8
+10/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;6
+10/2021;RMC;BUS(Mais);Reclamação;Horário;25
+10/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;6
+10/2021;RMC;BUS(Mais);Reclamação;Itinerário;2
+10/2021;RMC;BUS(Mais);Reclamação;Serviços;1
+10/2021;RMC;BUS(Mais);Reclamação;Superlotação;9
+10/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;10
+10/2021;RMC;BUS(Mais);Sugestão;Horário;3
+10/2021;RMC;BUS(Mais);Sugestão;Itinerário;1
+10/2021;RMC;BUS(Mais);Sugestão;Serviços;1
+10/2021;RMC;BUS(Mais);Sugestão;Veículo;2
+10/2021;RMSP;CMT;Informação;Carteira Passageiro Especial;1
+10/2021;RMSP;CMT;Informação;Integração;2
+10/2021;RMSP;CMT;Informação;Passe Escolar;72
+10/2021;RMSP;CMT;Informação;Passe Idoso;9
+10/2021;RMSP;CMT;Informação;Serviços;75
+10/2021;RMSP;CMT;Informação;Vale-Transporte;55
+10/2021;RMSP;CMT;Reclamação;Atendimento;4
+10/2021;RMSP;CMT;Reclamação;Integração;2
+10/2021;RMSP;CMT;Reclamação;Passageiro Especial;1
+10/2021;RMSP;CMT;Reclamação;Passe Escolar;25
+10/2021;RMSP;CMT;Reclamação;Tarifa;2
+10/2021;RMSP;CMT;Reclamação;Terminal;1
+10/2021;RMSP;CMT;Reclamação;Vale-Transporte;3
+10/2021;RMSP;CMT;Sugestão;Vale-Transporte;1
+10/2021;RMSP;CMT;Sugestão;Veículo;1
+10/2021;RMSP;EAOSA;Reclamação;Horário;7
+10/2021;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;6
+10/2021;RMSP;EMTU;Denúncia;Terminal;1
+10/2021;RMS;EMTU;Denúncia;Transporte Irregular;2
+10/2021;RMC;EMTU;Denúncia;Transporte Irregular;1
+10/2021;RMC;EMTU;Elogio;Atendimento;1
+10/2021;RMSP;EMTU;Elogio;Atendimento;1
+10/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;38
+10/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;5
+10/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;1
+10/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;1
+10/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;1
+10/2021;RMSP;EMTU;Informação;Horário;12
+10/2021;RMS;EMTU;Informação;Horário;3
+10/2021;RMC;EMTU;Informação;Horário;1
+10/2021;RMVPLN;EMTU;Informação;Horário;1
+10/2021;RMSP;EMTU;Informação;Integração;4
+10/2021;RMSP;EMTU;Informação;Itinerário;10
+10/2021;RMC;EMTU;Informação;Itinerário;6
+10/2021;RMS;EMTU;Informação;Itinerário;1
+10/2021;RMSP;EMTU;Informação;Ligado;2
+10/2021;RMSP;EMTU;Informação;Passe Desempregado;4
+10/2021;RMSP;EMTU;Informação;Passe Escolar;478
+10/2021;RMVPLN;EMTU;Informação;Passe Escolar;47
+10/2021;RMBS;EMTU;Informação;Passe Escolar;33
+10/2021;RMC;EMTU;Informação;Passe Escolar;27
+10/2021;RMS;EMTU;Informação;Passe Escolar;19
+10/2021;RMSP;EMTU;Informação;Serviços;60
+10/2021;RMC;EMTU;Informação;Serviços;7
+10/2021;RMBS;EMTU;Informação;Serviços;4
+10/2021;RMVPLN;EMTU;Informação;Serviços;2
+10/2021;RMBS;EMTU;Informação;Serviços (VLT);2
+10/2021;RMSP;EMTU;Informação;Tarifa;3
+10/2021;RMBS;EMTU;Informação;Tarifa;1
+10/2021;RMSP;EMTU;Informação;Vale-Transporte;2
+10/2021;RMVPLN;EMTU;Informação;Vale-Transporte;1
+10/2021;RMSP;EMTU;Reclamação;Atendimento;9
+10/2021;RMC;EMTU;Reclamação;Atendimento;2
+10/2021;RMS;EMTU;Reclamação;Atendimento;2
+10/2021;RMBS;EMTU;Reclamação;Atendimento;1
+10/2021;RMSP;EMTU;Reclamação;Direção Perigosa;7
+10/2021;RMSP;EMTU;Reclamação;Horário;1
+10/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;1
+10/2021;RMSP;EMTU;Reclamação;Itinerário;2
+10/2021;RMS;EMTU;Reclamação;Itinerário;1
+10/2021;RMC;EMTU;Reclamação;Itinerário;1
+10/2021;RMSP;EMTU;Reclamação;Mau Atendimento ao Idoso;1
+10/2021;RMSP;EMTU;Reclamação;Passageiro Especial;3
+10/2021;RMSP;EMTU;Reclamação;Passe Escolar;13
+10/2021;RMSP;EMTU;Reclamação;Serviços;3
+10/2021;RMSP;EMTU;Reclamação;Tarifa;1
+10/2021;RMSP;EMTU;Reclamação;Transporte Irregular;8
+10/2021;RMC;EMTU;Reclamação;Transporte Irregular;1
+10/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;37
+10/2021;RMSP;EMTU;Sugestão;Horário;73
+10/2021;RMC;EMTU;Sugestão;Horário;9
+10/2021;RMVPLN;EMTU;Sugestão;Horário;9
+10/2021;RMS;EMTU;Sugestão;Horário;8
+10/2021;RMBS;EMTU;Sugestão;Horário;8
+10/2021;RMC;EMTU;Sugestão;Integração;1
+10/2021;RMSP;EMTU;Sugestão;Integração;1
+10/2021;RMSP;EMTU;Sugestão;Itinerário;13
+10/2021;RMC;EMTU;Sugestão;Itinerário;2
+10/2021;RMBS;EMTU;Sugestão;Itinerário;1
+10/2021;RMSP;EMTU;Sugestão;Serviços;1
+10/2021;RMSP;EMTU;Sugestão;Terminal;1
+10/2021;RMBS;EMTU;Sugestão;Veículo;1
+10/2021;RMSP;EUSA;Reclamação;Horário;1
+10/2021;RMSP;EUSA;Reclamação;Inobservância de Ponto;1
+10/2021;RMSP;EUSA;Reclamação;Mau Atendimento ao Idoso;1
+10/2021;RMSP;EUSA;Reclamação;Tripulação/Funcionário;6
+10/2021;RMS;EXPRESSO AMARELINHO;Sugestão;Horário;1
+10/2021;RMVPLN;EXPRESSO REDENÇÃO;Informação;Horário;1
+10/2021;RMSP;fretamento (todas);Informação;Serviços;1
+10/2021;RMSP;fretamento (todas);Reclamação;Direção Perigosa;1
+10/2021;RMSP;IMIGRANTES;Reclamação;Direção Perigosa;1
+10/2021;RMSP;IMIGRANTES;Reclamação;Horário;8
+10/2021;RMSP;IMIGRANTES;Reclamação;Itinerário;2
+10/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;1
+10/2021;RMSP;INTERNORTE;Elogio;Atendimento;1
+10/2021;RMSP;INTERNORTE;Informação;Serviços;4
+10/2021;RMSP;INTERNORTE;Reclamação;Atendimento;1
+10/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;8
+10/2021;RMSP;INTERNORTE;Reclamação;Horário;45
+10/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;19
+10/2021;RMSP;INTERNORTE;Reclamação;Itinerário;4
+10/2021;RMSP;INTERNORTE;Reclamação;Serviços;1
+10/2021;RMSP;INTERNORTE;Reclamação;Superlotação;15
+10/2021;RMSP;INTERNORTE;Reclamação;Tarifa;2
+10/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;23
+10/2021;RMSP;INTERNORTE;Reclamação;Veículo;7
+10/2021;RMSP;INTERNORTE;Sugestão;Horário;1
+10/2021;RMSP;INTERVIAS;Elogio;Atendimento;2
+10/2021;RMSP;INTERVIAS;Informação;Serviços;3
+10/2021;RMSP;INTERVIAS;Reclamação;Atendimento;1
+10/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;5
+10/2021;RMSP;INTERVIAS;Reclamação;Horário;30
+10/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;45
+10/2021;RMSP;INTERVIAS;Reclamação;Itinerário;3
+10/2021;RMSP;INTERVIAS;Reclamação;Passageiro Especial;2
+10/2021;RMSP;INTERVIAS;Reclamação;Superlotação;18
+10/2021;RMSP;INTERVIAS;Reclamação;Tarifa;1
+10/2021;RMSP;INTERVIAS;Reclamação;Terminal;2
+10/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;42
+10/2021;RMSP;INTERVIAS;Reclamação;Veículo;9
+10/2021;RMVPLN;JACAREÍ;Reclamação;Passageiro Especial;1
+10/2021;RMVPLN;JACAREÍ;Reclamação;Superlotação;1
+10/2021;RMSP;PARQUE DAS NAÇÕES;Reclamação;Veículo;1
+10/2021;RMVPLN;PASSARO MARRON;Informação;Passe Escolar;1
+10/2021;RMVPLN;PASSARO MARRON;Informação;Serviços;1
+10/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;4
+10/2021;RMVPLN;PASSARO MARRON;Reclamação;Passe Escolar;1
+10/2021;RMVPLN;PASSARO MARRON;Reclamação;Veículo;1
+10/2021;RMVPLN;PASSARO MARRON;Sugestão;Horário;3
+10/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;9
+10/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Inobservância de Ponto;1
+10/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Itinerário;1
+10/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;2
+10/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Veículo;1
+10/2021;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Integração;1
+10/2021;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Serviços;1
+10/2021;RMSP;RIACHO GRANDE;Informação;Horário;1
+10/2021;RMSP;RIACHO GRANDE;Reclamação;Direção Perigosa;1
+10/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;7
+10/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;1
+10/2021;RMSP;RIACHO GRANDE;Reclamação;Superlotação;1
+10/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;1
+10/2021;RMSP;RIACHO GRANDE;Reclamação;Veículo;1
+10/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;9
+10/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Tripulação/Funcionário;1
+10/2021;RMSP;RIBEIRÃO PIRES;Sugestão;Itinerário;1
+10/2021;RMVPLN;RODOVIÁRIO SÃO JOSE;Reclamação;Direção Perigosa;1
+10/2021;RMVPLN;SANTA BRANCA;Reclamação;Horário;1
+10/2021;RMSP;SÃO CAMILO;Informação;Serviços;1
+10/2021;RMSP;SÃO CAMILO;Reclamação;Horário;5
+10/2021;RMSP;SÃO CAMILO;Reclamação;Inobservância de Ponto;1
+10/2021;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;1
+10/2021;RMSP;TRIÂNGULO;Reclamação;Horário;2
+10/2021;RMSP;TRIÂNGULO;Reclamação;Mau Atendimento ao Idoso;1
+10/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;1
+10/2021;RMSP;TRIÂNGULO;Reclamação;Veículo;1
+10/2021;RMSP;TUCURUVI;Reclamação;Itinerário;2
+10/2021;RMSP;UNILESTE;Elogio;Atendimento;1
+10/2021;RMSP;UNILESTE;Informação;Serviços;3
+10/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;3
+10/2021;RMSP;UNILESTE;Reclamação;Horário;19
+10/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;10
+10/2021;RMSP;UNILESTE;Reclamação;Mau Atendimento ao Idoso;1
+10/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;7
+10/2021;RMSP;UNILESTE;Reclamação;Veículo;1
+10/2021;RMS;VB TRANSPORTES;Reclamação;Horário;2
+11/2021;RMSP;ABC SISTEMA;Elogio;Atendimento;2
+11/2021;RMSP;ABC SISTEMA;Informação;Horário;1
+11/2021;RMSP;ABC SISTEMA;Informação;Itinerário;1
+11/2021;RMSP;ABC SISTEMA;Informação;Serviços;1
+11/2021;RMSP;ABC SISTEMA;Informação;Telefone;1
+11/2021;RMSP;ABC SISTEMA;Reclamação;Direção Perigosa;7
+11/2021;RMSP;ABC SISTEMA;Reclamação;Horário;51
+11/2021;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;8
+11/2021;RMSP;ABC SISTEMA;Reclamação;Itinerário;2
+11/2021;RMSP;ABC SISTEMA;Reclamação;Passageiro Especial;1
+11/2021;RMSP;ABC SISTEMA;Reclamação;Superlotação;7
+11/2021;RMSP;ABC SISTEMA;Reclamação;Terminal;1
+11/2021;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;20
+11/2021;RMSP;ABC SISTEMA;Reclamação;Veículo;9
+11/2021;RMSP;ABC SISTEMA;Sugestão;Horário;2
+11/2021;RMSP;ABC SISTEMA;Sugestão;Itinerário;1
+11/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;3
+11/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Direção Perigosa;1
+11/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;5
+11/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Itinerário;3
+11/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;1
+11/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;2
+11/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;3
+11/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;4
+11/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;6
+11/2021;RMSP;ABC SISTEMA-Metra;Sugestão;Terminal;2
+11/2021;RMVPLN;ABC TRANSPORTES;Reclamação;Horário;1
+11/2021;RMVPLN;ABC TRANSPORTES;Reclamação;Superlotação;1
+11/2021;RMSP;ANHANGUERA;Elogio;Atendimento;3
+11/2021;RMSP;ANHANGUERA;Informação;Horário;1
+11/2021;RMSP;ANHANGUERA;Informação;Itinerário;1
+11/2021;RMSP;ANHANGUERA;Informação;Serviços;13
+11/2021;RMSP;ANHANGUERA;Reclamação;Atendimento;1
+11/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;6
+11/2021;RMSP;ANHANGUERA;Reclamação;Horário;115
+11/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;22
+11/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;5
+11/2021;RMSP;ANHANGUERA;Reclamação;Passageiro Especial;1
+11/2021;RMSP;ANHANGUERA;Reclamação;Serviços;1
+11/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;20
+11/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;1
+11/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;43
+11/2021;RMSP;ANHANGUERA;Reclamação;Veículo;7
+11/2021;RMSP;ANHANGUERA;Sugestão;Horário;4
+11/2021;RMSP;ANHANGUERA;Sugestão;Terminal;1
+11/2021;RMSP;ANHANGUERA;Sugestão;Veículo;1
+11/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Informação;Passe Escolar;1
+11/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Horário;1
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;2
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Itinerário;1
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;9
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;2
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;14
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;11
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Atendimento;4
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;8
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;6
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;7
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Integração;1
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;7
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tarifa;3
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;13
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;6
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Terminal;1
+11/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Veículo;1
+11/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços;1
+11/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Serviços;1
+11/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Tripulação/Funcionário;1
+11/2021;RMC;BUS(Mais);Elogio;Atendimento;1
+11/2021;RMC;BUS(Mais);Informação;Horário;1
+11/2021;RMC;BUS(Mais);Informação;Itinerário;1
+11/2021;RMC;BUS(Mais);Informação;Passe Escolar;2
+11/2021;RMC;BUS(Mais);Informação;Serviços;5
+11/2021;RMC;BUS(Mais);Informação;Vale-Transporte;5
+11/2021;RMC;BUS(Mais);Reclamação;Atendimento;1
+11/2021;RMC;BUS(Mais);Reclamação;Direção Perigosa;5
+11/2021;RMC;BUS(Mais);Reclamação;Horário;37
+11/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;8
+11/2021;RMC;BUS(Mais);Reclamação;Serviços;1
+11/2021;RMC;BUS(Mais);Reclamação;Superlotação;23
+11/2021;RMC;BUS(Mais);Reclamação;Tarifa;1
+11/2021;RMC;BUS(Mais);Reclamação;Terminal;1
+11/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;9
+11/2021;RMC;BUS(Mais);Reclamação;Veículo;1
+11/2021;RMC;BUS(Mais);Sugestão;Horário;3
+11/2021;RMC;BUS(Mais);Sugestão;Itinerário;2
+11/2021;RMVPLN;CINTER;Informação;Tarifa;1
+11/2021;RMSP;CMT;Informação;Passe Escolar;47
+11/2021;RMSP;CMT;Informação;Passe Idoso;20
+11/2021;RMSP;CMT;Informação;Serviços;91
+11/2021;RMSP;CMT;Informação;Vale-Transporte;59
+11/2021;RMSP;CMT;Reclamação;Atendimento;4
+11/2021;RMSP;CMT;Reclamação;Integração;3
+11/2021;RMSP;CMT;Reclamação;Passe Escolar;15
+11/2021;RMSP;CMT;Reclamação;Tarifa;1
+11/2021;RMSP;CMT;Reclamação;Terminal;2
+11/2021;RMSP;CMT;Reclamação;Vale-Transporte;10
+11/2021;RMSP;EAOSA;Reclamação;Direção Perigosa;1
+11/2021;RMSP;EAOSA;Reclamação;Horário;1
+11/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;1
+11/2021;RMSP;EAOSA;Reclamação;Veículo;1
+11/2021;RMSP;EMTU;Denúncia;Itinerário;1
+11/2021;RMSP;EMTU;Denúncia;Transporte Irregular;1
+11/2021;RMSP;EMTU;Elogio;Atendimento;2
+11/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;51
+11/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;7
+11/2021;RMC;EMTU;Informação;Carteira Passageiro Especial;3
+11/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;2
+11/2021;RMSP;EMTU;Informação;Horário;7
+11/2021;RMC;EMTU;Informação;Horário;4
+11/2021;RMS;EMTU;Informação;Horário;3
+11/2021;RMBS;EMTU;Informação;Horário;1
+11/2021;RMSP;EMTU;Informação;Integração;1
+11/2021;RMSP;EMTU;Informação;Isenção de Tarifa;1
+11/2021;RMSP;EMTU;Informação;Itinerário;10
+11/2021;RMC;EMTU;Informação;Itinerário;6
+11/2021;RMVPLN;EMTU;Informação;Itinerário;1
+11/2021;RMBS;EMTU;Informação;Itinerário;1
+11/2021;RMSP;EMTU;Informação;Ligado;1
+11/2021;RMSP;EMTU;Informação;Passe Escolar;342
+11/2021;RMVPLN;EMTU;Informação;Passe Escolar;34
+11/2021;RMBS;EMTU;Informação;Passe Escolar;28
+11/2021;RMC;EMTU;Informação;Passe Escolar;26
+11/2021;RMS;EMTU;Informação;Passe Escolar;17
+11/2021;RMSP;EMTU;Informação;Passe Idoso;5
+11/2021;RMS;EMTU;Informação;Passe Idoso;1
+11/2021;RMBS;EMTU;Informação;Passe Idoso;1
+11/2021;RMSP;EMTU;Informação;Serviços;54
+11/2021;RMBS;EMTU;Informação;Serviços;4
+11/2021;RMC;EMTU;Informação;Serviços;3
+11/2021;RMVPLN;EMTU;Informação;Serviços;2
+11/2021;RMS;EMTU;Informação;Serviços;1
+11/2021;RMSP;EMTU;Informação;Tarifa;3
+11/2021;RMC;EMTU;Informação;Tarifa;1
+11/2021;RMSP;EMTU;Informação;Telefone;1
+11/2021;RMSP;EMTU;Reclamação;Atendimento;7
+11/2021;RMC;EMTU;Reclamação;Atendimento;2
+11/2021;RMSP;EMTU;Reclamação;Direção Perigosa;8
+11/2021;RMSP;EMTU;Reclamação;Horário;1
+11/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;3
+11/2021;RMSP;EMTU;Reclamação;Itinerário;5
+11/2021;RMSP;EMTU;Reclamação;Ligado;1
+11/2021;RMSP;EMTU;Reclamação;Mau Atendimento ao Idoso;3
+11/2021;RMSP;EMTU;Reclamação;Passageiro Especial;3
+11/2021;RMSP;EMTU;Reclamação;Passe Escolar;7
+11/2021;RMBS;EMTU;Reclamação;Passe Escolar;2
+11/2021;RMVPLN;EMTU;Reclamação;Passe Escolar;1
+11/2021;RMSP;EMTU;Reclamação;Serviços;6
+11/2021;RMBS;EMTU;Reclamação;Serviços;1
+11/2021;RMBS;EMTU;Reclamação;Superlotação;1
+11/2021;RMSP;EMTU;Reclamação;Superlotação;1
+11/2021;RMSP;EMTU;Reclamação;Transporte Irregular;6
+11/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;21
+11/2021;RMC;EMTU;Reclamação;Tripulação/Funcionário;1
+11/2021;RMSP;EMTU;Reclamação;Veículo;1
+11/2021;RMSP;EMTU;Sugestão;Horário;81
+11/2021;RMC;EMTU;Sugestão;Horário;24
+11/2021;RMS;EMTU;Sugestão;Horário;10
+11/2021;RMVPLN;EMTU;Sugestão;Horário;6
+11/2021;RMBS;EMTU;Sugestão;Horário;1
+11/2021;RMSP;EMTU;Sugestão;Integração;1
+11/2021;RMSP;EMTU;Sugestão;Itinerário;21
+11/2021;RMBS;EMTU;Sugestão;Itinerário;4
+11/2021;RMC;EMTU;Sugestão;Itinerário;1
+11/2021;RMSP;EMTU;Sugestão;Passageiro Especial;1
+11/2021;RMSP;EMTU;Sugestão;Serviços;1
+11/2021;RMSP;EMTU;Sugestão;Tarifa;1
+11/2021;RMSP;EUSA;Reclamação;Horário;3
+11/2021;RMSP;EUSA;Reclamação;Inobservância de Ponto;3
+11/2021;RMSP;EUSA;Reclamação;Mau Atendimento ao Idoso;1
+11/2021;RMSP;EUSA;Reclamação;Passageiro Especial;1
+11/2021;RMSP;EUSA;Reclamação;Tarifa;1
+11/2021;RMSP;EUSA;Reclamação;Tripulação/Funcionário;3
+11/2021;RMS;EXPRESSO AMARELINHO;Informação;Vale-Transporte;1
+11/2021;RMS;EXPRESSO AMARELINHO;Reclamação;Superlotação;1
+11/2021;RMVPLN;EXPRESSO REDENÇÃO;Reclamação;Horário;1
+11/2021;RMBS;fretamento (todas);Informação;Serviços;1
+11/2021;RMSP;fretamento (todas);Informação;Serviços;1
+11/2021;RMSP;fretamento (todas);Reclamação;Direção Perigosa;1
+11/2021;RMC;fretamento (todas);Reclamação;Direção Perigosa;1
+11/2021;RMSP;fretamento (todas);Reclamação;Superlotação;1
+11/2021;RMSP;fretamento (todas);Reclamação;Transporte Irregular;1
+11/2021;RMSP;fretamento (todas);Reclamação;Tripulação/Funcionário;2
+11/2021;RMSP;IMIGRANTES;Reclamação;Horário;6
+11/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;2
+11/2021;RMSP;IMIGRANTES;Reclamação;Itinerário;1
+11/2021;RMSP;IMIGRANTES;Reclamação;Veículo;2
+11/2021;RMSP;INTERNORTE;Informação;Horário;2
+11/2021;RMSP;INTERNORTE;Informação;Passe Escolar;1
+11/2021;RMSP;INTERNORTE;Informação;Serviços;6
+11/2021;RMSP;INTERNORTE;Reclamação;Atendimento;3
+11/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;8
+11/2021;RMSP;INTERNORTE;Reclamação;Horário;46
+11/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;22
+11/2021;RMSP;INTERNORTE;Reclamação;Itinerário;8
+11/2021;RMSP;INTERNORTE;Reclamação;Mau Atendimento ao Idoso;4
+11/2021;RMSP;INTERNORTE;Reclamação;Serviços;1
+11/2021;RMSP;INTERNORTE;Reclamação;Superlotação;27
+11/2021;RMSP;INTERNORTE;Reclamação;Tarifa;2
+11/2021;RMSP;INTERNORTE;Reclamação;Terminal;1
+11/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;17
+11/2021;RMSP;INTERNORTE;Reclamação;Veículo;11
+11/2021;RMSP;INTERNORTE;Sugestão;Veículo;1
+11/2021;RMSP;INTERVIAS;Elogio;Atendimento;3
+11/2021;RMSP;INTERVIAS;Informação;Horário;1
+11/2021;RMSP;INTERVIAS;Informação;Itinerário;1
+11/2021;RMSP;INTERVIAS;Informação;Passe Escolar;1
+11/2021;RMSP;INTERVIAS;Informação;Serviços;9
+11/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;6
+11/2021;RMSP;INTERVIAS;Reclamação;Horário;50
+11/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;43
+11/2021;RMSP;INTERVIAS;Reclamação;Itinerário;6
+11/2021;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;2
+11/2021;RMSP;INTERVIAS;Reclamação;Passageiro Especial;1
+11/2021;RMSP;INTERVIAS;Reclamação;Superlotação;21
+11/2021;RMSP;INTERVIAS;Reclamação;Terminal;4
+11/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;45
+11/2021;RMSP;INTERVIAS;Reclamação;Veículo;7
+11/2021;RMSP;INTERVIAS;Sugestão;Terminal;1
+11/2021;RMVPLN;JACAREÍ;Reclamação;Horário;2
+11/2021;RMVPLN;JACAREÍ;Reclamação;Superlotação;1
+11/2021;RMVPLN;PASSARO MARRON;Informação;Isenção de Tarifa;1
+11/2021;RMVPLN;PASSARO MARRON;Informação;Passe Escolar;1
+11/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;2
+11/2021;RMVPLN;PASSARO MARRON;Reclamação;Passe Escolar;1
+11/2021;RMVPLN;PASSARO MARRON;Reclamação;Superlotação;8
+11/2021;RMVPLN;PASSARO MARRON;Reclamação;Tarifa;3
+11/2021;RMVPLN;PASSARO MARRON;Reclamação;Tripulação/Funcionário;3
+11/2021;RMVPLN;PASSARO MARRON;Reclamação;Vale-Transporte;1
+11/2021;RMVPLN;PASSARO MARRON;Reclamação;Veículo;1
+11/2021;RMVPLN;PASSARO MARRON;Sugestão;Horário;2
+11/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;7
+11/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Itinerário;1
+11/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;4
+11/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Tripulação/Funcionário;1
+11/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Veículo;1
+11/2021;RMSP;RIACHO GRANDE;Informação;Serviços;2
+11/2021;RMSP;RIACHO GRANDE;Reclamação;Direção Perigosa;2
+11/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;7
+11/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;2
+11/2021;RMSP;RIACHO GRANDE;Reclamação;Superlotação;1
+11/2021;RMSP;RIACHO GRANDE;Reclamação;Terminal;1
+11/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;3
+11/2021;RMSP;RIACHO GRANDE;Reclamação;Veículo;4
+11/2021;RMSP;RIACHO GRANDE;Sugestão;Horário;1
+11/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;11
+11/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Tripulação/Funcionário;1
+11/2021;RMSP;SÃO CAMILO;Reclamação;Horário;7
+11/2021;RMSP;SÃO CAMILO;Reclamação;Inobservância de Ponto;1
+11/2021;RMSP;TRIÂNGULO;Reclamação;Horário;5
+11/2021;RMSP;TRIÂNGULO;Reclamação;Itinerário;1
+11/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;2
+11/2021;RMSP;TUCURUVI;Reclamação;Itinerário;1
+11/2021;RMSP;TUCURUVI;Reclamação;Tripulação/Funcionário;1
+11/2021;RMSP;UNILESTE;Elogio;Atendimento;2
+11/2021;RMSP;UNILESTE;Informação;Passe Escolar;1
+11/2021;RMSP;UNILESTE;Informação;Serviços;3
+11/2021;RMSP;UNILESTE;Reclamação;Atendimento;1
+11/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;2
+11/2021;RMSP;UNILESTE;Reclamação;Horário;24
+11/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;4
+11/2021;RMSP;UNILESTE;Reclamação;Itinerário;1
+11/2021;RMSP;UNILESTE;Reclamação;Superlotação;4
+11/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;18
+11/2021;RMSP;UNILESTE;Reclamação;Veículo;2
+11/2021;RMSP;UNILESTE;Sugestão;Horário;2
+12/2021;RMSP;ABC SISTEMA;Elogio;Atendimento;4
+12/2021;RMSP;ABC SISTEMA;Informação;Serviços;3
+12/2021;RMSP;ABC SISTEMA;Reclamação;Direção Perigosa;2
+12/2021;RMSP;ABC SISTEMA;Reclamação;Horário;36
+12/2021;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;7
+12/2021;RMSP;ABC SISTEMA;Reclamação;Itinerário;3
+12/2021;RMSP;ABC SISTEMA;Reclamação;Mau Atendimento ao Idoso;1
+12/2021;RMSP;ABC SISTEMA;Reclamação;Superlotação;9
+12/2021;RMSP;ABC SISTEMA;Reclamação;Tarifa;1
+12/2021;RMSP;ABC SISTEMA;Reclamação;Terminal;1
+12/2021;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;15
+12/2021;RMSP;ABC SISTEMA;Reclamação;Veículo;2
+12/2021;RMSP;ABC SISTEMA;Sugestão;Horário;1
+12/2021;RMSP;ABC SISTEMA;Sugestão;Veículo;1
+12/2021;RMSP;ABC SISTEMA-Metra;Informação;Serviços;5
+12/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;8
+12/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;4
+12/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Passageiro Especial;2
+12/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;5
+12/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tarifa;4
+12/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;3
+12/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;11
+12/2021;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;2
+12/2021;RMSP;ANHANGUERA;Elogio;Atendimento;4
+12/2021;RMSP;ANHANGUERA;Informação;Horário;1
+12/2021;RMSP;ANHANGUERA;Informação;Serviços;17
+12/2021;RMSP;ANHANGUERA;Reclamação;Atendimento;2
+12/2021;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;10
+12/2021;RMSP;ANHANGUERA;Reclamação;Horário;96
+12/2021;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;24
+12/2021;RMSP;ANHANGUERA;Reclamação;Itinerário;6
+12/2021;RMSP;ANHANGUERA;Reclamação;Mau Atendimento ao Idoso;1
+12/2021;RMSP;ANHANGUERA;Reclamação;Superlotação;15
+12/2021;RMSP;ANHANGUERA;Reclamação;Tarifa;1
+12/2021;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;45
+12/2021;RMSP;ANHANGUERA;Reclamação;Veículo;8
+12/2021;RMSP;ANHANGUERA;Sugestão;Tripulação/Funcionário;1
+12/2021;RMSP;ANHANGUERA;Sugestão;Veículo;1
+12/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Informação;Serviços;1
+12/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Informação;Vale-Transporte;1
+12/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Superlotação;1
+12/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Terminal;2
+12/2021;RMS;AUTO ONIBUS SAO JOAO LTDA;Sugestão;Horário;1
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Itinerário;1
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;3
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;1
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;13
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;9
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;6
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;16
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;11
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Integração;1
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Passageiro Especial;1
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;1
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;3
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Terminal;1
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;15
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;2
+12/2021;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Horário;3
+12/2021;RMBS;BR MOBILIDADE VLT;Informação;Serviços (VLT);2
+12/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Itinerário;1
+12/2021;RMBS;BR MOBILIDADE VLT;Reclamação;Terminal;1
+12/2021;RMC;BUS(Mais);Informação;Horário;1
+12/2021;RMC;BUS(Mais);Informação;Serviços;8
+12/2021;RMC;BUS(Mais);Informação;Vale-Transporte;6
+12/2021;RMC;BUS(Mais);Reclamação;Horário;34
+12/2021;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;3
+12/2021;RMC;BUS(Mais);Reclamação;Itinerário;6
+12/2021;RMC;BUS(Mais);Reclamação;Mau Atendimento ao Idoso;1
+12/2021;RMC;BUS(Mais);Reclamação;Superlotação;9
+12/2021;RMC;BUS(Mais);Reclamação;Tarifa;1
+12/2021;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;12
+12/2021;RMC;BUS(Mais);Reclamação;Veículo;1
+12/2021;RMC;BUS(Mais);Sugestão;Horário;4
+12/2021;RMVPLN;CINTER;Reclamação;Horário;1
+12/2021;RMVPLN;CINTER;Sugestão;Horário;1
+12/2021;RMSP;CMT;Informação;Integração;1
+12/2021;RMSP;CMT;Informação;Passe Escolar;33
+12/2021;RMSP;CMT;Informação;Passe Idoso;11
+12/2021;RMSP;CMT;Informação;Serviços;91
+12/2021;RMSP;CMT;Informação;Vale-Transporte;36
+12/2021;RMSP;CMT;Reclamação;Atendimento;2
+12/2021;RMSP;CMT;Reclamação;Integração;3
+12/2021;RMSP;CMT;Reclamação;Passe Escolar;32
+12/2021;RMSP;CMT;Reclamação;Tarifa;2
+12/2021;RMSP;CMT;Reclamação;Vale-Transporte;10
+12/2021;RMSP;EAOSA;Reclamação;Direção Perigosa;1
+12/2021;RMSP;EAOSA;Reclamação;Horário;3
+12/2021;RMSP;EAOSA;Reclamação;Inobservância de Ponto;2
+12/2021;RMSP;EAOSA;Reclamação;Itinerário;1
+12/2021;RMSP;EAOSA;Reclamação;Mau Atendimento ao Idoso;1
+12/2021;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;2
+12/2021;RMSP;EAOSA;Reclamação;Veículo;1
+12/2021;RMSP;EMTU;Denúncia;Transporte Irregular;4
+12/2021;RMSP;EMTU;Elogio;Atendimento;1
+12/2021;RMSP;EMTU;Informação;Carteira Passageiro Especial;36
+12/2021;RMBS;EMTU;Informação;Carteira Passageiro Especial;5
+12/2021;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;2
+12/2021;RMS;EMTU;Informação;Carteira Passageiro Especial;1
+12/2021;RMSP;EMTU;Informação;Horário;8
+12/2021;RMVPLN;EMTU;Informação;Horário;2
+12/2021;RMSP;EMTU;Informação;Integração;5
+12/2021;RMSP;EMTU;Informação;Itinerário;8
+12/2021;RMBS;EMTU;Informação;Itinerário;1
+12/2021;RMSP;EMTU;Informação;Ligado;1
+12/2021;RMC;EMTU;Informação;Ligado;1
+12/2021;RMSP;EMTU;Informação;Passe Desempregado;2
+12/2021;RMSP;EMTU;Informação;Passe Escolar;88
+12/2021;RMBS;EMTU;Informação;Passe Escolar;14
+12/2021;RMVPLN;EMTU;Informação;Passe Escolar;13
+12/2021;RMC;EMTU;Informação;Passe Escolar;7
+12/2021;RMS;EMTU;Informação;Passe Escolar;7
+12/2021;RMSP;EMTU;Informação;Serviços;42
+12/2021;RMC;EMTU;Informação;Serviços;9
+12/2021;RMBS;EMTU;Informação;Serviços;3
+12/2021;RMVPLN;EMTU;Informação;Serviços;2
+12/2021;RMS;EMTU;Informação;Serviços;1
+12/2021;RMSP;EMTU;Informação;Tarifa;4
+12/2021;RMC;EMTU;Informação;Tarifa;1
+12/2021;RMC;EMTU;Informação;Telefone;1
+12/2021;RMSP;EMTU;Informação;Vale-Transporte;6
+12/2021;RMS;EMTU;Informação;Vale-Transporte;1
+12/2021;RMSP;EMTU;Reclamação;Atendimento;7
+12/2021;RMVPLN;EMTU;Reclamação;Atendimento;1
+12/2021;RMC;EMTU;Reclamação;Atendimento;1
+12/2021;RMSP;EMTU;Reclamação;Direção Perigosa;6
+12/2021;RMC;EMTU;Reclamação;Horário;2
+12/2021;RMSP;EMTU;Reclamação;Horário;1
+12/2021;RMSP;EMTU;Reclamação;Inobservância de Ponto;1
+12/2021;RMSP;EMTU;Reclamação;Itinerário;2
+12/2021;RMSP;EMTU;Reclamação;Ligado;1
+12/2021;RMSP;EMTU;Reclamação;Passageiro Especial;2
+12/2021;RMSP;EMTU;Reclamação;Passe Escolar;1
+12/2021;RMVPLN;EMTU;Reclamação;Passe Escolar;1
+12/2021;RMS;EMTU;Reclamação;Passe Escolar;1
+12/2021;RMSP;EMTU;Reclamação;Serviços;5
+12/2021;RMSP;EMTU;Reclamação;Superlotação;1
+12/2021;RMSP;EMTU;Reclamação;Tarifa;1
+12/2021;RMSP;EMTU;Reclamação;Transporte Irregular;5
+12/2021;RMS;EMTU;Reclamação;Transporte Irregular;1
+12/2021;RMSP;EMTU;Reclamação;Tripulação/Funcionário;15
+12/2021;RMSP;EMTU;Reclamação;Vale-Transporte;1
+12/2021;RMSP;EMTU;Reclamação;Veículo;1
+12/2021;RMSP;EMTU;Sugestão;Horário;50
+12/2021;RMC;EMTU;Sugestão;Horário;16
+12/2021;RMS;EMTU;Sugestão;Horário;5
+12/2021;RMVPLN;EMTU;Sugestão;Horário;5
+12/2021;RMBS;EMTU;Sugestão;Horário;4
+12/2021;RMSP;EMTU;Sugestão;Itinerário;19
+12/2021;RMSP;EMTU;Sugestão;Passageiro Especial;1
+12/2021;RMSP;EMTU;Sugestão;Serviços;2
+12/2021;RMSP;EMTU;Sugestão;Tarifa;1
+12/2021;RMC;EMTU;Sugestão;Tarifa;1
+12/2021;RMSP;EUSA;Reclamação;Horário;7
+12/2021;RMS;EXPRESSO AMARELINHO;Informação;Horário;1
+12/2021;RMSP;EXPRESSO SBC;Reclamação;Horário;1
+12/2021;RMSP;fretamento (todas);Informação;Carteira Passageiro Especial;1
+12/2021;RMSP;fretamento (todas);Reclamação;Direção Perigosa;1
+12/2021;RMSP;fretamento (todas);Reclamação;Tripulação/Funcionário;1
+12/2021;RMSP;fretamento (todas);Reclamação;Veículo;1
+12/2021;RMSP;IMIGRANTES;Informação;Horário;1
+12/2021;RMSP;IMIGRANTES;Reclamação;Direção Perigosa;1
+12/2021;RMSP;IMIGRANTES;Reclamação;Horário;8
+12/2021;RMSP;IMIGRANTES;Reclamação;Inobservância de Ponto;1
+12/2021;RMSP;IMIGRANTES;Reclamação;Itinerário;1
+12/2021;RMSP;IMIGRANTES;Reclamação;Superlotação;1
+12/2021;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;2
+12/2021;RMSP;IMIGRANTES;Reclamação;Veículo;1
+12/2021;RMSP;INTERNORTE;Informação;Itinerário;2
+12/2021;RMSP;INTERNORTE;Informação;Serviços;5
+12/2021;RMSP;INTERNORTE;Informação;Vale-Transporte;1
+12/2021;RMSP;INTERNORTE;Reclamação;Atendimento;2
+12/2021;RMSP;INTERNORTE;Reclamação;Direção Perigosa;8
+12/2021;RMSP;INTERNORTE;Reclamação;Horário;64
+12/2021;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;22
+12/2021;RMSP;INTERNORTE;Reclamação;Itinerário;10
+12/2021;RMSP;INTERNORTE;Reclamação;Passageiro Especial;1
+12/2021;RMSP;INTERNORTE;Reclamação;Superlotação;19
+12/2021;RMSP;INTERNORTE;Reclamação;Transporte Irregular;3
+12/2021;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;24
+12/2021;RMSP;INTERNORTE;Reclamação;Veículo;2
+12/2021;RMSP;INTERNORTE;Sugestão;Veículo;1
+12/2021;RMSP;INTERVIAS;Elogio;Atendimento;1
+12/2021;RMSP;INTERVIAS;Informação;Horário;1
+12/2021;RMSP;INTERVIAS;Informação;Serviços;11
+12/2021;RMSP;INTERVIAS;Reclamação;Atendimento;1
+12/2021;RMSP;INTERVIAS;Reclamação;Direção Perigosa;15
+12/2021;RMSP;INTERVIAS;Reclamação;Horário;42
+12/2021;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;38
+12/2021;RMSP;INTERVIAS;Reclamação;Integração;1
+12/2021;RMSP;INTERVIAS;Reclamação;Itinerário;3
+12/2021;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;2
+12/2021;RMSP;INTERVIAS;Reclamação;Passageiro Especial;1
+12/2021;RMSP;INTERVIAS;Reclamação;Superlotação;11
+12/2021;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;42
+12/2021;RMSP;INTERVIAS;Reclamação;Veículo;4
+12/2021;RMSP;INTERVIAS;Sugestão;Horário;1
+12/2021;RMVPLN;JACAREÍ;Informação;Serviços;1
+12/2021;RMVPLN;JACAREÍ;Reclamação;Superlotação;2
+12/2021;RMVPLN;JACAREÍ;Reclamação;Tripulação/Funcionário;2
+12/2021;RMVPLN;PASSARO MARRON;Informação;Passe Idoso;1
+12/2021;RMVPLN;PASSARO MARRON;Informação;Vale-Transporte;1
+12/2021;RMVPLN;PASSARO MARRON;Reclamação;Atendimento;1
+12/2021;RMVPLN;PASSARO MARRON;Reclamação;Horário;4
+12/2021;RMVPLN;PASSARO MARRON;Reclamação;Mau Atendimento ao Idoso;1
+12/2021;RMVPLN;PASSARO MARRON;Reclamação;Superlotação;1
+12/2021;RMVPLN;PASSARO MARRON;Sugestão;Horário;1
+12/2021;RMS;RÁPIDO LUXO CAMPINAS;Informação;Horário;1
+12/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;7
+12/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Itinerário;1
+12/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;1
+12/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Tripulação/Funcionário;1
+12/2021;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Veículo;1
+12/2021;RMSP;RIACHO GRANDE;Reclamação;Direção Perigosa;1
+12/2021;RMSP;RIACHO GRANDE;Reclamação;Horário;7
+12/2021;RMSP;RIACHO GRANDE;Reclamação;Inobservância de Ponto;2
+12/2021;RMSP;RIACHO GRANDE;Reclamação;Superlotação;1
+12/2021;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;2
+12/2021;RMSP;RIACHO GRANDE;Reclamação;Veículo;4
+12/2021;RMSP;RIBEIRÃO PIRES;Informação;Serviços;3
+12/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;11
+12/2021;RMSP;RIBEIRÃO PIRES;Reclamação;Itinerário;1
+12/2021;RMSP;RIGRAS;Reclamação;Superlotação;1
+12/2021;RMSP;RIGRAS;Reclamação;Tripulação/Funcionário;1
+12/2021;RMVPLN;RODOVIÁRIO SÃO JOSE;Reclamação;Horário;2
+12/2021;RMVPLN;SANTA BRANCA;Reclamação;Direção Perigosa;1
+12/2021;RMVPLN;SANTA BRANCA;Reclamação;Inobservância de Ponto;1
+12/2021;RMSP;SÃO CAMILO;Informação;Serviços;1
+12/2021;RMSP;SÃO CAMILO;Reclamação;Horário;2
+12/2021;RMSP;SÃO CAMILO;Reclamação;Inobservância de Ponto;1
+12/2021;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;2
+12/2021;RMSP;SÃO CAMILO;Reclamação;Veículo;1
+12/2021;RMSP;TRIÂNGULO;Reclamação;Horário;1
+12/2021;RMSP;TRIÂNGULO;Reclamação;Inobservância de Ponto;1
+12/2021;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;4
+12/2021;RMSP;UNILESTE;Informação;Itinerário;1
+12/2021;RMSP;UNILESTE;Informação;Serviços;4
+12/2021;RMSP;UNILESTE;Informação;Tarifa;1
+12/2021;RMSP;UNILESTE;Reclamação;Direção Perigosa;2
+12/2021;RMSP;UNILESTE;Reclamação;Horário;15
+12/2021;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;8
+12/2021;RMSP;UNILESTE;Reclamação;Itinerário;1
+12/2021;RMSP;UNILESTE;Reclamação;Mau Atendimento ao Idoso;1
+12/2021;RMSP;UNILESTE;Reclamação;Superlotação;1
+12/2021;RMSP;UNILESTE;Reclamação;Tarifa;1
+12/2021;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;14
+12/2021;RMSP;UNILESTE;Reclamação;Veículo;1
+12/2021;RMSP;UNILESTE;Sugestão;Horário;4
+12/2021;RMSP;UNILESTE;Sugestão;Itinerário;1
+12/2021;RMS;VB TRANSPORTES;Reclamação;Inobservância de Ponto;1
+12/2021;RMS;VIAÇAO CALVIPE;Reclamação;Veículo;1
+01/2022;RMSP;ABASP (CARTÃO TOP);Informação;Carteira Passageiro Especial;1
+01/2022;RMSP;ABASP (CARTÃO TOP);Informação;Passe Escolar;15
+01/2022;RMSP;ABASP (CARTÃO TOP);Informação;Passe Idoso;6
+01/2022;RMSP;ABASP (CARTÃO TOP);Informação;Serviços;26
+01/2022;RMSP;ABASP (CARTÃO TOP);Informação;Vale-Transporte;7
+01/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Integração;1
+01/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Serviços;2
+01/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Tarifa;1
+01/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Vale-Transporte;4
+01/2022;RMSP;ABC SISTEMA;Elogio;Atendimento;4
+01/2022;RMSP;ABC SISTEMA;Informação;Carteira Passageiro Especial;1
+01/2022;RMSP;ABC SISTEMA;Informação;Itinerário;1
+01/2022;RMSP;ABC SISTEMA;Reclamação;Atendimento;1
+01/2022;RMSP;ABC SISTEMA;Reclamação;Direção Perigosa;5
+01/2022;RMSP;ABC SISTEMA;Reclamação;Horário;69
+01/2022;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;10
+01/2022;RMSP;ABC SISTEMA;Reclamação;Itinerário;3
+01/2022;RMSP;ABC SISTEMA;Reclamação;Superlotação;8
+01/2022;RMSP;ABC SISTEMA;Reclamação;Terminal;1
+01/2022;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;20
+01/2022;RMSP;ABC SISTEMA;Reclamação;Vale-Transporte;1
+01/2022;RMSP;ABC SISTEMA;Reclamação;Veículo;12
+01/2022;RMSP;ABC SISTEMA;Sugestão;Veículo;5
+01/2022;RMSP;ABC SISTEMA-Metra;Elogio;Atendimento;1
+01/2022;RMSP;ABC SISTEMA-Metra;Informação;Serviços;2
+01/2022;RMSP;ABC SISTEMA-Metra;Informação;Tarifa;1
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Direção Perigosa;1
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;8
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;2
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;1
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;2
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Tarifa;2
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;3
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;5
+01/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;2
+01/2022;RMSP;ANHANGUERA;Informação;Horário;2
+01/2022;RMSP;ANHANGUERA;Informação;Serviços;2
+01/2022;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;3
+01/2022;RMSP;ANHANGUERA;Reclamação;Horário;54
+01/2022;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;17
+01/2022;RMSP;ANHANGUERA;Reclamação;Itinerário;5
+01/2022;RMSP;ANHANGUERA;Reclamação;Mau Atendimento ao Idoso;2
+01/2022;RMSP;ANHANGUERA;Reclamação;Passageiro Especial;1
+01/2022;RMSP;ANHANGUERA;Reclamação;Superlotação;5
+01/2022;RMSP;ANHANGUERA;Reclamação;Tarifa;2
+01/2022;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;28
+01/2022;RMSP;ANHANGUERA;Reclamação;Vale-Transporte;1
+01/2022;RMSP;ANHANGUERA;Reclamação;Veículo;3
+01/2022;RMSP;ANHANGUERA;Sugestão;Horário;2
+01/2022;RMSP;ANHANGUERA;Sugestão;Tripulação/Funcionário;1
+01/2022;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Itinerário;1
+01/2022;RMS;AUTO ONIBUS SAO JOAO LTDA;Sugestão;Horário;1
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Elogio;Atendimento;2
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Itinerário;2
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;4
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;11
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;5
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Atendimento;1
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;3
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;20
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;4
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;4
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;1
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Superlotação;3
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;16
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;4
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Horário;1
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Tripulação/Funcionário;2
+01/2022;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Veículo;2
+01/2022;RMBS;BR MOBILIDADE VLT;Informação;Serviços (VLT);1
+01/2022;RMBS;BR MOBILIDADE VLT;Reclamação;Serviços;2
+01/2022;RMC;BUS(Mais);Elogio;Atendimento;1
+01/2022;RMC;BUS(Mais);Informação;Horário;1
+01/2022;RMC;BUS(Mais);Informação;Itinerário;2
+01/2022;RMC;BUS(Mais);Informação;Serviços;5
+01/2022;RMC;BUS(Mais);Informação;Vale-Transporte;4
+01/2022;RMC;BUS(Mais);Reclamação;Direção Perigosa;2
+01/2022;RMC;BUS(Mais);Reclamação;Horário;26
+01/2022;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;6
+01/2022;RMC;BUS(Mais);Reclamação;Itinerário;3
+01/2022;RMC;BUS(Mais);Reclamação;Mau Atendimento ao Idoso;2
+01/2022;RMC;BUS(Mais);Reclamação;Superlotação;4
+01/2022;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;4
+01/2022;RMC;BUS(Mais);Reclamação;Vale-Transporte;1
+01/2022;RMC;BUS(Mais);Reclamação;Veículo;1
+01/2022;RMC;BUS(Mais);Sugestão;Horário;2
+01/2022;RMC;BUS(Mais);Sugestão;Itinerário;1
+01/2022;RMSP;CMT;Informação;Passe Escolar;18
+01/2022;RMSP;CMT;Informação;Passe Idoso;5
+01/2022;RMSP;CMT;Informação;Serviços;67
+01/2022;RMSP;CMT;Informação;Vale-Transporte;34
+01/2022;RMSP;CMT;Reclamação;Atendimento;2
+01/2022;RMSP;CMT;Reclamação;Integração;2
+01/2022;RMSP;CMT;Reclamação;Passe Escolar;1
+01/2022;RMSP;CMT;Reclamação;Serviços;3
+01/2022;RMSP;CMT;Reclamação;Tarifa;3
+01/2022;RMSP;CMT;Reclamação;Vale-Transporte;4
+01/2022;RMSP;EAOSA;Informação;Serviços;1
+01/2022;RMSP;EAOSA;Reclamação;Direção Perigosa;1
+01/2022;RMSP;EAOSA;Reclamação;Horário;4
+01/2022;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;2
+01/2022;RMS;EMPRESA DE ONIBUS VILA EL;Reclamação;Horário;1
+01/2022;RMSP;EMTU;Denúncia;Transporte Irregular;4
+01/2022;RMS;EMTU;Denúncia;Transporte Irregular;2
+01/2022;RMBS;EMTU;Denúncia;Transporte Irregular;1
+01/2022;RMSP;EMTU;Elogio;Atendimento;2
+01/2022;RMBS;EMTU;Elogio;Atendimento;1
+01/2022;RMSP;EMTU;Informação;Carteira Passageiro Especial;44
+01/2022;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;5
+01/2022;RMS;EMTU;Informação;Carteira Passageiro Especial;3
+01/2022;RMC;EMTU;Informação;Carteira Passageiro Especial;1
+01/2022;RMBS;EMTU;Informação;Carteira Passageiro Especial;1
+01/2022;RMSP;EMTU;Informação;Horário;4
+01/2022;RMVPLN;EMTU;Informação;Horário;2
+01/2022;RMC;EMTU;Informação;Horário;1
+01/2022;RMBS;EMTU;Informação;Horário;1
+01/2022;RMSP;EMTU;Informação;Integração;4
+01/2022;RMSP;EMTU;Informação;Itinerário;10
+01/2022;RMC;EMTU;Informação;Itinerário;1
+01/2022;RMVPLN;EMTU;Informação;Itinerário;1
+01/2022;RMSP;EMTU;Informação;Ligado;2
+01/2022;RMSP;EMTU;Informação;Passe Desempregado;1
+01/2022;RMSP;EMTU;Informação;Passe Escolar;744
+01/2022;RMBS;EMTU;Informação;Passe Escolar;118
+01/2022;RMVPLN;EMTU;Informação;Passe Escolar;58
+01/2022;RMC;EMTU;Informação;Passe Escolar;56
+01/2022;RMS;EMTU;Informação;Passe Escolar;41
+01/2022;RMSP;EMTU;Informação;Passe Idoso;1
+01/2022;RMVPLN;EMTU;Informação;Passe Idoso;1
+01/2022;RMSP;EMTU;Informação;Serviços;47
+01/2022;RMC;EMTU;Informação;Serviços;9
+01/2022;RMVPLN;EMTU;Informação;Serviços;5
+01/2022;RMBS;EMTU;Informação;Serviços;3
+01/2022;RMS;EMTU;Informação;Serviços;2
+01/2022;RMSP;EMTU;Informação;Tarifa;8
+01/2022;RMSP;EMTU;Informação;Vale-Transporte;1
+01/2022;RMS;EMTU;Informação;Vale-Transporte;1
+01/2022;RMVPLN;EMTU;Informação;Vale-Transporte;1
+01/2022;RMS;EMTU;Reclamação;Atendimento;1
+01/2022;RMSP;EMTU;Reclamação;Atendimento;1
+01/2022;RMSP;EMTU;Reclamação;Direção Perigosa;8
+01/2022;RMSP;EMTU;Reclamação;Horário;1
+01/2022;RMC;EMTU;Reclamação;Horário;1
+01/2022;RMSP;EMTU;Reclamação;Inobservância de Ponto;3
+01/2022;RMSP;EMTU;Reclamação;Integração;1
+01/2022;RMSP;EMTU;Reclamação;Itinerário;3
+01/2022;RMC;EMTU;Reclamação;Itinerário;1
+01/2022;RMS;EMTU;Reclamação;Itinerário;1
+01/2022;RMSP;EMTU;Reclamação;Passageiro Especial;2
+01/2022;RMSP;EMTU;Reclamação;Passe Escolar;8
+01/2022;RMBS;EMTU;Reclamação;Passe Escolar;2
+01/2022;RMVPLN;EMTU;Reclamação;Passe Escolar;1
+01/2022;RMBS;EMTU;Reclamação;Serviços;1
+01/2022;RMSP;EMTU;Reclamação;Superlotação;1
+01/2022;RMSP;EMTU;Reclamação;Tarifa;1
+01/2022;RMSP;EMTU;Reclamação;Terminal;2
+01/2022;RMSP;EMTU;Reclamação;Transporte Irregular;5
+01/2022;RMVPLN;EMTU;Reclamação;Transporte Irregular;1
+01/2022;RMSP;EMTU;Reclamação;Tripulação/Funcionário;16
+01/2022;RMSP;EMTU;Reclamação;Vale-Transporte;1
+01/2022;RMSP;EMTU;Reclamação;Veículo;1
+01/2022;RMBS;EMTU;Sugestão;Atendimento;1
+01/2022;RMSP;EMTU;Sugestão;Horário;36
+01/2022;RMS;EMTU;Sugestão;Horário;31
+01/2022;RMC;EMTU;Sugestão;Horário;17
+01/2022;RMBS;EMTU;Sugestão;Horário;3
+01/2022;RMVPLN;EMTU;Sugestão;Horário;1
+01/2022;RMSP;EMTU;Sugestão;Itinerário;14
+01/2022;RMC;EMTU;Sugestão;Itinerário;2
+01/2022;RMS;EMTU;Sugestão;Itinerário;2
+01/2022;RMVPLN;EMTU;Sugestão;Itinerário;1
+01/2022;RMSP;EMTU;Sugestão;Serviços;1
+01/2022;RMSP;EUSA;Informação;Serviços;1
+01/2022;RMSP;EUSA;Reclamação;Horário;4
+01/2022;RMS;EXPRESSO AMARELINHO;Reclamação;Horário;1
+01/2022;RMSP;fretamento (todas);Informação;Serviços;1
+01/2022;RMSP;fretamento (todas);Reclamação;Direção Perigosa;1
+01/2022;RMSP;fretamento (todas);Reclamação;Tripulação/Funcionário;1
+01/2022;RMSP;IMIGRANTES;Reclamação;Horário;6
+01/2022;RMSP;IMIGRANTES;Reclamação;Tripulação/Funcionário;1
+01/2022;RMSP;IMIGRANTES;Reclamação;Veículo;1
+01/2022;RMSP;INTERNORTE;Informação;Serviços;7
+01/2022;RMSP;INTERNORTE;Informação;Vale-Transporte;1
+01/2022;RMSP;INTERNORTE;Reclamação;Atendimento;1
+01/2022;RMSP;INTERNORTE;Reclamação;Direção Perigosa;4
+01/2022;RMSP;INTERNORTE;Reclamação;Horário;63
+01/2022;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;19
+01/2022;RMSP;INTERNORTE;Reclamação;Itinerário;5
+01/2022;RMSP;INTERNORTE;Reclamação;Mau Atendimento ao Idoso;1
+01/2022;RMSP;INTERNORTE;Reclamação;Superlotação;13
+01/2022;RMSP;INTERNORTE;Reclamação;Tarifa;1
+01/2022;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;15
+01/2022;RMSP;INTERNORTE;Reclamação;Vale-Transporte;4
+01/2022;RMSP;INTERNORTE;Reclamação;Veículo;1
+01/2022;RMSP;INTERNORTE;Sugestão;Horário;1
+01/2022;RMSP;INTERNORTE;Sugestão;Itinerário;1
+01/2022;RMSP;INTERVIAS;Elogio;Atendimento;3
+01/2022;RMSP;INTERVIAS;Informação;Horário;1
+01/2022;RMSP;INTERVIAS;Informação;Serviços;9
+01/2022;RMSP;INTERVIAS;Informação;Tarifa;1
+01/2022;RMSP;INTERVIAS;Reclamação;Atendimento;1
+01/2022;RMSP;INTERVIAS;Reclamação;Direção Perigosa;9
+01/2022;RMSP;INTERVIAS;Reclamação;Horário;76
+01/2022;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;21
+01/2022;RMSP;INTERVIAS;Reclamação;Itinerário;4
+01/2022;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;1
+01/2022;RMSP;INTERVIAS;Reclamação;Serviços;1
+01/2022;RMSP;INTERVIAS;Reclamação;Superlotação;8
+01/2022;RMSP;INTERVIAS;Reclamação;Terminal;1
+01/2022;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;39
+01/2022;RMSP;INTERVIAS;Reclamação;Veículo;8
+01/2022;RMSP;INTERVIAS;Sugestão;Veículo;1
+01/2022;RMVPLN;PASSARO MARRON;Informação;Vale-Transporte;1
+01/2022;RMVPLN;PASSARO MARRON;Reclamação;Horário;3
+01/2022;RMVPLN;PASSARO MARRON;Reclamação;Inobservância de Ponto;1
+01/2022;RMVPLN;PASSARO MARRON;Reclamação;Superlotação;2
+01/2022;RMVPLN;PASSARO MARRON;Reclamação;Tripulação/Funcionário;1
+01/2022;RMS;RÁPIDO LUXO CAMPINAS;Denúncia;Tripulação/Funcionário;1
+01/2022;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;1
+01/2022;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Itinerário;1
+01/2022;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;1
+01/2022;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Horário;1
+01/2022;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Itinerário;1
+01/2022;RMSP;RIACHO GRANDE;Informação;Serviços;1
+01/2022;RMSP;RIACHO GRANDE;Reclamação;Atendimento;1
+01/2022;RMSP;RIACHO GRANDE;Reclamação;Direção Perigosa;1
+01/2022;RMSP;RIACHO GRANDE;Reclamação;Horário;9
+01/2022;RMSP;RIACHO GRANDE;Reclamação;Tripulação/Funcionário;2
+01/2022;RMSP;RIACHO GRANDE;Reclamação;Vale-Transporte;1
+01/2022;RMSP;RIACHO GRANDE;Reclamação;Veículo;2
+01/2022;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;6
+01/2022;RMSP;RIBEIRÃO PIRES;Reclamação;Inobservância de Ponto;1
+01/2022;RMSP;RIGRAS;Informação;Passe Escolar;1
+01/2022;RMSP;RIGRAS;Reclamação;Tripulação/Funcionário;1
+01/2022;RMVPLN;RODOVIÁRIO SÃO JOSE;Informação;Itinerário;1
+01/2022;RMVPLN;RODOVIÁRIO SÃO JOSE;Informação;Serviços;1
+01/2022;RMSP;SÃO CAMILO;Reclamação;Horário;3
+01/2022;RMSP;SÃO CAMILO;Reclamação;Inobservância de Ponto;1
+01/2022;RMSP;SÃO CAMILO;Reclamação;Tripulação/Funcionário;1
+01/2022;RMSP;SÃO CAMILO;Reclamação;Veículo;1
+01/2022;RMSP;TRIÂNGULO;Reclamação;Horário;2
+01/2022;RMSP;TRIÂNGULO;Reclamação;Tripulação/Funcionário;4
+01/2022;RMSP;TUCURUVI;Reclamação;Horário;1
+01/2022;RMSP;UNILESTE;Informação;Horário;2
+01/2022;RMSP;UNILESTE;Informação;Serviços;3
+01/2022;RMSP;UNILESTE;Reclamação;Direção Perigosa;2
+01/2022;RMSP;UNILESTE;Reclamação;Horário;39
+01/2022;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;3
+01/2022;RMSP;UNILESTE;Reclamação;Itinerário;2
+01/2022;RMSP;UNILESTE;Reclamação;Mau Atendimento ao Idoso;2
+01/2022;RMSP;UNILESTE;Reclamação;Superlotação;3
+01/2022;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;7
+01/2022;RMSP;UNILESTE;Reclamação;Veículo;1
+01/2022;RMSP;UNILESTE;Sugestão;Horário;2
+01/2022;RMS;VIAÇAO CALVIPE;Reclamação;Superlotação;1
+01/2022;RMS;VIAÇAO CALVIPE;Reclamação;Tripulação/Funcionário;1
+02/2022;RMSP;ABASP (CARTÃO TOP);Informação;Integração;2
+02/2022;RMSP;ABASP (CARTÃO TOP);Informação;Passe Escolar;319
+02/2022;RMSP;ABASP (CARTÃO TOP);Informação;Passe Idoso;14
+02/2022;RMSP;ABASP (CARTÃO TOP);Informação;Serviços;26
+02/2022;RMSP;ABASP (CARTÃO TOP);Informação;Tarifa;1
+02/2022;RMSP;ABASP (CARTÃO TOP);Informação;Vale-Transporte;16
+02/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Atendimento;2
+02/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Horário;1
+02/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Passe Escolar;105
+02/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Serviços;2
+02/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Tarifa;3
+02/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Tripulação/Funcionário;1
+02/2022;RMSP;ABASP (CARTÃO TOP);Reclamação;Vale-Transporte;9
+02/2022;RMSP;ABASP (CARTÃO TOP);Sugestão;Vale-Transporte;1
+02/2022;RMSP;ABC SISTEMA;Informação;Horário;2
+02/2022;RMSP;ABC SISTEMA;Informação;Itinerário;2
+02/2022;RMSP;ABC SISTEMA;Informação;Serviços;5
+02/2022;RMSP;ABC SISTEMA;Reclamação;Direção Perigosa;7
+02/2022;RMSP;ABC SISTEMA;Reclamação;Horário;83
+02/2022;RMSP;ABC SISTEMA;Reclamação;Inobservância de Ponto;13
+02/2022;RMSP;ABC SISTEMA;Reclamação;Itinerário;8
+02/2022;RMSP;ABC SISTEMA;Reclamação;Passageiro Especial;1
+02/2022;RMSP;ABC SISTEMA;Reclamação;Superlotação;8
+02/2022;RMSP;ABC SISTEMA;Reclamação;Tripulação/Funcionário;32
+02/2022;RMSP;ABC SISTEMA;Reclamação;Veículo;15
+02/2022;RMSP;ABC SISTEMA;Sugestão;Horário;2
+02/2022;RMSP;ABC SISTEMA;Sugestão;Veículo;1
+02/2022;RMSP;ABC SISTEMA-Metra;Informação;Serviços;1
+02/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Horário;7
+02/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Inobservância de Ponto;1
+02/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Serviços;2
+02/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Superlotação;2
+02/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Tarifa;1
+02/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Terminal;5
+02/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Tripulação/Funcionário;5
+02/2022;RMSP;ABC SISTEMA-Metra;Reclamação;Veículo;7
+02/2022;RMSP;ABC SISTEMA-Metra;Sugestão;Horário;1
+02/2022;RMSP;ABC SISTEMA-Metra;Sugestão;Integração;1
+02/2022;RMSP;ABC SISTEMA-Metra;Sugestão;Serviços;1
+02/2022;RMSP;ABC SISTEMA-Metra;Sugestão;Terminal;1
+02/2022;RMVPLN;ABC TRANSPORTES;Reclamação;Horário;2
+02/2022;RMSP;ANHANGUERA;Informação;Horário;1
+02/2022;RMSP;ANHANGUERA;Informação;Itinerário;1
+02/2022;RMSP;ANHANGUERA;Informação;Passe Escolar;1
+02/2022;RMSP;ANHANGUERA;Informação;Serviços;8
+02/2022;RMSP;ANHANGUERA;Informação;Tarifa;2
+02/2022;RMSP;ANHANGUERA;Reclamação;Direção Perigosa;2
+02/2022;RMSP;ANHANGUERA;Reclamação;Horário;86
+02/2022;RMSP;ANHANGUERA;Reclamação;Inobservância de Ponto;15
+02/2022;RMSP;ANHANGUERA;Reclamação;Itinerário;6
+02/2022;RMSP;ANHANGUERA;Reclamação;Passe Escolar;1
+02/2022;RMSP;ANHANGUERA;Reclamação;Superlotação;12
+02/2022;RMSP;ANHANGUERA;Reclamação;Terminal;1
+02/2022;RMSP;ANHANGUERA;Reclamação;Tripulação/Funcionário;21
+02/2022;RMSP;ANHANGUERA;Reclamação;Veículo;6
+02/2022;RMSP;ANHANGUERA;Sugestão;Horário;2
+02/2022;RMSP;ANHANGUERA;Sugestão;Tripulação/Funcionário;1
+02/2022;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Horário;2
+02/2022;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Superlotação;2
+02/2022;RMS;AUTO ONIBUS SAO JOAO LTDA;Reclamação;Veículo;1
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Horário;3
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Itinerário;2
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Escolar;32
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Passe Idoso;1
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Serviços;21
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Informação;Vale-Transporte;13
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Atendimento;1
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Direção Perigosa;3
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Horário;12
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Inobservância de Ponto;19
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Itinerário;1
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Passe Escolar;3
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Serviços;1
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Tripulação/Funcionário;20
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Reclamação;Veículo;3
+02/2022;RMBS;BR MOBILIDADE EMPRESAS;Sugestão;Horário;2
+02/2022;RMBS;BR MOBILIDADE VLT;Informação;Serviços;1
+02/2022;RMBS;BR MOBILIDADE VLT;Informação;Serviços (VLT);1
+02/2022;RMBS;BR MOBILIDADE VLT;Reclamação;Horário;1
+02/2022;RMBS;BR MOBILIDADE VLT;Reclamação;Superlotação;1
+02/2022;RMBS;BR MOBILIDADE VLT;Reclamação;Terminal;1
+02/2022;RMBS;BR MOBILIDADE VLT;Reclamação;Veículo;1
+02/2022;RMBS;BR MOBILIDADE VLT;Sugestão;Serviços;1
+02/2022;RMC;BUS(Mais);Informação;Horário;2
+02/2022;RMC;BUS(Mais);Informação;Passe Escolar;2
+02/2022;RMC;BUS(Mais);Informação;Serviços;4
+02/2022;RMC;BUS(Mais);Reclamação;Direção Perigosa;5
+02/2022;RMC;BUS(Mais);Reclamação;Horário;20
+02/2022;RMC;BUS(Mais);Reclamação;Inobservância de Ponto;4
+02/2022;RMC;BUS(Mais);Reclamação;Itinerário;2
+02/2022;RMC;BUS(Mais);Reclamação;Superlotação;11
+02/2022;RMC;BUS(Mais);Reclamação;Tripulação/Funcionário;8
+02/2022;RMC;BUS(Mais);Reclamação;Veículo;1
+02/2022;RMC;BUS(Mais);Sugestão;Horário;3
+02/2022;RMC;BUS(Mais);Sugestão;Itinerário;1
+02/2022;RMSP;CMT;Informação;Passe Escolar;18
+02/2022;RMSP;CMT;Informação;Passe Idoso;3
+02/2022;RMSP;CMT;Informação;Serviços;44
+02/2022;RMSP;CMT;Informação;Vale-Transporte;30
+02/2022;RMSP;CMT;Reclamação;Atendimento;1
+02/2022;RMSP;CMT;Reclamação;Serviços;1
+02/2022;RMSP;CMT;Reclamação;Vale-Transporte;3
+02/2022;RMSP;EAOSA;Reclamação;Direção Perigosa;2
+02/2022;RMSP;EAOSA;Reclamação;Horário;3
+02/2022;RMSP;EAOSA;Reclamação;Tripulação/Funcionário;5
+02/2022;RMBS;EMTU;Denúncia;Atendimento;1
+02/2022;RMSP;EMTU;Denúncia;Transporte Irregular;3
+02/2022;RMSP;EMTU;Elogio;Atendimento;4
+02/2022;RMBS;EMTU;Elogio;Atendimento;1
+02/2022;RMC;EMTU;Elogio;Atendimento;1
+02/2022;RMC;EMTU;Elogio;Ligado;1
+02/2022;RMSP;EMTU;Informação;Carteira Passageiro Especial;62
+02/2022;RMBS;EMTU;Informação;Carteira Passageiro Especial;5
+02/2022;RMVPLN;EMTU;Informação;Carteira Passageiro Especial;4
+02/2022;RMC;EMTU;Informação;Carteira Passageiro Especial;1
+02/2022;RMSP;EMTU;Informação;Horário;8
+02/2022;RMC;EMTU;Informação;Horário;1
+02/2022;RMS;EMTU;Informação;Horário;1
+02/2022;RMSP;EMTU;Informação;Integração;3
+02/2022;RMC;EMTU;Informação;Integração;1
+02/2022;RMSP;EMTU;Informação;Itinerário;13
+02/2022;RMVPLN;EMTU;Informação;Itinerário;2
+02/2022;RMBS;EMTU;Informação;Itinerário;2
+02/2022;RMC;EMTU;Informação;Itinerário;1
+02/2022;RMS;EMTU;Informação;Itinerário;1
+02/2022;RMSP;EMTU;Informação;Ligado;4
+02/2022;RMC;EMTU;Informação;Ligado;1
+02/2022;RMSP;EMTU;Informação;Passe Desempregado;1
+02/2022;RMSP;EMTU;Informação;Passe Escolar;1558
+02/2022;RMBS;EMTU;Informação;Passe Escolar;169
+02/2022;RMVPLN;EMTU;Informação;Passe Escolar;153
+02/2022;RMS;EMTU;Informação;Passe Escolar;118
+02/2022;RMC;EMTU;Informação;Passe Escolar;114
+02/2022;RMVPLN;EMTU;Informação;Passe Idoso;1
+02/2022;RMSP;EMTU;Informação;Passe Idoso;1
+02/2022;RMSP;EMTU;Informação;Serviços;54
+02/2022;RMVPLN;EMTU;Informação;Serviços;5
+02/2022;RMC;EMTU;Informação;Serviços;5
+02/2022;RMBS;EMTU;Informação;Serviços;5
+02/2022;RMS;EMTU;Informação;Serviços;2
+02/2022;RMC;EMTU;Informação;Tarifa;1
+02/2022;RMVPLN;EMTU;Informação;Tarifa;1
+02/2022;RMSP;EMTU;Informação;Tarifa;1
+02/2022;RMSP;EMTU;Informação;Vale-Transporte;2
+02/2022;RMVPLN;EMTU;Informação;Vale-Transporte;2
+02/2022;RMSP;EMTU;Reclamação;Atendimento;6
+02/2022;RMC;EMTU;Reclamação;Atendimento;1
+02/2022;RMS;EMTU;Reclamação;Atendimento;1
+02/2022;RMSP;EMTU;Reclamação;Direção Perigosa;3
+02/2022;RMSP;EMTU;Reclamação;Horário;7
+02/2022;RMC;EMTU;Reclamação;Horário;1
+02/2022;RMVPLN;EMTU;Reclamação;Horário;1
+02/2022;RMSP;EMTU;Reclamação;Inobservância de Ponto;1
+02/2022;RMSP;EMTU;Reclamação;Itinerário;2
+02/2022;RMS;EMTU;Reclamação;Itinerário;1
+02/2022;RMSP;EMTU;Reclamação;Passageiro Especial;1
+02/2022;RMSP;EMTU;Reclamação;Passe Escolar;4
+02/2022;RMC;EMTU;Reclamação;Passe Escolar;3
+02/2022;RMVPLN;EMTU;Reclamação;Passe Escolar;3
+02/2022;RMSP;EMTU;Reclamação;Serviços;5
+02/2022;RMC;EMTU;Reclamação;Serviços;1
+02/2022;RMSP;EMTU;Reclamação;Terminal;4
+02/2022;RMSP;EMTU;Reclamação;Transporte Irregular;2
+02/2022;RMSP;EMTU;Reclamação;Tripulação/Funcionário;28
+02/2022;RMSP;EMTU;Reclamação;Veículo;1
+02/2022;RMSP;EMTU;Sugestão;Horário;83
+02/2022;RMVPLN;EMTU;Sugestão;Horário;38
+02/2022;RMC;EMTU;Sugestão;Horário;17
+02/2022;RMS;EMTU;Sugestão;Horário;11
+02/2022;RMBS;EMTU;Sugestão;Horário;7
+02/2022;RMSP;EMTU;Sugestão;Itinerário;30
+02/2022;RMC;EMTU;Sugestão;Itinerário;2
+02/2022;RMS;EMTU;Sugestão;Itinerário;1
+02/2022;RMBS;EMTU;Sugestão;Itinerário;1
+02/2022;RMBS;EMTU;Sugestão;Passe Escolar;1
+02/2022;RMBS;EMTU;Sugestão;Serviços;1
+02/2022;RMSP;EMTU;Sugestão;Terminal;2
+02/2022;RMBS;EMTU;Sugestão;Terminal;1
+02/2022;RMSP;fretamento (todas);Reclamação;Tripulação/Funcionário;1
+02/2022;RMSP;INTERNORTE;Elogio;Atendimento;2
+02/2022;RMSP;INTERNORTE;Informação;Horário;2
+02/2022;RMSP;INTERNORTE;Informação;Itinerário;1
+02/2022;RMSP;INTERNORTE;Informação;Passe Escolar;1
+02/2022;RMSP;INTERNORTE;Informação;Serviços;5
+02/2022;RMSP;INTERNORTE;Reclamação;Atendimento;1
+02/2022;RMSP;INTERNORTE;Reclamação;Direção Perigosa;4
+02/2022;RMSP;INTERNORTE;Reclamação;Horário;74
+02/2022;RMSP;INTERNORTE;Reclamação;Inobservância de Ponto;11
+02/2022;RMSP;INTERNORTE;Reclamação;Itinerário;6
+02/2022;RMSP;INTERNORTE;Reclamação;Serviços;1
+02/2022;RMSP;INTERNORTE;Reclamação;Superlotação;22
+02/2022;RMSP;INTERNORTE;Reclamação;Tarifa;1
+02/2022;RMSP;INTERNORTE;Reclamação;Terminal;2
+02/2022;RMSP;INTERNORTE;Reclamação;Tripulação/Funcionário;17
+02/2022;RMSP;INTERNORTE;Reclamação;Veículo;8
+02/2022;RMSP;INTERNORTE;Sugestão;Horário;3
+02/2022;RMSP;INTERNORTE;Sugestão;Itinerário;1
+02/2022;RMSP;INTERNORTE;Sugestão;Tripulação/Funcionário;1
+02/2022;RMSP;INTERNORTE;Sugestão;Veículo;1
+02/2022;RMSP;INTERVIAS;Elogio;Atendimento;3
+02/2022;RMSP;INTERVIAS;Informação;Serviços;4
+02/2022;RMSP;INTERVIAS;Reclamação;Atendimento;1
+02/2022;RMSP;INTERVIAS;Reclamação;Direção Perigosa;7
+02/2022;RMSP;INTERVIAS;Reclamação;Horário;53
+02/2022;RMSP;INTERVIAS;Reclamação;Inobservância de Ponto;32
+02/2022;RMSP;INTERVIAS;Reclamação;Itinerário;3
+02/2022;RMSP;INTERVIAS;Reclamação;Mau Atendimento ao Idoso;4
+02/2022;RMSP;INTERVIAS;Reclamação;Superlotação;14
+02/2022;RMSP;INTERVIAS;Reclamação;Tarifa;2
+02/2022;RMSP;INTERVIAS;Reclamação;Terminal;3
+02/2022;RMSP;INTERVIAS;Reclamação;Tripulação/Funcionário;36
+02/2022;RMSP;INTERVIAS;Reclamação;Veículo;5
+02/2022;RMSP;INTERVIAS;Sugestão;Horário;3
+02/2022;RMVPLN;JACAREÍ;Informação;Vale-Transporte;1
+02/2022;RMVPLN;JACAREÍ;Reclamação;Horário;5
+02/2022;RMVPLN;JACAREÍ;Reclamação;Tripulação/Funcionário;2
+02/2022;RMVPLN;JACAREÍ;Sugestão;Horário;1
+02/2022;RMVPLN;LITORANEA;Sugestão;Horário;1
+02/2022;RMVPLN;PASSARO MARRON;Informação;Horário;4
+02/2022;RMVPLN;PASSARO MARRON;Informação;Passe Escolar;3
+02/2022;RMVPLN;PASSARO MARRON;Informação;Serviços;1
+02/2022;RMVPLN;PASSARO MARRON;Informação;Vale-Transporte;2
+02/2022;RMVPLN;PASSARO MARRON;Reclamação;Horário;17
+02/2022;RMVPLN;PASSARO MARRON;Reclamação;Passe Escolar;1
+02/2022;RMVPLN;PASSARO MARRON;Reclamação;Superlotação;4
+02/2022;RMVPLN;PASSARO MARRON;Reclamação;Tripulação/Funcionário;1
+02/2022;RMVPLN;PASSARO MARRON;Reclamação;Veículo;2
+02/2022;RMVPLN;PASSARO MARRON;Sugestão;Horário;9
+02/2022;RMS;RÁPIDO LUXO CAMPINAS;Informação;Passe Escolar;2
+02/2022;RMS;RÁPIDO LUXO CAMPINAS;Informação;Serviços;1
+02/2022;RMS;RÁPIDO LUXO CAMPINAS;Informação;Vale-Transporte;1
+02/2022;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Horário;3
+02/2022;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Superlotação;2
+02/2022;RMS;RÁPIDO LUXO CAMPINAS;Reclamação;Veículo;3
+02/2022;RMS;RÁPIDO LUXO CAMPINAS;Sugestão;Horário;2
+02/2022;RMSP;RIBEIRÃO PIRES;Reclamação;Horário;3
+02/2022;RMSP;RIGRAS;Reclamação;Veículo;1
+02/2022;RMVPLN;RODOVIÁRIO SÃO JOSE;Reclamação;Horário;1
+02/2022;RMVPLN;RODOVIÁRIO SÃO JOSE;Reclamação;Mau Atendimento ao Idoso;1
+02/2022;RMVPLN;SANTA BRANCA;Reclamação;Superlotação;1
+02/2022;RMS;TIETEENSE TURISMO;Informação;Itinerário;1
+02/2022;RMSP;TUCURUVI;Reclamação;Tripulação/Funcionário;1
+02/2022;RMSP;UNILESTE;Elogio;Atendimento;1
+02/2022;RMSP;UNILESTE;Informação;Horário;1
+02/2022;RMSP;UNILESTE;Informação;Serviços;2
+02/2022;RMSP;UNILESTE;Reclamação;Direção Perigosa;1
+02/2022;RMSP;UNILESTE;Reclamação;Horário;29
+02/2022;RMSP;UNILESTE;Reclamação;Inobservância de Ponto;4
+02/2022;RMSP;UNILESTE;Reclamação;Itinerário;2
+02/2022;RMSP;UNILESTE;Reclamação;Superlotação;6
+02/2022;RMSP;UNILESTE;Reclamação;Tarifa;3
+02/2022;RMSP;UNILESTE;Reclamação;Tripulação/Funcionário;14
+02/2022;RMSP;UNILESTE;Reclamação;Veículo;3
+02/2022;RMSP;UNILESTE;Sugestão;Horário;2
+02/2022;RMS;VB TRANSPORTES;Informação;Vale-Transporte;1
+02/2022;RMS;VB TRANSPORTES;Reclamação;Horário;3
+02/2022;RMS;VB TRANSPORTES;Reclamação;Tripulação/Funcionário;1
+02/2022;RMSP;VIPE;Informação;Serviços;1
