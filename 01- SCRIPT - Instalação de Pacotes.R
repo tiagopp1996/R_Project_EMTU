@@ -2,7 +2,9 @@
 #                  INSTALAÇÃO E CARREGAMENTO DE PACOTES NECESSÁRIOS             #
 ##################################################################################
 #Pacotes utilizados
-pacotes <- c("MASS","neuralnet","ISLR","mlbench","neuralnet","rpart")
+pacotes <- c("MASS","neuralnet","ISLR","mlbench","neuralnet","rpart","datasets"
+             ,"forecast","fpp2","tseries","patchwork", "DataCombine", "TTR", "dplyr"
+             ,"reshape2","tidyverse","PerformanceAnalytics")
 
 if(sum(as.numeric(!pacotes %in% installed.packages())) != 0){
   instalador <- pacotes[!pacotes %in% installed.packages()]
@@ -13,3 +15,4 @@ if(sum(as.numeric(!pacotes %in% installed.packages())) != 0){
 } else {
   sapply(pacotes, require, character = T) 
 }
+
