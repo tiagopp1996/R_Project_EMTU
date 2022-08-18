@@ -131,7 +131,6 @@ ggplot(data=filter(Acum_Regiao_Anomes,Regiao !="RMSP"),
 
 
 AcumRMBS <- filter(Acum_Regiao_Anomes_Full,Regiao=='RMBS' & Anomes_int<=202112)
-AcumRMBS <- filter(Acum_Regiao_Anomes_Full,Regiao=='RMBS')
 AcumRMC<- filter(Acum_Regiao_Anomes_Full,Regiao=='RMC')
 AcumRMS <- filter(Acum_Regiao_Anomes_Full,Regiao=='RMS')
 AcumRMSP <- filter(Acum_Regiao_Anomes_Full,Regiao=='RMSP')
@@ -152,29 +151,72 @@ plot(forecast_arima_tsRMBS)
 
 
 #Forecast Holt-Winter
-forecast_hw_tsRBS <- hw(tsRMBS, seasonal="additive", h=7)
-summary(forecast_hw_tsRBS) # avaliando os resultados 
+forecast_hw_tsRMBS <- hw(tsRMBS, seasonal="additive", h=7)
+summary(forecast_hw_tsRMBS) # avaliando os resultados 
 plot(tsRMBS)
-plot(forecast_hw_tsRBS) # plotando os resultados
+plot(forecast_hw_tsRMBS) # plotando os resultados
 
 #Analise AIC
 forecast_arima_tsRMBS['model']
-forecast_hw_tsRBS['model']
+forecast_hw_tsRMBS['model']
 
 
 #Analise resultados comparados entre dados, fitted e forecast
 autoplot(tsRMBS,series=" Historical data") +
-  autolayer(forecast_hw$fitted, series="Holt-Winter fitted") +
-  autolayer(forecast_arima$fitted, series="Arima fitted") +
-  autolayer(forecast_arima, series="Arima Forecast") +
+  autolayer(forecast_hw_tsRMBS$fitted, series="Holt-Winter fitted") +
+  autolayer(forecast_arima_tsRMBS$fitted, series="Arima fitted") +
+  autolayer(forecast_arima_tsRMBS, series="Arima Forecast") +
   ggtitle("Modelos") +
   theme(plot.title = element_text(size=8))
 
 autoplot(tsRMBS,series=" Historical data") +
-  autolayer(forecast_hw$fitted, series="Holt-Winter fitted") +
-  autolayer(forecast_arima$fitted, series="Arima fitted") +
-  autolayer(forecast_hw, series="Holt-Winter Forecast") +
+  autolayer(forecast_hw_tsRMBS$fitted, series="Holt-Winter fitted") +
+  autolayer(forecast_arima_tsRMBS$fitted, series="Arima fitted") +
+  autolayer(forecast_hw_tsRMBS, series="Holt-Winter Forecast") +
   ggtitle("Modelos") +
   theme(plot.title = element_text(size=8))
 
 
+
+#Trandformação Dataframe Forecast HW
+df_tsRMBS_HW=data.frame(Y=as.matrix(forecast_hw_tsRMBS$fitted), date=time(forecast_hw_tsRMBS$x))
+df_tsRMBS_HW['ano']=str_sub(as.character(df_tsRMBS_HW$date),1,4)
+names(df_tsRMBS_HW)[1]<-"Fitted_HW"
+
+df_tsRMBS_HW <- df_tsRMBS_HW %>%
+  group_by(ano) %>%
+  mutate(mes_int = 1:n())
+
+df_tsRMBS_HW <- df_tsRMBS_HW %>%
+  mutate(mes=str_pad(mes_int, 2, pad = "0")) %>%
+  mutate(Anomes_int=as.integer(str_c(ano,mes))) %>%
+  mutate(anomes= str_c(ano,mes)) %>%
+  select(Fitted_HW,Anomes_int,anomes)
+
+
+
+#Trandformação Dataframe Forecast Arima
+df_tsRMBS_AR=data.frame(Y=as.matrix(forecast_arima_tsRMBS$fitted), date=time(forecast_arima_tsRMBS$x))
+df_tsRMBS_AR['ano']=str_sub(as.character(df_tsRMBS_AR$date),1,4)
+names(df_tsRMBS_AR)[1]<-"Fitted_AR"
+
+df_tsRMBS_AR <- df_tsRMBS_AR %>%
+  group_by(ano) %>%
+  mutate(mes_int = 1:n())
+
+df_tsRMBS_AR <- df_tsRMBS_AR %>%
+  mutate(mes=str_pad(mes_int, 2, pad = "0")) %>%
+  mutate(Anomes_int=as.integer(str_c(ano,mes))) %>%
+  mutate(anomes= str_c(ano,mes)) %>%
+  select(Fitted_AR,Anomes_int,anomes)
+
+
+AcumRMBS<-inner_join(AcumRMBS,df_tsRMBS_AR,by='Anomes_int') 
+AcumRMBS<-inner_join(AcumRMBS,df_tsRMBS_HW,by='Anomes_int')
+AcumRMBS['Dist_HW']<- abs((AcumRMBS$S_qtd^2) - (AcumRMBS$Fitted_HW^2))
+AcumRMBS['Dist_AR']<- abs((AcumRMBS$S_qtd^2) - (AcumRMBS$Fitted_AR^2))
+AcumRMBS['M_modelo']<- factor(ifelse(AcumRMBS$Dist_HW < AcumRMBS$Dist_AR, 'HW','AR'))
+
+
+summary(AcumRMBS)
+#Arima teve melhor Previsão, logo sera o modelo escolhido
