@@ -34,7 +34,7 @@ head(Acum_Manifestacao_Anomes_Full)
 
 summary(Acum_Manifestacao_Anomes_Full)
 
-#Descobre as Macro Regioes
+#Descobre as Manifestações
 data$Manifestacao %>% unique
 
 #Valores totais por Manifestacao
@@ -188,80 +188,100 @@ plot(tsRMVPLN)
 plot(forecast_arima_tsRMVPLN)
 
 
-#Forecast Holt-Winter
+#Forecast Holt-Winter Aditivo
 forecast_hw_tsRMBS <- hw(tsRMBS, seasonal="additive", h=7)
 forecast_hw_tsRMC <- hw(tsRMC, seasonal="additive", h=7)
 forecast_hw_tsRMS <- hw(tsRMS, seasonal="additive", h=7)
 forecast_hw_tsRMSP <- hw(tsRMSP, seasonal="additive", h=7)
 forecast_hw_tsRMVPLN <- hw(tsRMVPLN, seasonal="additive", h=7)
 
+#Forecast Holt-Winter Multipicativo
+forecast_hwm_tsRMBS <- hw(tsRMBS, seasonal="multiplicative", h=7)
+forecast_hwm_tsRMC <- hw(tsRMC, seasonal="multiplicative", h=7)
+forecast_hwm_tsRMS <- hw(tsRMS, seasonal="multiplicative", h=7)
+forecast_hwm_tsRMSP <- hw(tsRMSP, seasonal="multiplicative", h=7)
+forecast_hwm_tsRMVPLN <- hw(tsRMVPLN, seasonal="multiplicative", h=7)
 
 
 
-#Avaliando Resultados
+#Avaliando Resultados Holts Winter
 summary(forecast_hw_tsRMBS)  
+summary(forecast_hwm_tsRMBS)  
 summary(forecast_hw_tsRMC)  
+summary(forecast_hwm_tsRMC)  
 summary(forecast_hw_tsRMS)  
+summary(forecast_hwm_tsRMS)  
 summary(forecast_hw_tsRMSP)  
+summary(forecast_hwm_tsRMSP)  
 summary(forecast_hw_tsRMVPLN)  
-
+summary(forecast_hwm_tsRMVPLN) 
 
 
 #Plots Comparativos Holt Winter
 plot(tsRMBS)
-plot(forecast_hw_tsRMBS) 
+plot(forecast_hw_tsRMBS)
+plot(forecast_hwm_tsRMBS)
 plot(tsRMC)
 plot(forecast_hw_tsRMC) 
+plot(forecast_hwm_tsRMC) 
 plot(tsRMS)
 plot(forecast_hw_tsRMS) 
+plot(forecast_hwm_tsRMS) 
 plot(tsRMSP)
 plot(forecast_hw_tsRMSP) 
+plot(forecast_hwm_tsRMSP)
 plot(tsRMVPLN)
 plot(forecast_hw_tsRMVPLN) 
+plot(forecast_hwm_tsRMVPLN)
 
 
 #Analise AIC
 forecast_hw_tsRMBS['model']
-forecast_arima_tsRMBS$aic
+forecast_arima_tsRMBS$model$aic
 forecast_hw_tsRMC['model']
-forecast_arima_tsRMC$aic
+forecast_arima_tsRMC$model$aic
 forecast_hw_tsRMS['model']
-forecast_arima_tsRMS$aic
+forecast_arima_tsRMS$model$aic
 forecast_hw_tsRMSP['model']
-forecast_arima_tsRMSP$aic
+forecast_arima_tsRMSP$model$aic
 forecast_hw_tsRMVPLN['model']
-forecast_arima_tsRMVPLN$aic
+forecast_arima_tsRMVPLN$model$aic
 
 
 #Analise resultados comparados entre dados, fitted e forecast
 autoplot(tsRMBS,series=" Historical data") +
   autolayer(forecast_hw_tsRMBS$fitted, series="Holt-Winter fitted") +
+  autolayer(forecast_hwm_tsRMBS$fitted, series="Holt-Winter Multiplicative fitted") +
   autolayer(forecast_arima_tsRMBS$fitted, series="Arima fitted") +
   ggtitle("Modelos") +
   theme(plot.title = element_text(size=8))
 autoplot(tsRMC,series=" Historical data") +
   autolayer(forecast_hw_tsRMC$fitted, series="Holt-Winter fitted") +
+  autolayer(forecast_hwm_tsRMC$fitted, series="Holt-Winter Multiplicativefitted") +
   autolayer(forecast_arima_tsRMC$fitted, series="Arima fitted") +
   ggtitle("Modelos") +
   theme(plot.title = element_text(size=8))
 autoplot(tsRMS,series=" Historical data") +
   autolayer(forecast_hw_tsRMS$fitted, series="Holt-Winter fitted") +
+  autolayer(forecast_hwm_tsRMS$fitted, series="Holt-Winter Multiplicative fitted") +
   autolayer(forecast_arima_tsRMS$fitted, series="Arima fitted") +
   ggtitle("Modelos") +
   theme(plot.title = element_text(size=8))
 autoplot(tsRMSP,series=" Historical data") +
   autolayer(forecast_hw_tsRMSP$fitted, series="Holt-Winter fitted") +
+  autolayer(forecast_hwm_tsRMSP$fitted, series="Holt-Winter Multiplicative fitted") +
   autolayer(forecast_arima_tsRMSP$fitted, series="Arima fitted") +
   ggtitle("Modelos") +
   theme(plot.title = element_text(size=8))
 autoplot(tsRMVPLN,series=" Historical data") +
   autolayer(forecast_hw_tsRMVPLN$fitted, series="Holt-Winter fitted") +
+  autolayer(forecast_hwm_tsRMVPLN$fitted, series="Holt-Winter Multiplicative fitted") +
   autolayer(forecast_arima_tsRMVPLN$fitted, series="Arima fitted") +
   ggtitle("Modelos") +
   theme(plot.title = element_text(size=8))
 
 
-#Trandformação Dataframe Forecast HW
+#Transformação Dataframe Forecast HW Aditive
 df_tsRMBS_HW=data.frame(Y=as.matrix(forecast_hw_tsRMBS$fitted), date=time(forecast_hw_tsRMBS$x))
 df_tsRMBS_HW['ano']=str_sub(as.character(df_tsRMBS_HW$date),1,4)
 names(df_tsRMBS_HW)[1]<-"Fitted_HW"
@@ -321,6 +341,70 @@ df_tsRMVPLN_HW <- df_tsRMVPLN_HW %>%
   mutate(Anomes_int=as.integer(str_c(ano,mes))) %>%
   mutate(anomes= str_c(ano,mes)) %>%
   select(Fitted_HW,Anomes_int,anomes)
+
+
+
+#Transformação Dataframe Forecast HW  Multiplicative 
+df_tsRMBS_HWm=data.frame(Y=as.matrix(forecast_hwm_tsRMBS$fitted), date=time(forecast_hwm_tsRMBS$x))
+df_tsRMBS_HWm['ano']=str_sub(as.character(df_tsRMBS_HWm$date),1,4)
+names(df_tsRMBS_HWm)[1]<-"Fitted_HWm"
+df_tsRMBS_HWm <- df_tsRMBS_HWm %>%
+  group_by(ano) %>%
+  mutate(mes_int = 1:n())
+df_tsRMBS_HWm <- df_tsRMBS_HWm %>%
+  mutate(mes=str_pad(mes_int, 2, pad = "0")) %>%
+  mutate(Anomes_int=as.integer(str_c(ano,mes))) %>%
+  mutate(anomes= str_c(ano,mes)) %>%
+  select(Fitted_HWm,Anomes_int,anomes)
+
+df_tsRMC_HWm=data.frame(Y=as.matrix(forecast_hwm_tsRMC$fitted), date=time(forecast_hwm_tsRMC$x))
+df_tsRMC_HWm['ano']=str_sub(as.character(df_tsRMC_HWm$date),1,4)
+names(df_tsRMC_HWm)[1]<-"Fitted_HWm"
+df_tsRMC_HWm <- df_tsRMC_HWm %>%
+  group_by(ano) %>%
+  mutate(mes_int = 1:n())
+df_tsRMC_HWm <- df_tsRMC_HWm %>%
+  mutate(mes=str_pad(mes_int, 2, pad = "0")) %>%
+  mutate(Anomes_int=as.integer(str_c(ano,mes))) %>%
+  mutate(anomes= str_c(ano,mes)) %>%
+  select(Fitted_HWm,Anomes_int,anomes)
+
+df_tsRMS_HWm=data.frame(Y=as.matrix(forecast_hwm_tsRMS$fitted), date=time(forecast_hwm_tsRMS$x))
+df_tsRMS_HWm['ano']=str_sub(as.character(df_tsRMS_HWm$date),1,4)
+names(df_tsRMS_HWm)[1]<-"Fitted_HWm"
+df_tsRMS_HWm <- df_tsRMS_HWm %>%
+  group_by(ano) %>%
+  mutate(mes_int = 1:n())
+df_tsRMS_HWm <- df_tsRMS_HWm %>%
+  mutate(mes=str_pad(mes_int, 2, pad = "0")) %>%
+  mutate(Anomes_int=as.integer(str_c(ano,mes))) %>%
+  mutate(anomes= str_c(ano,mes)) %>%
+  select(Fitted_HWm,Anomes_int,anomes)
+
+
+df_tsRMSP_HWm=data.frame(Y=as.matrix(forecast_hwm_tsRMSP$fitted), date=time(forecast_hwm_tsRMSP$x))
+df_tsRMSP_HWm['ano']=str_sub(as.character(df_tsRMSP_HWm$date),1,4)
+names(df_tsRMSP_HWm)[1]<-"Fitted_HWm"
+df_tsRMSP_HWm <- df_tsRMSP_HWm %>%
+  group_by(ano) %>%
+  mutate(mes_int = 1:n())
+df_tsRMSP_HWm <- df_tsRMSP_HWm %>%
+  mutate(mes=str_pad(mes_int, 2, pad = "0")) %>%
+  mutate(Anomes_int=as.integer(str_c(ano,mes))) %>%
+  mutate(anomes= str_c(ano,mes)) %>%
+  select(Fitted_HWm,Anomes_int,anomes)
+
+df_tsRMVPLN_HWm=data.frame(Y=as.matrix(forecast_hwm_tsRMVPLN$fitted), date=time(forecast_hwm_tsRMVPLN$x))
+df_tsRMVPLN_HWm['ano']=str_sub(as.character(df_tsRMVPLN_HWm$date),1,4)
+names(df_tsRMVPLN_HWm)[1]<-"Fitted_HWm"
+df_tsRMVPLN_HWm <- df_tsRMVPLN_HWm %>%
+  group_by(ano) %>%
+  mutate(mes_int = 1:n())
+df_tsRMVPLN_HWm <- df_tsRMVPLN_HWm %>%
+  mutate(mes=str_pad(mes_int, 2, pad = "0")) %>%
+  mutate(Anomes_int=as.integer(str_c(ano,mes))) %>%
+  mutate(anomes= str_c(ano,mes)) %>%
+  select(Fitted_HWm,Anomes_int,anomes)
 
 
 #Trandformação Dataframe Forecast Arima
@@ -386,36 +470,47 @@ df_tsRMVPLN_AR <- df_tsRMVPLN_AR %>%
 
 
 
+
 #Join e calculo de distancia
 AcumRMBS<-inner_join(AcumRMBS,df_tsRMBS_AR,by='Anomes_int') 
 AcumRMBS<-inner_join(AcumRMBS,df_tsRMBS_HW,by='Anomes_int')
+AcumRMBS<-inner_join(AcumRMBS,df_tsRMBS_HWm,by='Anomes_int')
 AcumRMBS['Dist_HW']<- sqrt((AcumRMBS$S_qtd^2) -(2*AcumRMBS$S_qtd*AcumRMBS$Fitted_HW)   +  (AcumRMBS$Fitted_HW^2))
+AcumRMBS['Dist_HWm']<- sqrt((AcumRMBS$S_qtd^2) -(2*AcumRMBS$S_qtd*AcumRMBS$Fitted_HWm)   +  (AcumRMBS$Fitted_HWm^2))
 AcumRMBS['Dist_AR']<- sqrt((AcumRMBS$S_qtd^2) -(2*AcumRMBS$S_qtd*AcumRMBS$Fitted_AR)   +  (AcumRMBS$Fitted_AR^2))
-AcumRMBS['M_modelo']<- factor(ifelse(AcumRMBS$Dist_HW < AcumRMBS$Dist_AR, 'HW','AR'))
+AcumRMBS['M_modelo']<- factor(ifelse(AcumRMBS$Dist_HW < AcumRMBS$Dist_AR & AcumRMBS$Dist_HW < AcumRMBS$Dist_HWm, 'HW',ifelse(AcumRMBS$Dist_HWm < AcumRMBS$Dist_AR & AcumRMBS$Dist_HWm < AcumRMBS$Dist_HW, 'HWm','AR')))
 
 AcumRMC<-inner_join(AcumRMC,df_tsRMC_AR,by='Anomes_int') 
 AcumRMC<-inner_join(AcumRMC,df_tsRMC_HW,by='Anomes_int')
+AcumRMC<-inner_join(AcumRMC,df_tsRMC_HWm,by='Anomes_int')
 AcumRMC['Dist_HW']<- sqrt((AcumRMC$S_qtd^2) -(2*AcumRMC$S_qtd*AcumRMC$Fitted_HW)   +  (AcumRMC$Fitted_HW^2))
+AcumRMC['Dist_HWm']<- sqrt((AcumRMC$S_qtd^2) -(2*AcumRMC$S_qtd*AcumRMC$Fitted_HWm)   +  (AcumRMC$Fitted_HWm^2))
 AcumRMC['Dist_AR']<- sqrt((AcumRMC$S_qtd^2) -(2*AcumRMC$S_qtd*AcumRMC$Fitted_AR)   +  (AcumRMC$Fitted_AR^2))
-AcumRMC['M_modelo']<- factor(ifelse(AcumRMC$Dist_HW < AcumRMC$Dist_AR, 'HW','AR'))
+AcumRMC['M_modelo']<- factor(ifelse(AcumRMC$Dist_HW < AcumRMC$Dist_AR & AcumRMC$Dist_HW < AcumRMC$Dist_HWm, 'HW',ifelse(AcumRMC$Dist_HWm < AcumRMC$Dist_AR & AcumRMC$Dist_HWm < AcumRMC$Dist_HW ,'HWm','AR')))
 
 AcumRMS<-inner_join(AcumRMS,df_tsRMS_AR,by='Anomes_int') 
 AcumRMS<-inner_join(AcumRMS,df_tsRMS_HW,by='Anomes_int')
+AcumRMS<-inner_join(AcumRMS,df_tsRMS_HWm,by='Anomes_int')
 AcumRMS['Dist_HW']<- sqrt((AcumRMS$S_qtd^2) -(2*AcumRMS$S_qtd*AcumRMS$Fitted_HW)   +  (AcumRMS$Fitted_HW^2))
+AcumRMS['Dist_HWm']<- sqrt((AcumRMS$S_qtd^2) -(2*AcumRMS$S_qtd*AcumRMS$Fitted_HWm)   +  (AcumRMS$Fitted_HWm^2))
 AcumRMS['Dist_AR']<- sqrt((AcumRMS$S_qtd^2) -(2*AcumRMS$S_qtd*AcumRMS$Fitted_AR)   +  (AcumRMS$Fitted_AR^2))
-AcumRMS['M_modelo']<- factor(ifelse(AcumRMS$Dist_HW < AcumRMS$Dist_AR, 'HW','AR'))
+AcumRMS['M_modelo']<- factor(ifelse(AcumRMS$Dist_HW < AcumRMS$Dist_AR & AcumRMS$Dist_HW < AcumRMS$Dist_HWm , 'HW',ifelse(AcumRMS$Dist_HWm < AcumRMS$Dist_AR & AcumRMS$Dist_HWm < AcumRMS$Dist_HW,'HWm','AR')))
 
 AcumRMSP<-inner_join(AcumRMSP,df_tsRMSP_AR,by='Anomes_int') 
 AcumRMSP<-inner_join(AcumRMSP,df_tsRMSP_HW,by='Anomes_int')
+AcumRMSP<-inner_join(AcumRMSP,df_tsRMSP_HWm,by='Anomes_int')
 AcumRMSP['Dist_HW']<- sqrt((AcumRMSP$S_qtd^2) -(2*AcumRMSP$S_qtd*AcumRMSP$Fitted_HW)   +  (AcumRMSP$Fitted_HW^2))
+AcumRMSP['Dist_HWm']<- sqrt((AcumRMSP$S_qtd^2) -(2*AcumRMSP$S_qtd*AcumRMSP$Fitted_HWm)   +  (AcumRMSP$Fitted_HWm^2))
 AcumRMSP['Dist_AR']<- sqrt((AcumRMSP$S_qtd^2) -(2*AcumRMSP$S_qtd*AcumRMSP$Fitted_AR)   +  (AcumRMSP$Fitted_AR^2))
-AcumRMSP['M_modelo']<- factor(ifelse(AcumRMSP$Dist_HW < AcumRMSP$Dist_AR, 'HW','AR'))
+AcumRMSP['M_modelo']<- factor(ifelse(AcumRMSP$Dist_HW < AcumRMSP$Dist_AR & AcumRMSP$Dist_HW < AcumRMSP$Dist_HWm, 'HW',ifelse(AcumRMSP$Dist_HWm < AcumRMSP$Dist_AR & AcumRMSP$Dist_HWm < AcumRMSP$Dist_HW,'HWm','AR')))
 
 AcumRMVPLN<-inner_join(AcumRMVPLN,df_tsRMVPLN_AR,by='Anomes_int') 
 AcumRMVPLN<-inner_join(AcumRMVPLN,df_tsRMVPLN_HW,by='Anomes_int')
+AcumRMVPLN<-inner_join(AcumRMVPLN,df_tsRMVPLN_HWm,by='Anomes_int')
 AcumRMVPLN['Dist_HW']<- sqrt((AcumRMVPLN$S_qtd^2) -(2*AcumRMVPLN$S_qtd*AcumRMVPLN$Fitted_HW)   +  (AcumRMVPLN$Fitted_HW^2))
+AcumRMVPLN['Dist_HWm']<- sqrt((AcumRMVPLN$S_qtd^2) -(2*AcumRMVPLN$S_qtd*AcumRMVPLN$Fitted_HWm)   +  (AcumRMVPLN$Fitted_HWm^2))
 AcumRMVPLN['Dist_AR']<- sqrt((AcumRMVPLN$S_qtd^2) -(2*AcumRMVPLN$S_qtd*AcumRMVPLN$Fitted_AR)   +  (AcumRMVPLN$Fitted_AR^2))
-AcumRMVPLN['M_modelo']<- factor(ifelse(AcumRMVPLN$Dist_HW < AcumRMVPLN$Dist_AR, 'HW','AR'))
+AcumRMVPLN['M_modelo']<- factor(ifelse(AcumRMVPLN$Dist_HW < AcumRMVPLN$Dist_AR & AcumRMVPLN$Dist_HW < AcumRMVPLN$Dist_HWm, 'HW',ifelse(AcumRMVPLN$Dist_HWm < AcumRMVPLN$Dist_AR & AcumRMVPLN$Dist_HWm < AcumRMVPLN$Dist_HW,'HWm','AR')))
 
 
 #Analise Final e escolha de modelos
